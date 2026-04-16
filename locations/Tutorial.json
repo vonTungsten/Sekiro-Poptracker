@@ -1,0 +1,138 @@
+[
+    {
+        "name": "Tutorial",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Ledge after Miniboss",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Fistful of Ash",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tutorial",
+                        "x": 500,
+                        "y": 240,
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Starting Well",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Ornamental Letter",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tutorial",
+                        "x": 790,
+                        "y": 680,
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Leader Shigenori Yamauchi",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pellet",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tutorial",
+                        "x": 420,
+                        "y": 220,
+                        "size": 12,
+                    }
+                ]
+            },
+            {
+                "name": "Moonview-Tower, upper floor",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pellet",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tutorial",
+                        "x": 80,
+                        "y": 660,
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Ledge after Bridge",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pellet",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tutorial",
+                        "x": 800,
+                        "y": 280,
+                        "size": 12
+                    }
+                ]
+            },
+        ]
+    }
+]

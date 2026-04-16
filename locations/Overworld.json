@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Overworld",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Tutorial",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Fistful of Ash - ledge after miniboss",
+                        "ref": "Tutorial/Fistful of Ash/ledge after miniboss"
+                    },
+                    {
+                        "name": "Ornamental Letter - starting well",
+                        "ref": "Tutorial/Ornamental Letter/starting well"
+                    },
+                    {
+                        "name": "Pellet - miniboss drop",
+                        "ref": "Tutorial/Pellet/miniboss drop"
+                    },
+                    {
+                        "name": "Pellet - moon-view tower, upper floor",
+                        "ref": "Tutorial/Pellet/moon-view tower, upper floor"
+                    },
+                    {
+                        "name": "Pellet - ledge under bridge",
+                        "ref": "Tutorial/Pellet/ledge under bridge"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1504,
+                        "y": 654,
+                        "size": 6
+                    }
+                ]
+            }
+        ]
+    }
+]

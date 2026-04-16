@@ -1,0 +1,7 @@
+LOCATION_MAPPING = {
+	[1] = {"@Tutorial/Fistful of Ash/ledge after miniboss"},
+	[2] = {"@Tutorial/Ornamental Letter/starting well"},
+	[3] = {"@Tutorial/Pellet/miniboss drop"},
+	[4] = {"@Tutorial/Pellet/moon-view tower, upper floor"},
+	[5] = {"@Tutorial/Pellet/ledge under bridge"},
+}

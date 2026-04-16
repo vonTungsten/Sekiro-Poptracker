@@ -1,0 +1,66 @@
+{
+    "tabbed_maps_horizontal": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Tutorial",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Tutorial"
+                    ]
+                }
+            },
+            {
+                "title": "Dilapidated Temple",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "DT"
+                    ]
+                }
+            },
+            {
+                "title": "Ashina Outskirts",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Ashina Outskirts"
+                    ]
+                }
+            }
+        ]
+    },
+    "tabbed_maps_vertical": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Tutorial",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Tutorial"
+                    ]
+                }
+            },
+            {
+                "title": "Dilapidated Temple",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "DT"
+                    ]
+                }
+            },
+            {
+                "title": "Ashina Outskirts",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Ashina Outskirts"
+                    ]
+                }
+            }
+        ]
+    }
+}

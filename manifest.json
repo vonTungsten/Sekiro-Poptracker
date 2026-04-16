@@ -1,0 +1,22 @@
+{
+    "name": "Sekiro: Shadows Die Twice Archipelago",
+    "game_name": "Sekiro: Shadows Die Twice",
+    "package_version": "0.0.1",
+    "package_uid": "sekiro: shadows die twice_ap",
+    "author": "builder_script",
+    "variants": {
+        "Map Tracker": {
+            "display_name": "Map Tracker",
+            "flags": [
+                "ap"
+            ]
+        },
+        "Items Only": {
+            "display_name": "Items Only",
+            "flags": [
+                "ap"
+            ]
+        }
+    },
+    "min_poptracker_version": "0.31.0"
+}
