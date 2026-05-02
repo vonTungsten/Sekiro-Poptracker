@@ -1,0 +1,32 @@
+Tutorial:
+
+
+	v0.1.0:
+
+		- [1] = {"@Tutorial/Fistful of Ash/ledge after miniboss"},
+		- [2] = {"@Tutorial/Ornamental Letter/starting well"},
+		- [3] = {"@Tutorial/Pellet/miniboss drop"},
+		- [4] = {"@Tutorial/Pellet/moon-view tower, upper floor"},
+		- [5] = {"@Tutorial/Pellet/ledge under bridge"},
+
+
+Pre-invasion:
+
+
+	v0.1.0:
+
+		- [245] = {"@Ashina Reservoir/Bundled Jizo Statue/moon-view tower, red balcony"},
+		- [246] = {"@Ashina Reservoir/Ceramic Shard/gatehouse, below"},
+		- [247] = {"@Ashina Reservoir/Fistful of Ash/stairs leading to gatehouse"},
+		- [248] = {"@Ashina Reservoir/Gyoubus Broken Horn/gatehouse, chest"},
+		- [249] = {"@Ashina Reservoir/Heavy Coin Purse/door left of Secret Passage entrance"},
+		- [250] = {"@Ashina Reservoir/Heavy Coin Purse/gatehouse, next to chest"},
+		- [251] = {"@Ashina Reservoir/Mibu Balloon of Soul/underwater, starting well"},
+		- [252] = {"@Ashina Reservoir/Mibu Balloon of Spirit/in the moat"},
+		- [253] = {"@Ashina Reservoir/Pellet/broken cart in yard"},
+		- [254] = {"@Ashina Reservoir/Prayer Bead/moon-view tower, miniboss drop"},
+		- [255] = {"@Ashina Reservoir/Prayer Bead/starting well, miniboss drop"},
+		- [256] = {"@Ashina Reservoir/Scrap Iron/door left of Secret Passage entrance"},
+		- [257] = {"@Ashina Reservoir/Scrap Iron/starting well, ledge above water"},
+		- [258] = {"@Ashina Reservoir/Scrap Iron/tree beside moon-view tower"},
+		- [259] = {"@Ashina Reservoir/Scrap Magnetite/starting well, miniboss drop"},
