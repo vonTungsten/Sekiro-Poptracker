@@ -1,0 +1,15 @@
+
+
+	v0.1.0:
+
+		- [6] = {"@Dilapidated Temple/Ashina Sake/Emma after healing Sculptors dragonrot"},
+		- [7] = {"@Dilapidated Temple/Gourd Seed/Fujioka the Info Broker"},
+		- [8] = {"@Dilapidated Temple/Hidden Tooth/complete Hanbeis quest"},
+		- [9] = {"@Dilapidated Temple/Light Coin Purse/behind DT"},
+		- [10] = {"@Dilapidated Temple/Pellet/next to idol"},
+		- [11] = {"@Dilapidated Temple/Prosthetic Esoteric Text/talk to Sculptor with 3 prosthetic tools"},
+		- [12] = {"@Dilapidated Temple/Sabimaru Memo/Fujioka the Info Broker"},
+		- [13] = {"@Dilapidated Temple/Shinobi Esoteric Text/talk to Sculptor with 1 skill point"},
+		- [14] = {"@Dilapidated Temple/Shinobi Prosthetic/complete Tutorial"},
+		- [15] = {"@Dilapidated Temple/Three-story Pagoda Memo/Fujioka the Info Broker"},
+		- [16] = {"@Dilapidated Temple/Valley Apparitions Memo/Fujioka after boss killed in Guardian Apes Burrow"},
