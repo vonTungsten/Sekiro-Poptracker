@@ -1,83 +1,70 @@
+Itemlist_AO:
 
-
-	v0.1.0:
-
-		- [17] = {"@Ashina Outskirts/Akos Spiritfall/headless cave, miniboss drop"},
-		- [18] = {"@Ashina Outskirts/Akos Sugar/castle gate courtyard, cliffside, behind wall"},
-		- [19] = {"@Ashina Outskirts/Akos Sugar/fortress, along left outer wall from idol"},
-		- [20] = {"@Ashina Outskirts/Akos Sugar/right cliff from Outskirts idol, wall cave"},
-		- [21] = {"@Ashina Outskirts/Antidote Powder/lookout building, right room"},
-		- [22] = {"@Ashina Outskirts/Ashina Esoteric Text/Tengu after killing rats"},
-		- [23] = {"@Ashina Outskirts/Black Gunpowder/right cobblestone platform, enemy drop"},
-		- [24] = {"@Ashina Outskirts/Black Gunpowder/Tengu rat quest, enemy drop"},
-		- [25] = {"@Ashina Outskirts/Bundled Jizo Statue/cave beneath wide gate house"},
-		- [26] = {"@Ashina Outskirts/Ceramic Shard/base of stairs after Ashina Castle Gate idol"},
-		- [27] = {"@Ashina Outskirts/Ceramic Shard/before stairs next to Tengu Tower"},
-		- [28] = {"@Ashina Outskirts/Ceramic Shard/destroyed house, second floor"},
-		- [29] = {"@Ashina Outskirts/Ceramic Shard/fortress, courtyard outside house"},
-		- [30] = {"@Ashina Outskirts/Ceramic Shard/left of Gate Path idol"},
-		- [31] = {"@Ashina Outskirts/Ceramic Shard/lookout building, left room"},
-		- [32] = {"@Ashina Outskirts/Ceramic Shard/right cliff from Outskirts idol, near broken wall"},
-		- [33] = {"@Ashina Outskirts/Ceramic Shard/under branch on lower path at area start"},
-		- [34] = {"@Ashina Outskirts/Divine Confetti/slope before headless warning sign"},
-		- [35] = {"@Ashina Outskirts/Divine Grass/lookout building, right room"},
-		- [36] = {"@Ashina Outskirts/Fistful of Ash/fortress, near dead horse"},
-		- [37] = {"@Ashina Outskirts/Fistful of Ash/castle gate courtyard, corner house at tree"},
-		- [38] = {"@Ashina Outskirts/Fistful of Ash/cliff courtyard, broken hut"},
-		- [39] = {"@Ashina Outskirts/Fistful of Ash/boss arena"},
-		- [40] = {"@Ashina Outskirts/Fistful of Ash/right of gate leading to Gate Path idol"},
-		- [41] = {"@Ashina Outskirts/Flame Barrel Memo/Anayama"},
-		- [42] = {"@Ashina Outskirts/Gachiins Sugar/after shimmy on way to headless cave"},
-		- [43] = {"@Ashina Outskirts/Gachiins Sugar/house with headless cave shortcut"},
-		- [44] = {"@Ashina Outskirts/Gachiins Sugar/fortress, left of idol"},
-		- [45] = {"@Ashina Outskirts/Gachiins Sugar/below cave beneath wide gate house"},
-		- [46] = {"@Ashina Outskirts/Gachiins Sugar/tree near Ashina Castle entrance walls"},
-		- [47] = {"@Ashina Outskirts/Gourd Seed/Battlefield Memorial Mob"},
-		- [48] = {"@Ashina Outskirts/Gourd Seed/cliff courtyard, miniboss drop"},
-		- [49] = {"@Ashina Outskirts/Gourd Seed/lookout building, left room"},
-		- [50] = {"@Ashina Outskirts/Heavy Coin Purse/fortress, courtyard house bottom floor"},
-		- [51] = {"@Ashina Outskirts/Herb Catalogue Scrap/fortress, near idol, enemy drop"},
-		- [52] = {"@Ashina Outskirts/Light Coin Purse/destroyed house, roof"},
-		- [53] = {"@Ashina Outskirts/Light Coin Purse/room under Inosukes Mother #1"},
-		- [54] = {"@Ashina Outskirts/Light Coin Purse/room under Inosukes Mother #2"},
-		- [55] = {"@Ashina Outskirts/Light Coin Purse/room under Inosukes Mother #3"},
-		- [56] = {"@Ashina Outskirts/Light Coin Purse/Tengu Tower, second floor"},
-		- [57] = {"@Ashina Outskirts/Light Coin Purse/building in castle gate courtyard, top floor"},
-		- [58] = {"@Ashina Outskirts/Mechanical Barrel/boss arena, boss drop"},
-		- [59] = {"@Ashina Outskirts/Memory/Gyoubu Oniwa"},
-		- [60] = {"@Ashina Outskirts/Mibu Balloon of Wealth/destroyed house, first floor"},
-		- [61] = {"@Ashina Outskirts/Mibu Balloon of Wealth/fortress, courtyard house bottom floor"},
-		- [62] = {"@Ashina Outskirts/Mibu Balloon of Wealth/left of miniboss before lookout building"},
-		- [63] = {"@Ashina Outskirts/Mibu Possession Balloon/secluded platforms, before snake skin #1"},
-		- [64] = {"@Ashina Outskirts/Mibu Possession Balloon/secluded platforms, before snake skin #2"},
-		- [65] = {"@Ashina Outskirts/Nightjar Monocular/lookout building, grapple entrance"},
-		- [66] = {"@Ashina Outskirts/Oil/Anayama with Flame Barrel"},
-		- [67] = {"@Ashina Outskirts/Pellet/left on lower path at area start"},
-		- [68] = {"@Ashina Outskirts/Pellet/behind cliffside gate"},
-		- [69] = {"@Ashina Outskirts/Pellet/just before Underbridge Valley idol"},
-		- [70] = {"@Ashina Outskirts/Pellet/left above wide gate house"},
-		- [71] = {"@Ashina Outskirts/Pellet/fortress, near doors opened from other side"},
-		- [72] = {"@Ashina Outskirts/Pellet/left of gate to Gate Path idol"},
-		- [73] = {"@Ashina Outskirts/Pellet/Tengu Tower, bottom floor"},
-		- [74] = {"@Ashina Outskirts/Pellet/up stairs, before lookout building miniboss"},
-		- [75] = {"@Ashina Outskirts/Pellet/tree near Tengu rat quest enemy"},
-		- [76] = {"@Ashina Outskirts/Phantom Kunai/Anayama the Peddler"},
-		- [77] = {"@Ashina Outskirts/Prayer Bead/Tengu Tower, top floor chest"},
-		- [78] = {"@Ashina Outskirts/Prayer Bead/courtyard after lookout building, miniboss drop"},
-		- [79] = {"@Ashina Outskirts/Prayer Bead/cliff courtyard, miniboss drop"},
-		- [80] = {"@Ashina Outskirts/Prayer Bead/before lookout building, miniboss drop"},
-		- [81] = {"@Ashina Outskirts/Prayer Bead/Ashina Castle entrance, miniboss drop"},
-		- [82] = {"@Ashina Outskirts/Rat Description/agree to help Tengu"},
-		- [83] = {"@Ashina Outskirts/Roberts Firecrackers/Crows Bed & Battlefield Memorial Mob"},
-		- [84] = {"@Ashina Outskirts/Scrap Iron/courtyard after lookout building"},
-		- [85] = {"@Ashina Outskirts/Scrap Iron/secluded platforms, after snake skin"},
-		- [86] = {"@Ashina Outskirts/Scrap Iron/castle gate courtyard, hidden behind corner house"},
-		- [87] = {"@Ashina Outskirts/Scrap Iron/stone near Ashina Castle entrance walls"},
-		- [88] = {"@Ashina Outskirts/Shinobi Medicine Rank 1/before lookout building, miniboss drop"},
-		- [89] = {"@Ashina Outskirts/Shinobi Medicine Rank 2/Ashina Castle entrance, miniboss drop"},
-		- [90] = {"@Ashina Outskirts/Shuriken Wheel/wide gate house, second floor"},
-		- [91] = {"@Ashina Outskirts/Snap Seed/near palanquin in Underbridge Valley"},
-		- [92] = {"@Ashina Outskirts/Ungos Sugar/broken wall above Ashina Outskirts idol"},
-		- [93] = {"@Ashina Outskirts/Ungos Sugar/fortress, behind house"},
-		- [94] = {"@Ashina Outskirts/Ungos Sugar/gate house before tall grass"},
-		- [95] = {"@Ashina Outskirts/Young Lords Bell Charm/Inosukes Mother"},
+	- [17] AO: Robert's Firecrackers - Crow's Bed & Battlefield Memorial Mob
+	- [18] AO: Gourd Seed - Battlefield Memorial Mob
+	- [19] AO: Phantom Kunai - Anayama the Peddler
+	- [20] AO: Memory: Gyoubu Oniwa
+	- [21] AO: Young Lord's Bell Charm - Inosuke's Mother
+	- [22] AO: Flame Barrel Memo - Anayama
+	- [23] AO: Oil - Anayama with Flame Barrel
+	- [24] AO: Rat Description - agree to help Tengu
+	- [25] AO: Snap Seed - near palanquin in Underbridge Valley
+	- [26] AO: Pellet - left on lower path at area start
+	- [27] AO: Ungo's Sugar - broken wall above Ashina Outskirts idol
+	- [28] AO: Ceramic Shard - under branch on lower path at area start
+	- [29] AO: Ungo's Sugar - gate house before tall grass
+	- [30] AO: Ceramic Shard - right cliff from Outskirts idol, near broken wall
+	- [31] AO: Fistful of Ash - cliff courtyard, broken hut
+	- [32] AO: Pellet - left above wide gate house
+	- [33] AO: Ceramic Shard - destroyed house, second floor
+	- [34] AO: Mibu Balloon of Wealth - destroyed house, first floor
+	- [35] AO: Gachiin's Sugar - below cave beneath wide gate house
+	- [36] AO: Light Coin Purse - room under Inosuke's Mother #1
+	- [37] AO: Light Coin Purse - room under Inosuke's Mother #2
+	- [38] AO: Light Coin Purse - room under Inosuke's Mother #3
+	- [39] AO: Fistful of Ash - right of gate leading to Gate Path idol
+	- [40] AO: Pellet - up stairs, before lookout building miniboss
+	- [41] AO: Mibu Balloon of Wealth - left of miniboss before lookout building
+	- [42] AO: Ceramic Shard - lookout building, left room
+	- [43] AO: Gachiin's Sugar - house with headless cave shortcut
+	- [44] AO: Antidote Powder - lookout building, right room
+	- [45] AO: Divine Grass - lookout building, right room
+	- [46] AO: Pellet - just before Underbridge Valley idol
+	- [47] AO: Ungo's Sugar - fortress, behind house
+	- [48] AO: Heavy Coin Purse - fortress, courtyard house bottom floor
+	- [49] AO: Fistful of Ash - fortress, near dead horse
+	- [50] AO: Pellet - fortress, near doors opened from other side
+	- [51] AO: Ako's Sugar - fortress, along left outer wall from idol
+	- [52] AO: Fistful of Ash - boss arena
+	- [53] AO: Nightjar Monocular - lookout building, grapple entrance
+	- [54] AO: Scrap Iron - courtyard after lookout building
+	- [55] AO: Bundled Jizo Statue - cave beneath wide gate house
+	- [56] AO: Light Coin Purse - destroyed house, roof
+	- [57] AO: Pellet - behind cliffside gate
+	- [58] AO: Ako's Sugar - right cliff from Outskirts idol, wall cave
+	- [59] AO: Pellet - left of gate to Gate Path idol
+	- [60] AO: Ceramic Shard - left of Gate Path idol
+	- [61] AO: Scrap Iron - secluded platforms, after snake skin
+	- [62] AO: Mibu Possession Balloon - secluded platforms, before snake skin #1
+	- [63] AO: Mibu Possession Balloon - secluded platforms, before snake skin #2
+	- [64] AO: Gachiin's Sugar - after shimmy on way to headless cave
+	- [65] AO: Divine Confetti - slope before headless warning sign
+	- [66] AO: Gachiin's Sugar - fortress, left of idol
+	- [67] AO: Ceramic Shard - fortress, courtyard outside house
+	- [68] AO: Mibu Balloon of Wealth - fortress, courtyard house bottom floor
+	- [69] AO: Ceramic Shard - before stairs next to Tengu Tower
+	- [70] AO: Light Coin Purse - Tengu Tower, second floor
+	- [71] AO: Pellet - Tengu Tower, bottom floor
+	- [72] AO: Herb Catalogue Scrap - fortress, near idol, enemy drop
+	- [73] AO: Black Gunpowder - right cobblestone platform, enemy drop
+	- [74] AO: Ako's Spiritfall - headless cave, miniboss drop
+	- [75] AO: Shuriken Wheel - wide gate house, second floor
+	- [76] AO: Shinobi Medicine Rank 1 - before lookout building, miniboss drop
+	- [77] AO: Gourd Seed - cliff courtyard, miniboss drop
+	- [78] AO: Gourd Seed - lookout building, left room
+	- [79] AO: Mechanical Barrel - boss arena, boss drop
+	- [80] AO: Prayer Bead - cliff courtyard, miniboss drop
+	- [81] AO: Prayer Bead - before lookout building, miniboss drop
+	- [82] AO: Prayer Bead - courtyard after lookout building, miniboss drop
+	- [83] AO: Prayer Bead - Tengu Tower, top floor chest
+	- [84] AO: Ashina Esoteric Text - Tengu after killing rats
