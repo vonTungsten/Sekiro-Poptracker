@@ -1,71 +1,71 @@
-v0.1.0:
+Itemlist_HE1:
 
-    - [96] = {"@Hirata Estate 1/Akos Sugar/Estate Path, first compound along right wall"},
-	- [97] = {"@Hirata Estate 1/Antidote Powder/talk to woman inside unpillaged house"},
-	- [98] = {"@Hirata Estate 1/Bulging Coin Purse/side path before cave, enemy drop"},
-	- [99] = {"@Hirata Estate 1/Bundled Jizo Statue/bamboo path behind Anayama"},
-	- [100] = {"@Hirata Estate 1/Ceramic Shard/beside Estate Path idol"},
-	- [101] = {"@Hirata Estate 1/Ceramic Shard/bonfire houses, base of tree"},
-	- [102] = {"@Hirata Estate 1/Ceramic Shard/Main Hall, island in the marsh"},
-	- [103] = {"@Hirata Estate 1/Contact Medicine/next to three-story-pagoda entrance tunnel"},
-	- [104] = {"@Hirata Estate 1/Divine Confetti/Audience Chamber, behind shinobi door far left"},
-	- [105] = {"@Hirata Estate 1/Divine Confetti/Main Hall, inside large building before marsh"},
-	- [106] = {"@Hirata Estate 1/Divine Grass/Pot Noble Harunaga"},
-	- [107] = {"@Hirata Estate 1/Dousing Powder/Audience Chamber, left room in left corner"},
-	- [108] = {"@Hirata Estate 1/Dousing Powder/grapple from first archer at Bamboo Thicket Slope"},
-	- [109] = {"@Hirata Estate 1/Dousing Powder/Main Hall, inside large building before marsh"},
-	- [110] = {"@Hirata Estate 1/Dousing Powder/near bandits bonfire"},
-	- [111] = {"@Hirata Estate 1/Dousing Powder/turn around before crossing first bridge"},
-	- [112] = {"@Hirata Estate 1/Fistful of Ash/after Bamboo Thicket Slope bridge on right"},
-	- [113] = {"@Hirata Estate 1/Fistful of Ash/Estate Path, before shortcut door"},
-	- [114] = {"@Hirata Estate 1/Fistful of Ash/after jump at start, beside dying Nightjar"},
-	- [115] = {"@Hirata Estate 1/Fistful of Ash/left of bandits bonfire near tree"},
-	- [116] = {"@Hirata Estate 1/Flame Barrel/near bandits bonfire"},
-	- [117] = {"@Hirata Estate 1/Floating Passage Text/Pot Noble Harunaga"},
-	- [118] = {"@Hirata Estate 1/Gokans Sugar/Estate Path, right after shortcut"},
-	- [119] = {"@Hirata Estate 1/Hidden Temple Key/Owl in burning courtyard"},
-	- [120] = {"@Hirata Estate 1/Lapis Lazuli/Pot Noble Harunagas pot after Truly Precious Bait"},
-	- [121] = {"@Hirata Estate 1/Light Coin Purse/Audience Chamber, behind shinobi door right corner"},
-	- [122] = {"@Hirata Estate 1/Light Coin Purse/Estate Path, left house roof after shortcut"},
-	- [123] = {"@Hirata Estate 1/Light Coin Purse/Main Hall, left building after marsh"},
-	- [124] = {"@Hirata Estate 1/Light Coin Purse/rocks near Pot Noble Harunaga"},
-	- [125] = {"@Hirata Estate 1/Light Coin Purse/left of buddha shrine"},
-	- [126] = {"@Hirata Estate 1/Mask Fragment/Right/Pot Noble Harunaga"},
-	- [127] = {"@Hirata Estate 1/Memory/Lady Butterfly"},
-	- [128] = {"@Hirata Estate 1/Mibu Balloon of Soul/Audience Chamber, room left of idol"},
-	- [129] = {"@Hirata Estate 1/Mibu Balloon of Soul/side path before cave"},
-	- [130] = {"@Hirata Estate 1/Mibu Balloon of Wealth/Audience Chamber, straight behind shinobi door"},
-	- [131] = {"@Hirata Estate 1/Mibu Balloon of Wealth/near bandits bonfire"},
-	- [132] = {"@Hirata Estate 1/Mibu Possession Balloon/boat near Pot Noble Harunaga"},
-	- [133] = {"@Hirata Estate 1/Mibu Possession Balloon/left of gate to Bamboo Thicket Slope idol"},
-	- [134] = {"@Hirata Estate 1/Mibu Possession Balloon/side path before cave, crouch opening"},
-	- [135] = {"@Hirata Estate 1/Mist Ravens Feathers/three-story pagoda"},
-	- [136] = {"@Hirata Estate 1/Oil/Audience Chamber, left hallway before shinobi door"},
-	- [137] = {"@Hirata Estate 1/Oil/before Bamboo Thicket Slope bridge"},
-	- [138] = {"@Hirata Estate 1/Oil/Main Hall, between well and idol"},
-	- [139] = {"@Hirata Estate 1/Pellet/Audience Chamber, left room on far wall"},
-	- [140] = {"@Hirata Estate 1/Pellet/behind start"},
-	- [141] = {"@Hirata Estate 1/Pellet/Estate Path, first compound, inside largest house"},
-	- [142] = {"@Hirata Estate 1/Pellet/Estate Path, left house after shortcut near well"},
-	- [143] = {"@Hirata Estate 1/Pellet/near bandits bonfire"},
-	- [144] = {"@Hirata Estate 1/Pellet/right of gate to Bamboo Thicket Slope idol"},
-	- [145] = {"@Hirata Estate 1/Pellet/side path before cave"},
-	- [146] = {"@Hirata Estate 1/Prayer Bead/Audience Chamber, chest behind shinobi door"},
-	- [147] = {"@Hirata Estate 1/Prayer Bead/before Bamboo Thicket Slope, miniboss drop"},
-	- [148] = {"@Hirata Estate 1/Prayer Bead/Main Hall, miniboss drop"},
-	- [149] = {"@Hirata Estate 1/Sakura Droplet/Hidden Temple, boss drop"},
-	- [150] = {"@Hirata Estate 1/Scrap Iron/guarding three-story pagoda, enemy drop"},
-	- [151] = {"@Hirata Estate 1/Shinobi Axe of the Monkey/buddha shrine"},
-	- [152] = {"@Hirata Estate 1/Snap Seed/Audience Chamber, Inosuke"},
-	- [153] = {"@Hirata Estate 1/Treasure Carp Scale/behind rock before crossing first bridge"},
-	- [154] = {"@Hirata Estate 1/Treasure Carp Scale/near bridge, Carp drop"},
-	- [155] = {"@Hirata Estate 1/Treasure Carp Scale/near Pot Noble Harunaga, Carp drop"},
-	- [156] = {"@Hirata Estate 1/Treasure Carp Scale/under Bamboo Thicket Slope bridge, Carp drop"},
-	- [157] = {"@Hirata Estate 1/Treasure Carp Scale/underwater, Dragonspring Lake, Carp drop #1"},
-	- [158] = {"@Hirata Estate 1/Treasure Carp Scale/underwater, Dragonspring Lake, Carp drop #2"},
-	- [159] = {"@Hirata Estate 1/Treasure Carp Scale/underwater, under Bamboo Thicket Slope bridge, Carp drop"},
-	- [160] = {"@Hirata Estate 1/Truly Precious Bait/Pot Noble Harunaga after trading 6 scales"},
-	- [161] = {"@Hirata Estate 1/Ungos Sugar/Estate Path, left big house after shortcut"},
-	- [162] = {"@Hirata Estate 1/Ungos Sugar/left of Estate Path, over wall"},
-	- [163] = {"@Hirata Estate 1/Unrefined Sake/Main Hall, miniboss drop"},
-	- [164] = {"@Hirata Estate 1/Withered Red Gourd/Pot Noble Harunaga"},
+    - [96] HE1: Floating Passage Text - Pot Noble Harunaga
+    - [97] HE1: Divine Grass - Pot Noble Harunaga
+    - [98] HE1: Withered Red Gourd - Pot Noble Harunaga
+    - [99] HE1: Mask Fragment: Right - Pot Noble Harunaga
+    - [100] HE1: Memory: Lady Butterfly
+    - [101] HE1: Hidden Temple Key - Owl
+    - [102] HE1: Snap Seed - Audience Chamber, Inosuke
+    - [103] HE1: Antidote Powder - Estate Path shortcut, second right courtyard, NPC
+    - [104] HE1: Truly Precious Bait - Pot Noble Harunaga after trading 6 scales
+    - [105] HE1: Lapis Lazuli - Pot Noble Harunaga after Truly Precious Bait
+    - [106] HE1: Pellet - behind start
+    - [107] HE1: Dousing Powder - before first bridge
+    - [108] HE1: Mibu Possession Balloon - boat near Pot Noble Harunaga
+    - [109] HE1: Light Coin Purse - by Pot Noble Harunaga
+    - [110] HE1: Ungo's Sugar - left of Estate Path, over wall
+    - [111] HE1: Ako's Sugar - Estate Path, first compound, along right wall
+    - [112] HE1: Pellet - Estate Path, first compound, largest house
+    - [113] HE1: Ceramic Shard - bonfire houses, base of tree
+    - [114] HE1: Fistful of Ash - Estate Path, before shortcut door
+    - [115] HE1: Fistful of Ash - tree near bonfire
+    - [116] HE1: Pellet - Estate Path shortcut, first left compound, well
+    - [117] HE1: Light Coin Purse - Estate Path shortcut, first right courtyard, house
+    - [118] HE1: Ungo's Sugar - Estate Path shortcut, first left courtyard, house
+    - [119] HE1: Oil - before Bamboo Thicket Slope bridge
+    - [120] HE1: Mibu Possession Balloon - side path before cave, crouch opening
+    - [121] HE1: Dousing Powder - Bamboo Thicket Slope, grapple from first ledge
+    - [122] HE1: Dousing Powder - Main Hall, large building before marsh
+    - [123] HE1: Divine Confetti - Main Hall, large building before marsh
+    - [124] HE1: Light Coin Purse - Main Hall, left building after marsh
+    - [125] HE1: Dousing Powder - Audience Chamber, left room
+    - [126] HE1: Pellet - Audience Chamber, left room
+    - [127] HE1: Light Coin Purse - Estate Path shortcut, first left courtyard, roof
+    - [128] HE1: Pellet - bonfire
+    - [129] HE1: Fistful of Ash - before first bridge, dying Nightjar
+    - [130] HE1: Ceramic Shard - Main Hall, island in the marsh
+    - [131] HE1: Treasure Carp Scale - behind rock before first bridge
+    - [132] HE1: Ceramic Shard - Estate Path, beside idol
+    - [133] HE1: Mibu Balloon of Wealth - bonfire
+    - [134] HE1: Dousing Powder - bonfire
+    - [135] HE1: Gokan's Sugar - Estate Path shortcut, gate
+    - [136] HE1: Mibu Balloon of Soul - side path before cave
+    - [137] HE1: Bundled Jizo Statue - bamboo path behind Anayama
+    - [138] HE1: Pellet - right of gate to Bamboo Thicket Slope idol
+    - [139] HE1: Mibu Possession Balloon - left of gate to Bamboo Thicket Slope idol
+    - [140] HE1: Fistful of Ash - after Bamboo Thicket Slope bridge
+    - [141] HE1: Contact Medicine - by tunnel to three-story pagoda
+    - [142] HE1: Pellet - side path before cave
+    - [143] HE1: Oil - Main Hall, between well and idol
+    - [144] HE1: Oil - Audience Chamber, left hallway before shinobi door
+    - [145] HE1: Divine Confetti - Audience Chamber, shinobi door
+    - [146] HE1: Light Coin Purse - Audience Chamber, shinobi door
+    - [147] HE1: Mibu Balloon of Wealth - Audience Chamber, shinobi door
+    - [148] HE1: Mibu Balloon of Soul - Audience Chamber, room left of idol
+    - [149] HE1: Unrefined Sake - Main Hall, miniboss drop
+    - [150] HE1: Bulging Coin Purse - side path before cave, enemy drop
+    - [151] HE1: Scrap Iron - three-story pagoda, enemy drop
+    - [152] HE1: Treasure Carp Scale - near first bridge, Carp drop
+    - [153] HE1: Treasure Carp Scale - near Pot Noble Harunaga, Carp drop
+    - [154] HE1: Treasure Carp Scale - under Bamboo Thicket Slope bridge, Carp drop
+    - [155] HE1: Treasure Carp Scale - underwater, under Bamboo Thicket Slope bridge, Carp drop
+    - [156] HE1: Treasure Carp Scale - underwater, Dragonspring Lake, Carp drop #1
+    - [157] HE1: Treasure Carp Scale - underwater, Dragonspring Lake, Carp drop #2
+    - [158] HE1: Flame Barrel - bonfire
+    - [159] HE1: Shinobi Axe of the Monkey - Estate Path shortcut, first right courtyard, shrine
+    - [160] HE1: Mist Raven's Feathers - three-story pagoda
+    - [161] HE1: Sakura Droplet - boss drop
+    - [162] HE1: Prayer Bead - before Bamboo Thicket Slope, miniboss drop
+    - [163] HE1: Prayer Bead - Main Hall, miniboss drop
+    - [164] HE1: Prayer Bead - Audience Chamber, shinobi door chest
