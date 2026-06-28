@@ -1,82 +1,99 @@
-v0.1.0:
+Itemlist_AC:
+    
 
-    - [165] = {"@Ashina Castle/Akos Sugar/any Old Praying Woman, pop 2 balloons"},
-	- [166] = {"@Ashina Castle/Akos Sugar/upper tower, map room"},
-	- [167] = {"@Ashina Castle/Anti-air Deathblow Text/Blackhat Badger"},
-	- [168] = {"@Ashina Castle/Black Gunpowder/destroyed bridge to AO"},
-	- [169] = {"@Ashina Castle/Black Gunpowder/outside building at AD entrance"},
-	- [170] = {"@Ashina Castle/Bloodsmoke Ninjutsu/upper tower roof, boss drop"},
-	- [171] = {"@Ashina Castle/Ceramic Shard/birds nest on roof above Fujiokas pursuers"},
-	- [172] = {"@Ashina Castle/Ceramic Shard/birds nest before Antechamber idol"},
-	- [173] = {"@Ashina Castle/Ceramic Shard/Old Grave, courtyard near Blackhat Badger"},
-	- [174] = {"@Ashina Castle/Ceramic Shard/area right of main stairway, near Fujiokas pursuers"},
-	- [175] = {"@Ashina Castle/Ceramic Shard/right of stairway to Ashina Dojo idol"},
-	- [176] = {"@Ashina Castle/Divine Confetti/any Old Praying Woman, pop 3 balloons"},
-	- [177] = {"@Ashina Castle/Divine Grass/main stairway, chest at top"},
-	- [178] = {"@Ashina Castle/Dragons Blood Droplet/Old Grave, near graves"},
-	- [179] = {"@Ashina Castle/Eel Liver/Ashina Dojo"},
-	- [180] = {"@Ashina Castle/Eel Liver/basement, side room with chest"},
-	- [181] = {"@Ashina Castle/Eel Liver/Isshins Dojo"},
-	- [182] = {"@Ashina Castle/Eel Liver/small shrine across from Great Serpent Shrine"},
-	- [183] = {"@Ashina Castle/Fistful of Ash/courtyard right of Ashina Castle idol"},
-	- [184] = {"@Ashina Castle/Fistful of Ash/between window and Antechamber idol"},
-	- [185] = {"@Ashina Castle/Fistful of Ash/Old Grave, courtyard near Blackhat Badger building"},
-	- [186] = {"@Ashina Castle/Fragrant Flower Note/talk to Kuro about flower"},
-	- [187] = {"@Ashina Castle/Gachiins Sugar/upper tower, rafters"},
-	- [188] = {"@Ashina Castle/Gachiins Sugar/birds nest on roof near Isshins watchtower"},
-	- [189] = {"@Ashina Castle/Gachiins Sugar/Old Grave, birds nest close to idol"},
-	- [190] = {"@Ashina Castle/Gachiins Sugar/Old Grave, courtyard near Blackhat Badger building"},
-	- [191] = {"@Ashina Castle/Gatehouse Key/bridge leading to AD, enemy drop"},
-	- [192] = {"@Ashina Castle/Gokans Sugar/basement, side room with chest"},
-	- [193] = {"@Ashina Castle/Gokans Sugar/Ashina Dojo idol room"},
-	- [194] = {"@Ashina Castle/Gourd Seed/chest near Antechamber idol"},
-	- [195] = {"@Ashina Castle/Gun Fort Shrine Key/library in Kuros Room after talking to Isshin"},
-	- [196] = {"@Ashina Castle/Heavy Coin Purse/before Serpent Shrine bridge, enemy drop"},
-	- [197] = {"@Ashina Castle/Heavy Coin Purse/underwater, near headless in rear moat #1"},
-	- [198] = {"@Ashina Castle/Heavy Coin Purse/underwater, near headless in rear moat #2"},
-	- [199] = {"@Ashina Castle/Heavy Coin Purse/underwater, near headless in rear moat #3"},
-	- [200] = {"@Ashina Castle/Heavy Coin Purse/upper tower, past shinobi door"},
-	- [201] = {"@Ashina Castle/Heavy Coin Purse/wagon before Dungeon Memorial Mob"},
-	- [202] = {"@Ashina Castle/Immortal Severance Scrap/talk to Emma after Kuro"},
-	- [203] = {"@Ashina Castle/Immortal Severance Text/talk to Kuro"},
-	- [204] = {"@Ashina Castle/Iron Fortress/Blackhat Badger"},
-	- [205] = {"@Ashina Castle/Isshins Letter/Isshins watchtower before upper tower roof boss"},
-	- [206] = {"@Ashina Castle/Light Coin Purse/birds nest below upper tower roof grapple"},
-	- [207] = {"@Ashina Castle/Light Coin Purse/left in house before bridge to AD"},
-	- [208] = {"@Ashina Castle/Light Coin Purse/Old Grave, courtyard near Blackhat Badger building"},
-	- [209] = {"@Ashina Castle/Light Coin Purse/upper tower, past shinobi door"},
-	- [210] = {"@Ashina Castle/Memory/Genichiro"},
-	- [211] = {"@Ashina Castle/Mibu Balloon of Spirit/room before Serpent Shrine idol"},
-	- [212] = {"@Ashina Castle/Mibu Balloon of Wealth/main stairway, alcove on right near end"},
-	- [213] = {"@Ashina Castle/Mibu Balloon of Wealth/stairway to Ashina Dojo idol"},
-	- [214] = {"@Ashina Castle/Mibu Possession Balloon/end of Serpent Shrine bridge"},
-	- [215] = {"@Ashina Castle/Mibu Possession Balloon/left from Ashina Castle idol and through building"},
-	- [216] = {"@Ashina Castle/Mibu Possession Balloon/under Serpent Shrine bridge"},
-	- [217] = {"@Ashina Castle/Mibu Possession Balloon/underwater, near Serpent Shrine bridge"},
-	- [218] = {"@Ashina Castle/Nightjar Beacon Memo/Fujioka after killing his pursuers"},
-	- [219] = {"@Ashina Castle/Okamis Ancient Text/show Lotus of the Palace to Kuro"},
-	- [220] = {"@Ashina Castle/Pages Diary/talk to Kuro after agreeing to Immortal Severance"},
-	- [221] = {"@Ashina Castle/Pellet/Ashina Dojo, side room"},
-	- [222] = {"@Ashina Castle/Pellet/before AR gate"},
-	- [223] = {"@Ashina Castle/Pellet/birds nest before grappling to main castle roof"},
-	- [224] = {"@Ashina Castle/Pellet/Isshins dojo, stairs to Isshin"},
-	- [225] = {"@Ashina Castle/Pellet/upper tower, corner room near map"},
-	- [226] = {"@Ashina Castle/Prayer Bead/Ashina Dojo, miniboss drop"},
-	- [227] = {"@Ashina Castle/Prayer Bead/main stairway, miniboss drop"},
-	- [228] = {"@Ashina Castle/Prayer Bead/upper tower, chest past shinobi door"},
-	- [229] = {"@Ashina Castle/Sabimaru/basement, chest"},
-	- [230] = {"@Ashina Castle/Scrap Iron/ledge on right overlooking Ashina Castle idol"},
-	- [231] = {"@Ashina Castle/Scrap Iron/left from Ashina Castle idol and through building"},
-	- [232] = {"@Ashina Castle/Scrap Iron/ledge across moat with underwater headless"},
-	- [233] = {"@Ashina Castle/Scrap Iron/upper tower, map room"},
-	- [234] = {"@Ashina Castle/Scrap Magnetite/Ashina Dojo, side room"},
-	- [235] = {"@Ashina Castle/Scrap Magnetite/behind statue in Kuros Room"},
-	- [236] = {"@Ashina Castle/Scrap Magnetite/outside building at AD entrance, enemy drop"},
-	- [237] = {"@Ashina Castle/Sweet Rice Ball/Kuro after Rice for Kuro"},
-	- [238] = {"@Ashina Castle/Treasure Carp Scale/underwater, below Ashina Castle idol"},
-	- [239] = {"@Ashina Castle/Ungos Spiritfall/underwater, miniboss drop"},
-	- [240] = {"@Ashina Castle/Ungos Sugar/any Old Praying Woman, pop 1 balloon"},
-	- [241] = {"@Ashina Castle/Ungos Sugar/birds nest on roof of Blackhat Badger building"},
-	- [242] = {"@Ashina Castle/Ungos Sugar/birds nest on first tower before Antechamber idol"},
-	- [243] = {"@Ashina Castle/Unrefined Sake/ask Isshin about Mortal Blade"},
-	- [244] = {"@Ashina Castle/Yasharikus Sugar/underwater, near headless against castle wall"},
+    - [85] AO: Pellet - tree near Tengu rat quest enemy
+    - [86] AO: Fistful of Ash - castle gate courtyard, corner house at tree
+    - [87] AO: Ako's Sugar - castle gate courtyard, cliffside, behind wall
+    - [88] AO: Light Coin Purse - building in castle gate courtyard, top floor
+    - [89] AO: Ceramic Shard - base of stairs after Ashina Castle Gate idol
+    - [90] AO: Scrap Iron - castle gate courtyard, hidden behind corner house
+    - [91] AO: Scrap Iron - stone near Ashina Castle entrance walls
+    - [92] AO: Gachiin's Sugar - tree near Ashina Castle entrance walls
+    - [94] AO: Shinobi Medicine Rank 2 - Ashina Castle entrance, miniboss drop
+    - [95] AO: Prayer Bead - Ashina Castle entrance, miniboss drop
+    
+    
+    
+    - [165] AC: Prayer Bead - Dungeon Memorial Mob
+    - [166] AC: Mask Fragment: Dragon - Dungeon Memorial Mob
+    - [167] AC: Anti-air Deathblow Text - Blackhat Badger
+    - [168] AC: Memory: Genichiro
+    - [169] AC: Fragrant Flower Note - Kuro
+    - [170] AC: Immortal Severance Text - Kuro
+    - [171] AC: Sweet Rice Ball - Kuro for Rice for Kuro
+    - [172] AC: Page's Diary - Kuro
+    - [173] AC: Okami's Ancient Text - Kuro with Lotus of the Palace
+    - [174] AC: Immortal Severance Scrap - Emma
+    - [175] AC: Unrefined Sake - Isshin
+    - [176] AC: Mushin Esoteric Text - Tengu after unlocking special technique
+    - [177] AC: Ungo's Sugar - any Old Praying Woman, pop 1 balloon
+    - [178] AC: Ako's Sugar - any Old Praying Woman, pop 2 balloons
+    - [179] AC: Divine Confetti - any Old Praying Woman, pop 3 balloons
+    - [180] AC: Nightjar Beacon Memo - Fujioka
+    - [181] AC: Eel Liver - shrine across from serpent shrine
+    - [182] AC: Light Coin Purse - upper tower, shinobi door
+    - [183] AC: Light Coin Purse - house before bridge to AD
+    - [184] AC: Eel Liver - Ashina Dojo
+    - [185] AC: Mibu Possession Balloon - underwater, lake, near bridge
+    - [186] AC: Pellet - bird's nest before grappling to castle roof
+    - [187] AC: Fistful of Ash - courtyard right of Ashina Castle idol
+    - [188] AC: Heavy Coin Purse - wagon by Dungeon Memorial Mob
+    - [189] AC: Gachiin's Sugar - old grave, courtyard near Blackhat Badger
+    - [190] AC: Pellet - upper tower, room near map room
+    - [191] AC: Ako's Sugar - upper tower, map room
+    - [192] AC: Gokan's Sugar - upper tower, Ashina Dojo idol room
+    - [193] AC: Scrap Iron - lake, far ledge
+    - [194] AC: Mibu Balloon of Spirit - serpent shrine
+    - [195] AC: Gachiin's Sugar - old grave, bird's nest close to idol
+    - [196] AC: Mibu Possession Balloon - courtyard near AR entrance
+    - [197] AC: Scrap Magnetite - Kuro's room, behind statue
+    - [198] AC: Eel Liver - Isshin's dojo
+    - [199] AC: Ceramic Shard - area right of main stairway, near Fujioka's pursuers
+    - [200] AC: Mibu Balloon of Wealth - main stairway, alcove near top
+    - [201] AC: Black Gunpowder - outside building at AD entrance
+    - [202] AC: Gokan's Sugar - basement, chest room
+    - [203] AC: Scrap Iron - courtyard near AR entrance
+    - [204] AC: Gachiin's Sugar - upper tower, rafters
+    - [205] AC: Pellet - Isshin's dojo, stairs
+    - [206] AC: Gachiin's Sugar - bird's nest on roof near Isshin's watchtower
+    - [207] AC: Scrap Iron - upper tower, map room
+    - [208] AC: Light Coin Purse - upper tower exterior, birds's nest
+    - [209] AC: Ungo's Sugar - Blackhat Badger building, roof, bird's nest
+    - [210] AC: Scrap Magnetite - Ashina Dojo, side room
+    - [211] AC: Ceramic Shard - old grave, courtyard near Blackhat Badger
+    - [212] AC: Pellet - before AR gate
+    - [213] AC: Ceramic Shard - bird's nest on rooftop path
+    - [214] AC: Heavy Coin Purse - upper tower, shinobi door
+    - [215] AC: Scrap Iron - ledge right of Ashina Castle idol
+    - [216] AC: Treasure Carp Scale - underwater, by Ashina Castle idol
+    - [217] AC: Mibu Possession Balloon - lake, bridge
+    - [218] AC: Heavy Coin Purse - underwater, near headless #1
+    - [219] AC: Heavy Coin Purse - underwater, near headless #2
+    - [220] AC: Yashariku's Sugar - underwater, near headless against castle wall
+    - [221] AC: Mibu Possession Balloon - lake, under bridge
+    - [222] AC: Dragon's Blood Droplet - old grave, near graves
+    - [223] AC: Light Coin Purse - old grave, courtyard near Blackhat Badger
+    - [224] AC: Ceramic Shard - bird's nest before Antechamber idol
+    - [225] AC: Mibu Balloon of Wealth - upper tower, stairs to Ashina Dojo idol
+    - [226] AC: Pellet - Ashina Dojo, side room
+    - [227] AC: Ungo's Sugar - reservoir tower
+    - [228] AC: Ceramic Shard - upper tower, right of stairs to Ashina Dojo idol
+    - [229] AC: Divine Grass - main stairway, chest at top
+    - [230] AC: Black Gunpowder - old grave, destroyed bridge
+    - [231] AC: Isshin's Letter - Isshin's watchtower
+    - [232] AC: Heavy Coin Purse - underwater, near headless #3
+    - [233] AC: Fistful of Ash - old grave, courtyard near Blackhat Badger
+    - [234] AC: Gun Fort Shrine Key - Kuro's library
+    - [235] AC: Fistful of Ash - upper tower, by Antechamber idol
+    - [236] AC: Eel Liver - basement, chest room
+    - [237] AC: Heavy Coin Purse - courtyard before Old Grave idol, enemy drop
+    - [238] AC: Scrap Magnetite - outside building at AD entrance, enemy drop
+    - [239] AC: Ungo's Spiritfall - underwater, headless drop
+    - [240] AC: Gatehouse Key - bridge to AD, enemy drop
+    - [241] AC: Sabimaru - basement, chest
+    - [242] AC: Gourd Seed - upper tower, chest near Antechamber idol
+    - [243] AC: Bloodsmoke Ninjutsu - boss arena, boss drop
+    - [244] AC: Prayer Bead - main stairway, miniboss drop
+    - [245] AC: Prayer Bead - Ashina Dojo, miniboss drop
+    - [246] AC: Prayer Bead - upper tower, shinobi door, chest
+    - [247] AC: Iron Fortress - Blackhat Badger
