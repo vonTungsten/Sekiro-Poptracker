@@ -1,0 +1,26 @@
+Tutorial:
+
+		- [1] T: Pellet - miniboss drop
+		- [2] T: Ornamental Letter - starting well
+		- [3] T: Pellet - moon-view tower, upper floor
+		- [4] T: Pellet - ledge under bridge
+		- [5] T: Fistful of Ash - ledge after miniboss
+
+
+Pre-invasion:
+
+		- [248] AR: Scrap Magnetite - starting well, miniboss drop
+		- [249] AR: Scrap Iron - tree beside moon-view tower
+		- [250] AR: Scrap Iron - starting well, ledge above water
+		- [251] AR: Pellet - broken cart in yard
+		- [252] AR: Ceramic Shard - gatehouse, below
+		- [253] AR: Fistful of Ash - stairs to gatehouse
+		- [254] AR: Scrap Iron - door left of Secret Passage
+		- [255] AR: Heavy Coin Purse - gatehouse, next to chest
+		- [256] AR: Bundled Jizo Statue - moon-view tower, red balcony
+		- [257] AR: Mibu Balloon of Soul - underwater, starting well
+		- [258] AR: Heavy Coin Purse - door left of Secret Passage
+		- [259] AR: Mibu Balloon of Spirit - moat
+		- [260] AR: Gyoubu's Broken Horn - gatehouse, chest
+		- [261] AR: Prayer Bead - moon-view tower, miniboss drop
+		- [262] AR: Prayer Bead - starting well, miniboss drop
