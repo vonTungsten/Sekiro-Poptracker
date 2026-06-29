@@ -11,29 +11,47 @@ Releases follow semantic versioning:
 
 ## Unreleased
 
-All changes currently in development must be documented here.
-Before each release, this section is moved into the corresponding version entry.
+<details>
+  <summary>Expand</summary>
+  
+  All changes currently in development must be documented here.
+  Before each release, this section is moved into the corresponding version entry.
 
-### Added
--
+  ### Added
+  -
 
-### Changed
--
+  ### Changed
+  -
 
-### Fixed
--
+  ### Fixed
+  -
 
-### Removed
--
+  ### Removed
+  -
 
+</details>
 
-## v0.1.0 - YYYY-MM-DD
+## v0.1.0 - 2026-07-01
 
-### Added
-- Initial alpha release
+<details>
+  <summary>Expand</summary>
 
-### Changed
+  ### Added
+  - Initial alpha release
+  - Maps:
+    - AR maps
+    - DT maps
+    - AO maps
+    - AC maps
+    - HE maps
+  - `/docs` directory with:
+    - CHANGELOG.md
+    - dev-notes.md
+    
+  ### Changed
 
-### Fixed
+  ### Fixed
 
-### Removed
+  ### Removed
+
+</details>
