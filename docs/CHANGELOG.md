@@ -8,31 +8,6 @@ Releases follow semantic versioning:
   - Y = Minor update (new maps, UI changes, feature additions)
   - Z = Hotfix (bug fixes, logic corrections)
 
----
-
-## Unreleased
-
-<details>
-  <summary>Expand</summary>
-  
-  >All changes currently in development must be documented here.
-  >Before each release, this section is moved into the corresponding version entry.
-
-  ### Added
-  -
-
-  ### Changed
-  -
-
-  ### Fixed
-  -
-
-  ### Removed
-  -
-
-</details>
-
----
 
 ## v0.1.0 - 2026-08-19
 
@@ -61,5 +36,3 @@ Releases follow semantic versioning:
   -
   
 </details>
-
----
