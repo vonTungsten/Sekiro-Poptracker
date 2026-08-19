@@ -1,0 +1,513 @@
+[
+    {
+        "name": "AO_C",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Anayama the Peddler",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Promissory Note",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AO_C",
+                        "x": 2023,
+                        "y": 91,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Flames of Hatred, boss drop",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lapis Lazuli",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AO_C",
+                        "x": 1255,
+                        "y": 1678,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Hatred Demon",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Memory",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AO_C",
+                        "x": 1336,
+                        "y": 638,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "near headless warning sign",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Adamantite Scrap",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AO_C",
+                        "x": 320,
+                        "y": 2047,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "top of tower near Stairway idol",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Adamantite Scrap",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AO_C",
+                        "x": 816,
+                        "y": 1072,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "gate before stairs to Inosukes house",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Adamantite Scrap",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AO_C",
+                        "x": 1090,
+                        "y": 1270,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "explosive crates after lookout building",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Fulminated Mercury",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AO_C",
+                        "x": 1388,
+                        "y": 2110,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "explosive crates at tower near destroyed house",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Fulminated Mercury",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AO_C",
+                        "x": 731,
+                        "y": 385,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "stairs leading to Tengu tower",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lump of Grave Wax",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AO_C",
+                        "x": 2013,
+                        "y": 1238,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "base of second tower on cliffside",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lump of Grave Wax",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AO_C",
+                        "x": 1021,
+                        "y": 978,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "after crossing rebuilt bridge",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Ministry Dousing Powder",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AO_C",
+                        "x": 1636,
+                        "y": 1362,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "lookout building, middle room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Gachiins Sugar",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AO_C",
+                        "x": 131,
+                        "y": 782,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "lookout building, right room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Heavy Coin Purse",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AO_C",
+                        "x": 456,
+                        "y": 1881,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "left from base of tower near Stairway idol",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pellet",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AO_C",
+                        "x": 1393,
+                        "y": 1250,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "base of tower near Stairway idol",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Fistful of Ash",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AO_C",
+                        "x": 585,
+                        "y": 1429,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "behind Anayamas first shop",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Gachiins Sugar",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AO_C",
+                        "x": 1134,
+                        "y": 202,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "explosive crates after Inosukes house",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Ministry Dousing Powder",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AO_C",
+                        "x": 561,
+                        "y": 2362,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "destroyed house, second floor",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pellet",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AO_C",
+                        "x": 232,
+                        "y": 1235,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "inside Tengu tower, ground floor",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Dragons Blood Droplet",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AO_C",
+                        "x": 342,
+                        "y": 84,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "courtyard before lookout building, miniboss drop",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Prayer Bead",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AO_C",
+                        "x": 1071,
+                        "y": 764,
+                        "size": 6
+                    }
+                ]
+            }
+        ]
+    }
+]

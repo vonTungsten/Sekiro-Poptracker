@@ -1,0 +1,764 @@
+[
+  {
+    "name": "HE2",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "younglordsbellcharm"
+    ],
+    "children": [
+      {
+        "name": "Owl (Father)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          " "
+        ],
+        "sections": [
+          {
+            "name": "Aromatic Flower",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          },
+          {
+            "name": "Memory",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HE2",
+            "x": 1519,
+            "y": 747,
+            "size": 6
+          }
+        ]
+      },
+      {
+        "name": "burning courtyard, after miniboss",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          " "
+        ],
+        "sections": [
+          {
+            "name": "Fulminated Mercury",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HE2",
+            "x": 1518,
+            "y": 850,
+            "size": 6
+          }
+        ]
+      },
+      {
+        "name": "Main Hall, roof near three enemies",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          " "
+        ],
+        "sections": [
+          {
+            "name": "Adamantite Scrap",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HE2",
+            "x": 1537,
+            "y": 1853,
+            "size": 6
+          }
+        ]
+      },
+      {
+        "name": "Main Hall, tree at entrance to Audience Chamber",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          " "
+        ],
+        "sections": [
+          {
+            "name": "Adamantite Scrap",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HE2",
+            "x": 2228,
+            "y": 2092,
+            "size": 6
+          }
+        ]
+      },
+      {
+        "name": "Audience Chamber, hallway to shinobi door",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          " "
+        ],
+        "sections": [
+          {
+            "name": "Fulminated Mercury",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HE2",
+            "x": 1793,
+            "y": 305,
+            "size": 6
+          }
+        ]
+      },
+      {
+        "name": "Main Hall, open area before marsh",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          " "
+        ],
+        "sections": [
+          {
+            "name": "Mibu Balloon of Wealth",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HE2",
+            "x": 10044,
+            "y": 572,
+            "size": 6
+          }
+        ]
+      },
+      {
+        "name": "Main Hall, corpse of Ashina Elite near miniboss",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          " "
+        ],
+        "sections": [
+          {
+            "name": "Fistful of Ash",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HE2",
+            "x": 463,
+            "y": 1074,
+            "size": 6
+          }
+        ]
+      },
+      {
+        "name": "Main Hall, left building after marsh",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          " "
+        ],
+        "sections": [
+          {
+            "name": "Light Coin Purse",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          },
+          {
+            "name": "Ashina Sake",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HE2",
+            "x": 793,
+            "y": 635,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Audience Chamber, room straight from entrance",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          " "
+        ],
+        "sections": [
+          {
+            "name": "Pellet",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HE2",
+            "x": 2541,
+            "y": 315,
+            "size": 6
+          }
+        ]
+      },
+      {
+        "name": "Audience Chamber, left second room",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          " "
+        ],
+        "sections": [
+          {
+            "name": "Gokans Sugar",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HE2",
+            "x": 912,
+            "y": 1368,
+            "size": 6
+          }
+        ]
+      },
+      {
+        "name": "burning courtyard, miniboss drop",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          " "
+        ],
+        "sections": [
+          {
+            "name": "Adamantite Scrap",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          },
+          {
+            "name": "Prayer Bead",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HE2",
+            "x": 2354,
+            "y": 2389,
+            "size": 6
+          }
+        ]
+      },
+      {
+        "name": "Main Hall, miniboss drop",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          " "
+        ],
+        "sections": [
+          {
+            "name": "Prayer Bead",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HE2",
+            "x": 874,
+            "y": 584,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Lady Butterfly",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          " "
+        ],
+        "sections": [
+          {
+            "name": "Memory",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          },
+          {
+            "name": "Sakura Droplet",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HE2",
+            "x": 851,
+            "y": 57,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Audience Chamber, Inosuke",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          " "
+        ],
+        "sections": [
+          {
+            "name": "Snap Seed",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HE2",
+            "x": 841,
+            "y": 316,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "side path before cave, crouch opening",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          " "
+        ],
+        "sections": [
+          {
+            "name": "Mibu Possession Balloon",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HE2",
+            "x": 564,
+            "y": 907,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Main Hall, large building before marsh",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          " "
+        ],
+        "sections": [
+          {
+            "name": "Dousing Powder",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          },
+          {
+            "name": "Divine Confetti",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HE2",
+            "x": 846,
+            "y": 864,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Main Hall, left building after marsh",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          " "
+        ],
+        "sections": [
+          {
+            "name": "Light Coin Purse",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HE2",
+            "x": 1145,
+            "y": 2479,
+            "size": 6
+          }
+        ]
+      },
+      {
+        "name": "Audience Chamber, left room",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          " "
+        ],
+        "sections": [
+          {
+            "name": "Dousing Powder",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          },
+          {
+            "name": "Pellet",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HE2",
+            "x": 832,
+            "y": 516,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Main Hall, island in the marsh",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          " "
+        ],
+        "sections": [
+          {
+            "name": "Ceramic Shard",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HE2",
+            "x": 880,
+            "y": 727,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "side path before cave",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          " "
+        ],
+        "sections": [
+          {
+            "name": "Mibu Balloon of Soul",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          },
+          {
+            "name": "Pellet",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HE2",
+            "x": 458,
+            "y": 906,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Main Hall, between well and idol",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          " "
+        ],
+        "sections": [
+          {
+            "name": "Oil",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HE2",
+            "x": 753,
+            "y": 931,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Audience Chamber, left hallway before shinobi door",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          " "
+        ],
+        "sections": [
+          {
+            "name": "Oil",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HE2",
+            "x": 834,
+            "y": 465,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Audience Chamber, shinobi door",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          " "
+        ],
+        "sections": [
+          {
+            "name": "Divine Confetti",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          },
+          {
+            "name": "Light Coin Purse",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          },
+          {
+            "name": "Mibu Balloon of Wealth",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HE2",
+            "x": 796,
+            "y": 457,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Audience Chamber, room left of idol",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          " "
+        ],
+        "sections": [
+          {
+            "name": "Mibu Balloon of Soul",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HE2",
+            "x": 838,
+            "y": 449,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Juzou the Drunkard",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          " "
+        ],
+        "sections": [
+          {
+            "name": "Unrefined Sake",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          },
+          {
+            "name": "Prayer Bead",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HE2",
+            "x": 874,
+            "y": 600,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "side path before cave, enemy drop",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          " "
+        ],
+        "sections": [
+          {
+            "name": "Bulging Coin Purse",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HE2",
+            "x": 472,
+            "y": 893,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Audience Chamber, shinobi door chest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          " "
+        ],
+        "sections": [
+          {
+            "name": "Prayer Bead",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HE2",
+            "x": 777,
+            "y": 490,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      }
+    ]
+  }
+]

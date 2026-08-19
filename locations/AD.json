@@ -1,0 +1,831 @@
+[
+    {
+        "name": "AD",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Underground Waterway island, red-eyed Kotaro, enemy drop",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Red Lump",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AD",
+                        "x": 947,
+                        "y": 459,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Underground Waterway island, red-eyed Jinzaemon, enemy drop",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Red Lump",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AD",
+                        "x": 489,
+                        "y": 1269,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "start Doujuns quest",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Surgeons Bloody Letter",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AD",
+                        "x": 1563,
+                        "y": 890,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Doujun after sending subject",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lump of Fat Wax",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AD",
+                        "x": 2077,
+                        "y": 1136,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Doujun requests Red Carp Eyes",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Surgeons Stained Letter",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AD",
+                        "x": 1215,
+                        "y": 2428,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Doujun for Red Carp Eyes",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lump of Grave Wax",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AD",
+                        "x": 163,
+                        "y": 2435,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Underground Waterway island, red-eyed Doujun, enemy drop",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Academics Red Lump",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AD",
+                        "x": 36,
+                        "y": 1750,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "underwater, Doujuns cell",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Dosakus Note",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Pacifying Agent",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AD",
+                        "x": 534,
+                        "y": 688,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "cell, first on the left",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rotting Prisoners Note",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AD",
+                        "x": 2450,
+                        "y": 1958,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Underground Waterway island",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pacifying Agent",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Light Coin Purse",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Black Gunpowder",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AD",
+                        "x": 1396,
+                        "y": 1386,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "cell, first on the right",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pacifying Agent",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AD",
+                        "x": 2232,
+                        "y": 377,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "along right wall",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pacifying Agent",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AD",
+                        "x": 1668,
+                        "y": 245,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "cricket pit #1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Oil",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AD",
+                        "x": 2274,
+                        "y": 2288,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Bottomless Hole, wooden planks above miniboss arena",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Mibu Balloon of Soul",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AD",
+                        "x": 314,
+                        "y": 372,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "cricket pit #2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Oil",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AD",
+                        "x": 1044,
+                        "y": 774,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Bottomless Hole, stalagmite in miniboss arena",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Mibu Balloon of Soul",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AD",
+                        "x": 1230,
+                        "y": 1164,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "corpse before Underground Waterway idol",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Red Lump",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AD",
+                        "x": 1536,
+                        "y": 613,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Underground Waterway island, boat",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Akos Sugar",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AD",
+                        "x": 924,
+                        "y": 2142,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "thin cave connecting AD to Bottomless Hole",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Bite Down",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AD",
+                        "x": 1883,
+                        "y": 991,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Bottomless Hole, small platform above miniboss arena",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pacifying Agent",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AD",
+                        "x": 1701,
+                        "y": 2266,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Bottomless Hole, stalagmite near idol",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Bulging Coin Purse",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AD",
+                        "x": 1870,
+                        "y": 1011,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "underwater, Underground Waterway #1, 3-item group",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Light Coin Purse",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AD",
+                        "x": 1336,
+                        "y": 193,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "underwater, Underground Waterway",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Ceramic Shard",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AD",
+                        "x": 731,
+                        "y": 1817,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Bottomless Hole drop, top platform after falling",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Mibu Balloon of Soul",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AD",
+                        "x": 1949,
+                        "y": 1040,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Bottomless Hole, before drop to Ashina Depths idol",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Fistful of Ash",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AD",
+                        "x": 464,
+                        "y": 1815,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "underwater, grapple after path to Doujuns cell",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Mibu Balloon of Soul",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AD",
+                        "x": 1337,
+                        "y": 338,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Bottomless Hole, wall in miniboss arena",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Scrap Magnetite",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AD",
+                        "x": 653,
+                        "y": 979,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Underground Waterway, ramp after idol",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Scrap Iron",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AD",
+                        "x": 1136,
+                        "y": 1320,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Bottomless Hole, alcove in miniboss arena",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Black Gunpowder",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AD",
+                        "x": 53,
+                        "y": 668,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "underwater, Underground Waterway #2, 3-item group",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Light Coin Purse",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AD",
+                        "x": 1343,
+                        "y": 1734,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "underwater, Underground Waterway #3, 3-item group",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Light Coin Purse",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AD",
+                        "x": 2202,
+                        "y": 1886,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Bottomless Hole, miniboss drop",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Ceremonial Tanto",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AD",
+                        "x": 1222,
+                        "y": 2227,
+                        "size": 6
+                    }
+                ]
+            }
+        ]
+    }
+]

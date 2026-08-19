@@ -1,0 +1,1054 @@
+[
+    {
+        "name": "HE1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "younglordsbellcharm"
+        ],
+        "children": [
+            {
+                "name": "Pot Noble Harunaga",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Floating Passage Text",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Divine Grass",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Withered Red Gourd",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Truly Precious Bait (after trading 6 scales)",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Lapis Lazuli",
+                        "access_rules": ["trulypreciousbait"],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Mask Fragment (Right)",
+                        "access_rules": ["trulypreciousbait"],
+                        "visibility_rules": [],
+                        "item_count": "1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HE1",
+                        "x": 498,
+                        "y": 675,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+
+                "children": [
+                    {
+                        "name": "Pot Noble Harunaga",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Right",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "HE1",
+                                "x": 498,
+                                "y": 675,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Estate Path shortcut, second right courtyard, NPC",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Antidote Powder",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HE1",
+                        "x": 654,
+                        "y": 427,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "behind start",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pellet",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HE1",
+                        "x": 158,
+                        "y": 913,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "before first bridge",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Dousing Powder",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HE1",
+                        "x": 189,
+                        "y": 666,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "boat near Pot Noble Harunaga",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Mibu Possession Balloon",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HE1",
+                        "x": 435,
+                        "y": 612,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "by Pot Noble Harunaga",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Light Coin Purse",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HE1",
+                        "x": 528,
+                        "y": 649,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "left of Estate Path, over wall",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Ungos Sugar",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HE1",
+                        "x": 484,
+                        "y": 329,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Estate Path, first compound, along right wall",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Akos Sugar",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HE1",
+                        "x": 426,
+                        "y": 486,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Estate Path, first compound, largest house",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pellet",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HE1",
+                        "x": 502,
+                        "y": 468,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "bonfire houses, base of tree",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Ceramic Shard",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HE1",
+                        "x": 485,
+                        "y": 562,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Estate Path, before shortcut door",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Fistful of Ash",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HE1",
+                        "x": 472,
+                        "y": 401,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "tree near bonfire",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Fistful of Ash",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HE1",
+                        "x": 532,
+                        "y": 484,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Estate Path shortcut, first left compound, well",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pellet",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HE1",
+                        "x": 570,
+                        "y": 368,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Estate Path shortcut, first right courtyard, house",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Light Coin Purse",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HE1",
+                        "x": 551,
+                        "y": 451,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Estate Path shortcut, first left courtyard, house",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Ungos Sugar",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HE1",
+                        "x": 511,
+                        "y": 320,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "before Bamboo Thicket Slope bridge",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Oil",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HE1",
+                        "x": 1221,
+                        "y": 398,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Bamboo Thicket Slope, grapple from first ledge",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Dousing Powder",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HE1",
+                        "x": 1085,
+                        "y": 454,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Estate Path shortcut, first left courtyard, roof",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Light Coin Purse",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HE1",
+                        "x": 519,
+                        "y": 336,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "bonfire",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pellet",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Mibu Balloon of Wealth",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dousing Powder",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Flame Barrel",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HE1",
+                        "x": 544,
+                        "y": 520,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "before first bridge, dying Nightjar",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Fistful of Ash",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HE1",
+                        "x": 249,
+                        "y": 704,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "behind rock before first bridge",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Treasure Carp Scale",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HE1",
+                        "x": 164,
+                        "y": 629,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Estate Path, beside idol",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Ceramic Shard",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HE1",
+                        "x": 377,
+                        "y": 453,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Estate Path shortcut, gate",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Gokans Sugar",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HE1",
+                        "x": 554,
+                        "y": 523,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "bamboo path behind Anayama",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Bundled Jizo Statue",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HE1",
+                        "x": 679,
+                        "y": 326,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "right of gate to Bamboo Thicket Slope idol",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pellet",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HE1",
+                        "x": 907,
+                        "y": 430,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "left of gate to Bamboo Thicket Slope idol",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Mibu Possession Balloon",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HE1",
+                        "x": 926,
+                        "y": 386,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "after Bamboo Thicket Slope bridge",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Fistful of Ash",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HE1",
+                        "x": 1178,
+                        "y": 294,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "by tunnel to three-story pagoda",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Contact Medicine",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HE1",
+                        "x": 1307,
+                        "y": 296,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "three-story pagoda, enemy drop",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Scrap Iron",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HE1",
+                        "x": 1350,
+                        "y": 378,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "underwater, Dragonspring Lake, Carp drop",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Treasure Carp Scale",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 3
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HE1",
+                        "x": 301,
+                        "y": 634,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "near Pot Noble Harunaga, Carp drop",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Treasure Carp Scale",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HE1",
+                        "x": 519,
+                        "y": 699,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "under Bamboo Thicket Slope bridge, Carp drop",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Treasure Carp Scale",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HE1",
+                        "x": 1146,
+                        "y": 358,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "underwater, under Bamboo Thicket Slope bridge, Carp drop",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Treasure Carp Scale",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HE1",
+                        "x": 1252,
+                        "y": 310,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Estate Path shortcut, first right courtyard, shrine",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Shinobi Axe of the Monkey",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HE1",
+                        "x": 525,
+                        "y": 437,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "three-story pagoda",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Mist Ravens Feathers",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HE1",
+                        "x": 1382,
+                        "y": 399,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "before Bamboo Thicket Slope, miniboss drop",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Prayer Bead",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HE1",
+                        "x": 901,
+                        "y": 392,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Owl",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Hidden Temple Key",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HE1",
+                        "x": 1116,
+                        "y": 105,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    }
+]

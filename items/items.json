@@ -1,67 +1,63 @@
 [
     {
-        "name": "shinobiaxeofthemonkey",
-        "type": "toggle",
-        "img": "images/items/shinobiaxeofthemonkey.png",
-        "initial_active_state": false,
+        "name": "gourdseed",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
         "overlay_align": "right",
-        "codes": "shinobiaxeofthemonkey"
+        "stages": [
+            {
+                "name": "gourdseed stage1",
+                "inherit_codes": true,
+                "img": "/images/items/gourdseed.png",
+                "codes": "gourdseed, gourdseed_stage1"
+            },
+            {
+                "name": "gourdseed stage2",
+                "inherit_codes": true,
+                "img": "/images/items/gourdseed.png",
+                "codes": "gourdseed_stage2"
+            },
+            {
+                "name": "gourdseed stage3",
+                "inherit_codes": true,
+                "img": "/images/items/gourdseed.png",
+                "codes": "gourdseed_stage3"
+            }
+        ]
     },
     {
-        "name": "pineresinember",
+        "name": "slenderfinger",
         "type": "toggle",
-        "img": "images/items/pineresinember.png",
+        "img": "images/items/slenderfinger.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "pineresinember"
+        "codes": "slenderfinger"
     },
     {
-        "name": "ungosspiritfall",
+        "name": "driedserpentviscera",
         "type": "toggle",
-        "img": "images/items/ungosspiritfall.png",
+        "img": "images/items/driedserpentviscera.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "ungosspiritfall"
+        "codes": "driedserpentviscera"
     },
     {
-        "name": "waterofthepalace",
+        "name": "shinobiprosthetic",
         "type": "toggle",
-        "img": "images/items/waterofthepalace.png",
+        "img": "images/items/shinobiprosthetic.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "waterofthepalace"
+        "codes": "shinobiprosthetic"
     },
     {
-        "name": "shelterstone",
+        "name": "fathersbellcharm",
         "type": "toggle",
-        "img": "images/items/shelterstone.png",
+        "img": "images/items/fathersbellcharm.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "shelterstone"
-    },
-    {
-        "name": "mechanicalbarrel",
-        "type": "toggle",
-        "img": "images/items/mechanicalbarrel.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "mechanicalbarrel"
-    },
-    {
-        "name": "gatehousekey",
-        "type": "toggle",
-        "img": "images/items/gatehousekey.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "gatehousekey"
-    },
-    {
-        "name": "aromaticbranch",
-        "type": "toggle",
-        "img": "images/items/aromaticbranch.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "aromaticbranch"
+        "codes": "fathersbellcharm"
     },
     {
         "name": "robertsfirecrackers",
@@ -80,6 +76,22 @@
         "codes": "sabimaru"
     },
     {
+        "name": "pineresinember",
+        "type": "toggle",
+        "img": "images/items/pineresinember.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pineresinember"
+    },
+    {
+        "name": "sakuradroplet",
+        "type": "toggle",
+        "img": "images/items/sakuradroplet.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sakuradroplet"
+    },
+    {
         "name": "malcontentsring",
         "type": "toggle",
         "img": "images/items/malcontentsring.png",
@@ -88,12 +100,60 @@
         "codes": "malcontentsring"
     },
     {
-        "name": "gachiinsspiritfall",
+        "name": "hiddentemplekey",
         "type": "toggle",
-        "img": "images/items/gachiinsspiritfall.png",
+        "img": "images/items/hiddentemplekey.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "gachiinsspiritfall"
+        "codes": "hiddentemplekey"
+    },
+    {
+        "name": "senpouesoterictext",
+        "type": "toggle",
+        "img": "images/items/senpouesoterictext.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "senpouesoterictext"
+    },
+    {
+        "name": "holychapter:dragonsreturn",
+        "type": "toggle",
+        "img": "images/items/holychapter:dragonsreturn.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "holychapter:dragonsreturn"
+    },
+    {
+        "name": "secretpassagekey",
+        "type": "toggle",
+        "img": "images/items/secretpassagekey.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "secretpassagekey"
+    },
+    {
+        "name": "mistravensfeathers",
+        "type": "toggle",
+        "img": "images/items/mistravensfeathers.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mistravensfeathers"
+    },
+    {
+        "name": "ashinaesoterictext",
+        "type": "toggle",
+        "img": "images/items/ashinaesoterictext.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ashinaesoterictext"
+    },
+    {
+        "name": "mortalblade",
+        "type": "toggle",
+        "img": "images/items/mortalblade.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mortalblade"
     },
     {
         "name": "gunfortshrinekey",
@@ -102,6 +162,206 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "gunfortshrinekey"
+    },
+    {
+        "name": "frozentears",
+        "type": "toggle",
+        "img": "images/items/frozentears.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "frozentears"
+    },
+    {
+        "name": "prostheticesoterictext",
+        "type": "toggle",
+        "img": "images/items/prostheticesoterictext.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "prostheticesoterictext"
+    },
+    {
+        "name": "shinobiaxeofthemonkey",
+        "type": "toggle",
+        "img": "images/items/shinobiaxeofthemonkey.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shinobiaxeofthemonkey"
+    },
+    {
+        "name": "divinedragonstears",
+        "type": "toggle",
+        "img": "images/items/divinedragonstears.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "divinedragonstears"
+    },
+    {
+        "name": "largefan",
+        "type": "toggle",
+        "img": "images/items/largefan.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "largefan"
+    },
+    {
+        "name": "gyoubusbrokenhorn",
+        "type": "toggle",
+        "img": "images/items/gyoubusbrokenhorn.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gyoubusbrokenhorn"
+    },
+    {
+        "name": "younglordsbellcharm",
+        "type": "toggle",
+        "img": "images/items/younglordsbellcharm.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "younglordsbellcharm"
+    },
+    {
+        "name": "shelterstone",
+        "type": "toggle",
+        "img": "images/items/shelterstone.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shelterstone"
+    },
+    {
+        "name": "aromaticbranch",
+        "type": "toggle",
+        "img": "images/items/aromaticbranch.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "aromaticbranch"
+    },
+    {
+        "name": "aromaticflower",
+        "type": "toggle",
+        "img": "images/items/aromaticflower.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "aromaticflower"
+    },
+    {
+        "name": "freshserpentviscera",
+        "type": "toggle",
+        "img": "images/items/freshserpentviscera.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "freshserpentviscera"
+    },
+    {
+        "name": "puppeteerninjutsu",
+        "type": "toggle",
+        "img": "images/items/puppeteerninjutsu.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "puppeteerninjutsu"
+    },
+    {
+        "name": "bloodsmokeninjutsu",
+        "type": "toggle",
+        "img": "images/items/bloodsmokeninjutsu.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bloodsmokeninjutsu"
+    },
+    {
+        "name": "holychapter:infested",
+        "type": "toggle",
+        "img": "images/items/holychapter:infested.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "holychapter:infested"
+    },
+    {
+        "name": "lotusofthepalace",
+        "type": "toggle",
+        "img": "images/items/lotusofthepalace.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lotusofthepalace"
+    },
+    {
+        "name": "mechanicalbarrel",
+        "type": "toggle",
+        "img": "images/items/mechanicalbarrel.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mechanicalbarrel"
+    },
+    {
+        "name": "abandoneddungeonkey",
+        "type": "toggle",
+        "img": "images/items/abandoneddungeonkey.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "abandoneddungeonkey"
+    },
+    {
+        "name": "phantomkunai",
+        "type": "toggle",
+        "img": "images/items/phantomkunai.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "phantomkunai"
+    },
+    {
+        "name": "ashinadepths(poisonpool)key",
+        "type": "toggle",
+        "img": "images/items/ashinadepths(poisonpool)key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ashinadepths(poisonpool)key"
+    },
+    {
+        "name": "mibubreathingtechnique",
+        "type": "toggle",
+        "img": "images/items/mibubreathingtechnique.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mibubreathingtechnique"
+    },
+    {
+        "name": "senpoutemplekey",
+        "type": "toggle",
+        "img": "images/items/senpoutemplekey.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "senpoutemplekey"
+    },
+    {
+        "name": "ironfortress",
+        "type": "toggle",
+        "img": "images/items/ironfortress.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ironfortress"
+    },
+    {
+        "name": "gatehousekey",
+        "type": "toggle",
+        "img": "images/items/gatehousekey.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gatehousekey"
+    },
+    {
+        "name": "mushinesoterictext",
+        "type": "toggle",
+        "img": "images/items/mushinesoterictext.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mushinesoterictext"
+    },
+    {
+        "name": "bellofdispelling(sunkenvalleykey)",
+        "type": "toggle",
+        "img": "images/items/bellofdispelling(sunkenvalleykey).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bellofdispelling(sunkenvalleykey)"
     },
     {
         "name": "prayerbead",
@@ -132,140 +392,12 @@
         ]
     },
     {
-        "name": "greatwhitewhisker",
+        "name": "shurikenwheel",
         "type": "toggle",
-        "img": "images/items/greatwhitewhisker.png",
+        "img": "images/items/shurikenwheel.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "greatwhitewhisker"
-    },
-    {
-        "name": "frozentears",
-        "type": "toggle",
-        "img": "images/items/frozentears.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "frozentears"
-    },
-    {
-        "name": "mibubreathingtechnique",
-        "type": "toggle",
-        "img": "images/items/mibubreathingtechnique.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "mibubreathingtechnique"
-    },
-    {
-        "name": "flamebarrel",
-        "type": "toggle",
-        "img": "images/items/flamebarrel.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "flamebarrel"
-    },
-    {
-        "name": "largefan",
-        "type": "toggle",
-        "img": "images/items/largefan.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "largefan"
-    },
-    {
-        "name": "trulypreciousbait(harunaga)",
-        "type": "toggle",
-        "img": "images/items/trulypreciousbait(harunaga).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "trulypreciousbait(harunaga)"
-    },
-    {
-        "name": "promissorynote",
-        "type": "toggle",
-        "img": "images/items/promissorynote.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "promissorynote"
-    },
-    {
-        "name": "redcarpeyes",
-        "type": "toggle",
-        "img": "images/items/redcarpeyes.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "redcarpeyes"
-    },
-    {
-        "name": "akosspiritfall",
-        "type": "toggle",
-        "img": "images/items/akosspiritfall.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "akosspiritfall"
-    },
-    {
-        "name": "ironfortress",
-        "type": "toggle",
-        "img": "images/items/ironfortress.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "ironfortress"
-    },
-    {
-        "name": "slenderfinger",
-        "type": "toggle",
-        "img": "images/items/slenderfinger.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "slenderfinger"
-    },
-    {
-        "name": "bloodsmokeninjutsu",
-        "type": "toggle",
-        "img": "images/items/bloodsmokeninjutsu.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bloodsmokeninjutsu"
-    },
-    {
-        "name": "puppeteerninjutsu",
-        "type": "toggle",
-        "img": "images/items/puppeteerninjutsu.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "puppeteerninjutsu"
-    },
-    {
-        "name": "younglordsbellcharm",
-        "type": "toggle",
-        "img": "images/items/younglordsbellcharm.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "younglordsbellcharm"
-    },
-    {
-        "name": "whitepinwheel",
-        "type": "toggle",
-        "img": "images/items/whitepinwheel.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "whitepinwheel"
-    },
-    {
-        "name": "mistravensfeathers",
-        "type": "toggle",
-        "img": "images/items/mistravensfeathers.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "mistravensfeathers"
-    },
-    {
-        "name": "lotusofthepalace",
-        "type": "toggle",
-        "img": "images/items/lotusofthepalace.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "lotusofthepalace"
+        "codes": "shurikenwheel"
     },
     {
         "name": "bestowalninjutsu",
@@ -276,272 +408,12 @@
         "codes": "bestowalninjutsu"
     },
     {
-        "name": "driedserpentviscera",
+        "name": "flamebarrel",
         "type": "toggle",
-        "img": "images/items/driedserpentviscera.png",
+        "img": "images/items/flamebarrel.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "driedserpentviscera"
-    },
-    {
-        "name": "prostheticesoterictext",
-        "type": "toggle",
-        "img": "images/items/prostheticesoterictext.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "prostheticesoterictext"
-    },
-    {
-        "name": "mottledpurplegourd",
-        "type": "toggle",
-        "img": "images/items/mottledpurplegourd.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "mottledpurplegourd"
-    },
-    {
-        "name": "riceforkuro",
-        "type": "toggle",
-        "img": "images/items/riceforkuro.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "riceforkuro"
-    },
-    {
-        "name": "secretpassagekey",
-        "type": "toggle",
-        "img": "images/items/secretpassagekey.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "secretpassagekey"
-    },
-    {
-        "name": "shurikenwheel",
-        "type": "toggle",
-        "img": "images/items/shurikenwheel.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "shurikenwheel"
-    },
-    {
-        "name": "greenmossygourd",
-        "type": "toggle",
-        "img": "images/items/greenmossygourd.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "greenmossygourd"
-    },
-    {
-        "name": "trulypreciousbait(koremori)",
-        "type": "toggle",
-        "img": "images/items/trulypreciousbait(koremori).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "trulypreciousbait(koremori)"
-    },
-    {
-        "name": "phantomkunai",
-        "type": "toggle",
-        "img": "images/items/phantomkunai.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "phantomkunai"
-    },
-    {
-        "name": "surgeonsbloodyletter",
-        "type": "toggle",
-        "img": "images/items/surgeonsbloodyletter.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "surgeonsbloodyletter"
-    },
-    {
-        "name": "mortalblade",
-        "type": "toggle",
-        "img": "images/items/mortalblade.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "mortalblade"
-    },
-    {
-        "name": "redandwhitepinwheel",
-        "type": "toggle",
-        "img": "images/items/redandwhitepinwheel.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "redandwhitepinwheel"
-    },
-    {
-        "name": "gyoubusbrokenhorn",
-        "type": "toggle",
-        "img": "images/items/gyoubusbrokenhorn.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "gyoubusbrokenhorn"
-    },
-    {
-        "name": "yasharikusspiritfall",
-        "type": "toggle",
-        "img": "images/items/yasharikusspiritfall.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "yasharikusspiritfall"
-    },
-    {
-        "name": "shinobiprosthetic",
-        "type": "toggle",
-        "img": "images/items/shinobiprosthetic.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "shinobiprosthetic"
-    },
-    {
-        "name": "gokansspiritfall",
-        "type": "toggle",
-        "img": "images/items/gokansspiritfall.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "gokansspiritfall"
-    },
-    {
-        "name": "holychapter:dragonsreturn",
-        "type": "toggle",
-        "img": "images/items/holychapter:dragonsreturn.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "holychapter:dragonsreturn"
-    },
-    {
-        "name": "gourdseed",
-        "type": "progressive",
-        "loop": false,
-        "allow_disabled": true,
-        "initial_stage_idx": 0,
-        "overlay_align": "right",
-        "stages": [
-            {
-                "name": "gourdseed stage1",
-                "inherit_codes": true,
-                "img": "/images/items/gourdseed.png",
-                "codes": "gourdseed, gourdseed_stage1"
-            },
-            {
-                "name": "gourdseed stage2",
-                "inherit_codes": true,
-                "img": "/images/items/gourdseed.png",
-                "codes": "gourdseed_stage2"
-            },
-            {
-                "name": "gourdseed stage3",
-                "inherit_codes": true,
-                "img": "/images/items/gourdseed.png",
-                "codes": "gourdseed_stage3"
-            }
-        ]
-    },
-    {
-        "name": "aromaticflower",
-        "type": "toggle",
-        "img": "images/items/aromaticflower.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "aromaticflower"
-    },
-    {
-        "name": "senpouesoterictext",
-        "type": "toggle",
-        "img": "images/items/senpouesoterictext.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "senpouesoterictext"
-    },
-    {
-        "name": "hiddentemplekey",
-        "type": "toggle",
-        "img": "images/items/hiddentemplekey.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "hiddentemplekey"
-    },
-    {
-        "name": "divinedragonstears",
-        "type": "toggle",
-        "img": "images/items/divinedragonstears.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "divinedragonstears"
-    },
-    {
-        "name": "dragonstallyboard",
-        "type": "toggle",
-        "img": "images/items/dragonstallyboard.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "dragonstallyboard"
-    },
-    {
-        "name": "fathersbellcharm",
-        "type": "toggle",
-        "img": "images/items/fathersbellcharm.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "fathersbellcharm"
-    },
-    {
-        "name": "sakuradroplet",
-        "type": "toggle",
-        "img": "images/items/sakuradroplet.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "sakuradroplet"
-    },
-    {
-        "name": "ratdescription",
-        "type": "toggle",
-        "img": "images/items/ratdescription.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "ratdescription"
-    },
-    {
-        "name": "freshserpentviscera",
-        "type": "toggle",
-        "img": "images/items/freshserpentviscera.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "freshserpentviscera"
-    },
-    {
-        "name": "surgeonsstainedletter",
-        "type": "toggle",
-        "img": "images/items/surgeonsstainedletter.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "surgeonsstainedletter"
-    },
-    {
-        "name": "holychapter:infested",
-        "type": "toggle",
-        "img": "images/items/holychapter:infested.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "holychapter:infested"
-    },
-    {
-        "name": "ashinaesoterictext",
-        "type": "toggle",
-        "img": "images/items/ashinaesoterictext.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "ashinaesoterictext"
-    },
-    {
-        "name": "witheredredgourd",
-        "type": "toggle",
-        "img": "images/items/witheredredgourd.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "witheredredgourd"
+        "codes": "flamebarrel"
     },
     {
         "name": "update",

@@ -1,66 +1,84 @@
 {
-    "tabbed_maps_horizontal": {
-        "type": "tabbed",
-        "tabs": [
-            {
-                "title": "Tutorial",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Tutorial"
-                    ]
-                }
-            },
-            {
-                "title": "Dilapidated Temple",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "DT"
-                    ]
-                }
-            },
-            {
-                "title": "Ashina Outskirts",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Ashina Outskirts"
-                    ]
-                }
-            }
-        ]
-    },
-    "tabbed_maps_vertical": {
-        "type": "tabbed",
-        "tabs": [
-            {
-                "title": "Tutorial",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Tutorial"
-                    ]
-                }
-            },
-            {
-                "title": "Dilapidated Temple",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "DT"
-                    ]
-                }
-            },
-            {
-                "title": "Ashina Outskirts",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Ashina Outskirts"
-                    ]
-                }
-            }
-        ]
-    }
+  "tabbed_maps_horizontal": {
+    "type": "tabbed",
+    "tabs": [
+      {
+        "title": "Dilapidated Temple",
+        "content": {
+          "type": "map",
+          "maps": [
+            "DT"
+          ]
+        }
+      },
+      {
+        "title": "Ashina Reservoir",
+        "content": {
+          "type": "map",
+          "maps": [
+            "AR"
+          ]
+        }
+      },
+      {
+        "title": "Ashina Outskirts",
+        "content": {
+          "type": "map",
+          "maps": [
+            "AO"
+          ]
+        }
+      },
+      {
+        "title": "Ashina Castle",
+        "content": {
+          "type": "map",
+          "maps": [
+            "AC"
+          ]
+        }
+      },
+      {
+        "title": "Ashina Castle (Interior)",
+        "content": {
+          "type": "map",
+          "maps": [
+            "AC_Inside"
+          ]
+        }
+      },
+      {
+        "title": "Hirata Estate (Dragonspring)",
+        "content": {
+          "type": "map",
+          "maps": [
+            "HE1"
+          ]
+        }
+      },
+      {
+        "title": "Hirata Estate (Estate)",
+        "content": {
+          "type": "map",
+          "maps": [
+            "HE2"
+          ]
+        }
+      }
+    ]
+  },
+  "tabbed_maps_vertical": {
+    "type": "tabbed",
+    "tabs": [
+      {
+        "title": "Ashina Reservoir",
+        "content": {
+          "type": "map",
+          "maps": [
+            "AR"
+          ]
+        }
+      }
+    ]
+  }
 }

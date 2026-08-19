@@ -11,83 +11,73 @@
                 "content": [
                     {
                         "type": "itemgrid",
-                        "item_margin": "2,2",
+                        "item_margin": "2, 2",
                         "h_alignment": "left",
                         "item_h_alignment": "center",
                         "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
+                        "item_height": 36,
+                        "item_width": 36,
                         "rows": [
                             [
-                                "shinobiaxeofthemonkey",
-                                "pineresinember",
-                                "ungosspiritfall",
-                                "waterofthepalace",
-                                "shelterstone",
-                                "mechanicalbarrel",
-                                "gatehousekey",
-                                "aromaticbranch",
-                                "robertsfirecrackers",
-                                "sabimaru",
-                                "malcontentsring",
-                                "gachiinsspiritfall",
-                                "gunfortshrinekey",
-                                "prayerbead, prayerbead_stage1",
-                                "greatwhitewhisker",
-                                "frozentears"
-                            ],
-                            [
-                                "mibubreathingtechnique",
-                                "flamebarrel",
-                                "largefan",
-                                "trulypreciousbait(harunaga)",
-                                "promissorynote",
-                                "redcarpeyes",
-                                "akosspiritfall",
-                                "ironfortress",
-                                "slenderfinger",
-                                "bloodsmokeninjutsu",
-                                "puppeteerninjutsu",
-                                "younglordsbellcharm",
-                                "whitepinwheel",
-                                "mistravensfeathers",
-                                "lotusofthepalace",
-                                "bestowalninjutsu"
-                            ],
-                            [
-                                "driedserpentviscera",
-                                "prostheticesoterictext",
-                                "mottledpurplegourd",
-                                "riceforkuro",
-                                "secretpassagekey",
-                                "shurikenwheel",
-                                "greenmossygourd",
-                                "trulypreciousbait(koremori)",
-                                "phantomkunai",
-                                "surgeonsbloodyletter",
-                                "mortalblade",
-                                "redandwhitepinwheel",
-                                "gyoubusbrokenhorn",
-                                "yasharikusspiritfall",
-                                "shinobiprosthetic",
-                                "gokansspiritfall"
-                            ],
-                            [
-                                "holychapter:dragonsreturn",
                                 "gourdseed, gourdseed_stage1",
-                                "aromaticflower",
-                                "senpouesoterictext",
-                                "hiddentemplekey",
-                                "divinedragonstears",
-                                "dragonstallyboard",
+                                "slenderfinger",
+                                "driedserpentviscera",
+                                "shinobiprosthetic",
                                 "fathersbellcharm",
+                                "robertsfirecrackers",
+                                "sabimaru"
+                            ],
+                            [
+                                "pineresinember",
                                 "sakuradroplet",
-                                "ratdescription",
-                                "freshserpentviscera",
-                                "surgeonsstainedletter",
-                                "holychapter:infested",
+                                "malcontentsring",
+                                "hiddentemplekey",
+                                "senpouesoterictext",
+                                "holychapter:dragonsreturn",
+                                "secretpassagekey"
+                            ],
+                            [
+                                "mistravensfeathers",
                                 "ashinaesoterictext",
-                                "witheredredgourd",
+                                "mortalblade",
+                                "gunfortshrinekey",
+                                "frozentears",
+                                "prostheticesoterictext",
+                                "shinobiaxeofthemonkey"
+                            ],
+                            [
+                                "divinedragonstears",
+                                "largefan",
+                                "gyoubusbrokenhorn",
+                                "younglordsbellcharm",
+                                "shelterstone",
+                                "aromaticbranch",
+                                "aromaticflower"
+                            ],
+                            [
+                                "freshserpentviscera",
+                                "puppeteerninjutsu",
+                                "bloodsmokeninjutsu",
+                                "holychapter:infested",
+                                "lotusofthepalace",
+                                "mechanicalbarrel",
+                                "abandoneddungeonkey"
+                            ],
+                            [
+                                "phantomkunai",
+                                "ashinadepths(poisonpool)key",
+                                "mibubreathingtechnique",
+                                "senpoutemplekey",
+                                "ironfortress",
+                                "gatehousekey",
+                                "mushinesoterictext"
+                            ],
+                            [
+                                "bellofdispelling(sunkenvalleykey)",
+                                "prayerbead, prayerbead_stage1",
+                                "shurikenwheel",
+                                "bestowalninjutsu",
+                                "flamebarrel",
                                 "update"
                             ]
                         ]
@@ -116,83 +106,65 @@
                         "item_width": 36,
                         "rows": [
                             [
-                                "shinobiaxeofthemonkey",
-                                "pineresinember",
-                                "ungosspiritfall",
-                                "waterofthepalace",
-                                "shelterstone",
-                                "mechanicalbarrel",
-                                "gatehousekey",
-                                "aromaticbranch"
-                            ],
-                            [
-                                "robertsfirecrackers",
-                                "sabimaru",
-                                "malcontentsring",
-                                "gachiinsspiritfall",
-                                "gunfortshrinekey",
-                                "prayerbead, prayerbead_stage1",
-                                "greatwhitewhisker",
-                                "frozentears"
-                            ],
-                            [
-                                "mibubreathingtechnique",
-                                "flamebarrel",
-                                "largefan",
-                                "trulypreciousbait(harunaga)",
-                                "promissorynote",
-                                "redcarpeyes",
-                                "akosspiritfall",
-                                "ironfortress"
-                            ],
-                            [
+                                "gourdseed, gourdseed_stage1",
                                 "slenderfinger",
-                                "bloodsmokeninjutsu",
-                                "puppeteerninjutsu",
-                                "younglordsbellcharm",
-                                "whitepinwheel",
-                                "mistravensfeathers",
-                                "lotusofthepalace",
-                                "bestowalninjutsu"
+                                "driedserpentviscera",
+                                "shinobiprosthetic",
+                                "fathersbellcharm",
+                                "robertsfirecrackers",
+                                "sabimaru"
                             ],
                             [
-                                "driedserpentviscera",
+                                "pineresinember",
+                                "sakuradroplet",
+                                "malcontentsring",
+                                "hiddentemplekey",
+                                "senpouesoterictext",
+                                "holychapter:dragonsreturn",
+                                "secretpassagekey"
+                            ],
+                            [
+                                "mistravensfeathers",
+                                "ashinaesoterictext",
+                                "mortalblade",
+                                "gunfortshrinekey",
+                                "frozentears",
                                 "prostheticesoterictext",
-                                "mottledpurplegourd",
-                                "riceforkuro",
-                                "secretpassagekey",
-                                "shurikenwheel",
-                                "greenmossygourd",
-                                "trulypreciousbait(koremori)"
+                                "shinobiaxeofthemonkey"
+                            ],
+                            [
+                                "divinedragonstears",
+                                "largefan",
+                                "gyoubusbrokenhorn",
+                                "younglordsbellcharm",
+                                "shelterstone",
+                                "aromaticbranch",
+                                "aromaticflower"
+                            ],
+                            [
+                                "freshserpentviscera",
+                                "puppeteerninjutsu",
+                                "bloodsmokeninjutsu",
+                                "holychapter:infested",
+                                "lotusofthepalace",
+                                "mechanicalbarrel",
+                                "abandoneddungeonkey"
                             ],
                             [
                                 "phantomkunai",
-                                "surgeonsbloodyletter",
-                                "mortalblade",
-                                "redandwhitepinwheel",
-                                "gyoubusbrokenhorn",
-                                "yasharikusspiritfall",
-                                "shinobiprosthetic",
-                                "gokansspiritfall"
+                                "ashinadepths(poisonpool)key",
+                                "mibubreathingtechnique",
+                                "senpoutemplekey",
+                                "ironfortress",
+                                "gatehousekey",
+                                "mushinesoterictext"
                             ],
                             [
-                                "holychapter:dragonsreturn",
-                                "gourdseed, gourdseed_stage1",
-                                "aromaticflower",
-                                "senpouesoterictext",
-                                "hiddentemplekey",
-                                "divinedragonstears",
-                                "dragonstallyboard",
-                                "fathersbellcharm"
-                            ],
-                            [
-                                "sakuradroplet",
-                                "ratdescription",
-                                "freshserpentviscera",
-                                "surgeonsstainedletter",
-                                "holychapter:infested",
-                                "ashinaesoterictext",
-                                "witheredredgourd",
+                                "bellofdispelling(sunkenvalleykey)",
+                                "prayerbead, prayerbead_stage1",
+                                "shurikenwheel",
+                                "bestowalninjutsu",
+                                "flamebarrel",
                                 "update"
                             ]
                         ]

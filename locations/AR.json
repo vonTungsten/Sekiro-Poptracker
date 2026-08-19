@@ -1,0 +1,493 @@
+[
+    {
+        "name": "AR",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "starting well, miniboss drop",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Scrap Magnetite",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Prayer Bead",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AR",
+                        "x": 3131,
+                        "y": 112,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "tree beside moon-view tower",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Scrap Iron",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AR",
+                        "x": 2416,
+                        "y": 2363,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "starting well, ledge above water",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Scrap Iron",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AR",
+                        "x": 2298,
+                        "y": 2131,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "broken cart in yard",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pellet",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AR",
+                        "x": 1513,
+                        "y": 2415,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "gatehouse, below",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Ceramic Shard",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AR",
+                        "x": 1820,
+                        "y": 1764,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "stairs to gatehouse",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Fistful of Ash",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AR",
+                        "x": 1446,
+                        "y": 1549,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "door left of Secret Passage",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Scrap Iron",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Heavy Coin Purse",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AR",
+                        "x": 88,
+                        "y": 1437,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "gatehouse, next to chest",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Heavy Coin Purse",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AR",
+                        "x": 41,
+                        "y": 2162,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "moon-view tower, red balcony",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Bundled Jizo Statue",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AR",
+                        "x": 2307,
+                        "y": 1315,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "underwater, starting well",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Mibu Balloon of Soul",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AR",
+                        "x": 1762,
+                        "y": 5175,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "moat",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Mibu Balloon of Spirit",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AR",
+                        "x": 1483,
+                        "y": 2451,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "gatehouse, chest",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Gyoubus Broken Horn",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AR",
+                        "x": 2120,
+                        "y": 2017,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "moon-view tower, miniboss drop",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Prayer Bead",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AR",
+                        "x": 771,
+                        "y": 1115,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Leader Shigenori Yamauchi",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pellet",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "AR",
+                    "x": 482,
+                    "y": 319,
+                    "size": 10,
+                    "shape": "rect"
+                }
+                ]
+            },
+            {
+                "name": "starting well",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Ornamental Letter",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations":[
+                 {
+                    "map": "AR",
+                    "x": 830,
+                    "y": 752,
+                    "size": 10,
+                    "shape": "rect"
+                }
+            ]
+            },
+            {
+                "name": "moon-view tower, upper floor",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pellet",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "AR",
+                    "x": 137,
+                    "y": 764,
+                    "size": 10,
+                    "shape": "rect"
+                }
+                ]
+            },
+            {
+                "name": "ledge under bridge",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pellet",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                    "map": "AR",
+                    "x": 899,
+                    "y": 361,
+                    "size": 10,
+                    "shape": "rect"
+                }
+            ]
+            },
+            {
+                "name": "ledge after miniboss",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Fistful of Ash",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                    "map": "AR",
+                    "x": 550,
+                    "y": 350,
+                    "size": 10,
+                    "shape": "rect"
+                }
+            ]
+            }
+        ]
+    }
+]
