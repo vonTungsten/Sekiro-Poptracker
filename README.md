@@ -9,19 +9,20 @@
     - [Getting Help](#getting-help)
     - [Credits](#credits)
 
----
 
 ## Overview
 
-This is a Poptracker pack for the game `Sekiro: Shadows Die Twice` that supports Archipelago tracking.
-
 > **Please note:** This Pack is still WiP and currently does not contain all maps. Additional maps will be added in future [Releases][SPT]. You can check what is available through our [Changelog][CL].
 
-" PopTracker (short for Powerful Open Progress Tracker) is a tracker program that connects to both the multiworld and to your local game. This allows it to guide a player to locations by auto-updating a map with the latest received items and also auto-track certain games to always show nearby locations. 
+This is a Poptracker pack for the game `Sekiro: Shadows Die Twice` that supports Archipelago tracking.
 
-A PopTracker Pack is a community created add-on that is designed for a certain game implementation. A pack is needed for each game that a player wishes to track, and the PopTracker software does little on its own without the relevant packs. " [¹]
+"PopTracker (short for Powerful Open Progress Tracker) is a tracker program that connects to both the multiworld and to your local game. This allows it to guide a player to locations by auto-updating a map with the latest received items and also auto-track certain games to always show nearby locations. 
 
----
+A PopTracker Pack is a community created add-on that is designed for a certain game implementation. A pack is needed for each game that a player wishes to track, and the PopTracker software does little on its own without the relevant packs." [¹]
+
+![Ex-1](/docs/images/Ex-1.png)
+![Ex-2](/docs/images/Ex-2.png)
+
 
 ## Installation
 
@@ -29,7 +30,6 @@ A PopTracker Pack is a community created add-on that is designed for a certain g
 2. Download the latest Sekiro PopTracker Pack from our [Release][SPT] Page.
 3. Drag and drop the `.zip` file directly into the open PopTracker window to install the pack.
 
----
 
 ## Connect to AP
 
@@ -39,7 +39,6 @@ A PopTracker Pack is a community created add-on that is designed for a certain g
 4. If you set a password for your room, enter it now. Otherwise, leave it blank and confirm.
 5. Now the `AP` Symbol in the top left of the PopTracker should be green and you are good to go.
 
----
 
 ## Colors
 
@@ -50,7 +49,6 @@ A PopTracker Pack is a community created add-on that is designed for a certain g
 | Grey   | Checks have already been collected |
 | Mixed  | Several checks exist under this marker with different levels of accessibility |
 
----
 
 ## Getting Help
 
@@ -63,7 +61,6 @@ There you find the [Sekiro AP Channel][S-AP].
 
 Please use our [Issue][I] page and give us as much detail as you can about your question or problem.
 
----
 
 ## Credits
 

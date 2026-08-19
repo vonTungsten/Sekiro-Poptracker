@@ -1,20 +1,44 @@
 [
-    {
-        "name": "Tutorial",
-        "location_size": 6,
-        "location_border_thickness": 1,
-        "img": "images/maps/Tutorial.png"
-    },
-        {
-        "name": "DT",
-        "location_size": 6,
-        "location_border_thickness": 1,
-        "img": "images/maps/DT.png"
-    },
-        {
-        "name": "Ashina Outskirts",
-        "location_size": 6,
-        "location_border_thickness": 1,
-        "img": "images/maps/Ashina_Outskirts.png"
-    }
+  {
+    "name": "DT",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "images/maps/DT.png"
+  },
+  {
+    "name": "AR",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "images/maps/AR.png"
+  },
+  {
+    "name": "AO",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "images/maps/AO.png"
+  },
+  {
+    "name": "AC",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "images/maps/AC.png"
+  },
+  {
+    "name": "AC_Inside",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "images/maps/AC_Inside.png"
+  },
+  {
+    "name": "HE1",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "images/maps/HE1.png"
+  },
+  {
+    "name": "HE2",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "images/maps/HE2.png"
+  }
 ]

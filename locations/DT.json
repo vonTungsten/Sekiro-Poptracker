@@ -9,31 +9,6 @@
         ],
         "children": [
             {
-                "name": "Emma",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "Ashina Sake (heal sculptors Dragonrot)",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "DT",
-                        "x": 100,
-                        "y": 100,
-                        "size": 100
-                    }
-                ]
-            },
-            {
                 "name": "Fujioka the Info Broker",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
@@ -53,19 +28,32 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
+                    },
+                    {
+                        "name": "Three-story Pagoda Memo",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Valley Apparitions Memo",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Dilapidated Temple",
-                        "x": 1237,
-                        "y": 2009,
-                        "size": 6
+                        "map": "DT",
+                        "x": 920,
+                        "y": 460,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Quest: Hanbei the Undying",
+                "name": "complete Tutorial",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -74,7 +62,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Hidden Tooth",
+                        "name": "Shinobi Prosthetic",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -82,15 +70,16 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Dilapidated Temple",
-                        "x": 2176,
-                        "y": 523,
-                        "size": 6
+                        "map": "DT",
+                        "x": 854,
+                        "y": 707,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Behind Temple",
+                "name": "Hanbei the Undying",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -99,7 +88,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Light Coin Purse",
+                        "name": "Hidden Tooth (Quest Reward)",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -107,15 +96,16 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Dilapidated Temple",
-                        "x": 2210,
-                        "y": 1986,
-                        "size": 6
+                        "map": "DT",
+                        "x": 1040,
+                        "y": 176,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Next to Idol",
+                "name": "next to idol",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -132,10 +122,37 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Dilapidated Temple",
-                        "x": 2135,
-                        "y": 1865,
-                        "size": 6
+                        "map": "DT",
+                        "x": 1465,
+                        "y": 2057,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "behind DT",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Light Coin Purse",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DT",
+                        "x": 787,
+                        "y": 763,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -149,19 +166,13 @@
                 ],
                 "sections": [
                     {
-                        "name": "Prosthetic Esoteric Text (needs 3 tools)",
+                        "name": "Shinobi Esoteric Text (needs 1 skill point)",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Shinobi Esoteric Text (needs 1 Skill Point)",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Shinobi Prosthetic",
+                        "name": "Prosthetic Esoteric Text (needs 3 prosthetic tools)",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -169,15 +180,16 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Dilapidated Temple",
-                        "x": 2309,
-                        "y": 917,
-                        "size": 6
+                        "map": "DT",
+                        "x": 800,
+                        "y": 700,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Three-story Pagoda Memo",
+                "name": "Emma",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -186,7 +198,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Fujioka the Info Broker",
+                        "name": "Ashina Sake (heal Sculptors Dragonrot)",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -194,35 +206,11 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Dilapidated Temple",
-                        "x": 931,
-                        "y": 2009,
-                        "size": 6
-                    }
-                ]
-            },
-            {
-                "name": "Valley Apparitions Memo",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "Fujioka after boss killed in Guardian Apes Burrow",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Dilapidated Temple",
-                        "x": 10,
-                        "y": 626,
-                        "size": 6
+                        "map": "DT",
+                        "x": 844,
+                        "y": 558,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             }

@@ -9,7 +9,7 @@
         ],
         "children": [
             {
-                "name": "Tutorial",
+                "name": "AC",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -18,31 +18,3391 @@
                 ],
                 "sections": [
                     {
-                        "name": "Fistful of Ash - ledge after miniboss",
-                        "ref": "Tutorial/Fistful of Ash/ledge after miniboss"
+                        "name": "Dungeon Memorial Mob - Prayer Bead",
+                        "ref": "AC/Dungeon Memorial Mob/Prayer Bead"
                     },
                     {
-                        "name": "Ornamental Letter - starting well",
-                        "ref": "Tutorial/Ornamental Letter/starting well"
+                        "name": "Dungeon Memorial Mob - Dragon",
+                        "ref": "AC/Mask Fragment/Dungeon Memorial Mob/Dragon"
                     },
                     {
-                        "name": "Pellet - miniboss drop",
-                        "ref": "Tutorial/Pellet/miniboss drop"
+                        "name": "Blackhat Badger - Anti-air Deathblow Text",
+                        "ref": "AC/Blackhat Badger/Anti-air Deathblow Text"
                     },
                     {
-                        "name": "Pellet - moon-view tower, upper floor",
-                        "ref": "Tutorial/Pellet/moon-view tower, upper floor"
+                        "name": "Blackhat Badger - Iron Fortress",
+                        "ref": "AC/Blackhat Badger/Iron Fortress"
                     },
                     {
-                        "name": "Pellet - ledge under bridge",
-                        "ref": "Tutorial/Pellet/ledge under bridge"
+                        "name": "Genichiro - Memory",
+                        "ref": "AC/Genichiro/Memory"
+                    },
+                    {
+                        "name": "Kuro - Fragrant Flower Note",
+                        "ref": "AC/Kuro/Fragrant Flower Note"
+                    },
+                    {
+                        "name": "Kuro - Immortal Severance Text",
+                        "ref": "AC/Kuro/Immortal Severance Text"
+                    },
+                    {
+                        "name": "Kuro - Pages Diary",
+                        "ref": "AC/Kuro/Pages Diary"
+                    },
+                    {
+                        "name": "Kuro for Rice for Kuro - Sweet Rice Ball",
+                        "ref": "AC/Kuro for Rice for Kuro/Sweet Rice Ball"
+                    },
+                    {
+                        "name": "Kuro with Lotus of the Palace - Okamis Ancient Text",
+                        "ref": "AC/Kuro with Lotus of the Palace/Okamis Ancient Text"
+                    },
+                    {
+                        "name": "Emma - Immortal Severance Scrap",
+                        "ref": "AC/Emma/Immortal Severance Scrap"
+                    },
+                    {
+                        "name": "Tengu after unlocking special technique - Mushin Esoteric Text",
+                        "ref": "AC/Tengu after unlocking special technique/Mushin Esoteric Text"
+                    },
+                    {
+                        "name": "any Old Praying Woman, pop 1 balloon - Ungos Sugar",
+                        "ref": "AC/any Old Praying Woman, pop 1 balloon/Ungos Sugar"
+                    },
+                    {
+                        "name": "any Old Praying Woman, pop 2 balloons - Akos Sugar",
+                        "ref": "AC/any Old Praying Woman, pop 2 balloons/Akos Sugar"
+                    },
+                    {
+                        "name": "any Old Praying Woman, pop 3 balloons - Divine Confetti",
+                        "ref": "AC/any Old Praying Woman, pop 3 balloons/Divine Confetti"
+                    },
+                    {
+                        "name": "Fujioka - Nightjar Beacon Memo",
+                        "ref": "AC/Fujioka/Nightjar Beacon Memo"
+                    },
+                    {
+                        "name": "shrine across from serpent shrine - Eel Liver",
+                        "ref": "AC/shrine across from serpent shrine/Eel Liver"
+                    },
+                    {
+                        "name": "upper tower, shinobi door - Light Coin Purse",
+                        "ref": "AC/upper tower, shinobi door/Light Coin Purse"
+                    },
+                    {
+                        "name": "upper tower, shinobi door - Heavy Coin Purse",
+                        "ref": "AC/upper tower, shinobi door/Heavy Coin Purse"
+                    },
+                    {
+                        "name": "house before bridge to AD - Light Coin Purse",
+                        "ref": "AC/house before bridge to AD/Light Coin Purse"
+                    },
+                    {
+                        "name": "Ashina Dojo - Eel Liver",
+                        "ref": "AC/Ashina Dojo/Eel Liver"
+                    },
+                    {
+                        "name": "underwater, lake, near bridge - Mibu Possession Balloon",
+                        "ref": "AC/underwater, lake, near bridge/Mibu Possession Balloon"
+                    },
+                    {
+                        "name": "birds nest before grappling to castle roof - Pellet",
+                        "ref": "AC/birds nest before grappling to castle roof/Pellet"
+                    },
+                    {
+                        "name": "courtyard right of Ashina Castle idol - Fistful of Ash",
+                        "ref": "AC/courtyard right of Ashina Castle idol/Fistful of Ash"
+                    },
+                    {
+                        "name": "wagon by Dungeon Memorial Mob - Heavy Coin Purse",
+                        "ref": "AC/wagon by Dungeon Memorial Mob/Heavy Coin Purse"
+                    },
+                    {
+                        "name": "old grave, courtyard near Blackhat Badger - Gachiins Sugar",
+                        "ref": "AC/old grave, courtyard near Blackhat Badger/Gachiins Sugar"
+                    },
+                    {
+                        "name": "old grave, courtyard near Blackhat Badger - Ceramic Shard",
+                        "ref": "AC/old grave, courtyard near Blackhat Badger/Ceramic Shard"
+                    },
+                    {
+                        "name": "old grave, courtyard near Blackhat Badger - Light Coin Purse",
+                        "ref": "AC/old grave, courtyard near Blackhat Badger/Light Coin Purse"
+                    },
+                    {
+                        "name": "old grave, courtyard near Blackhat Badger - Fistful of Ash",
+                        "ref": "AC/old grave, courtyard near Blackhat Badger/Fistful of Ash"
+                    },
+                    {
+                        "name": "upper tower, room near map room - Pellet",
+                        "ref": "AC/upper tower, room near map room/Pellet"
+                    },
+                    {
+                        "name": "upper tower, map room - Akos Sugar",
+                        "ref": "AC/upper tower, map room/Akos Sugar"
+                    },
+                    {
+                        "name": "upper tower, map room - Scrap Iron",
+                        "ref": "AC/upper tower, map room/Scrap Iron"
+                    },
+                    {
+                        "name": "upper tower, Ashina Dojo idol room - Gokans Sugar",
+                        "ref": "AC/upper tower, Ashina Dojo idol room/Gokans Sugar"
+                    },
+                    {
+                        "name": "lake, far ledge - Scrap Iron",
+                        "ref": "AC/lake, far ledge/Scrap Iron"
+                    },
+                    {
+                        "name": "serpent shrine - Mibu Balloon of Spirit",
+                        "ref": "AC/serpent shrine/Mibu Balloon of Spirit"
+                    },
+                    {
+                        "name": "old grave, birds nest close to idol - Gachiins Sugar",
+                        "ref": "AC/old grave, birds nest close to idol/Gachiins Sugar"
+                    },
+                    {
+                        "name": "courtyard near AR entrance - Mibu Possession Balloon",
+                        "ref": "AC/courtyard near AR entrance/Mibu Possession Balloon"
+                    },
+                    {
+                        "name": "courtyard near AR entrance - Scrap Iron",
+                        "ref": "AC/courtyard near AR entrance/Scrap Iron"
+                    },
+                    {
+                        "name": "Kuros room, behind statue - Scrap Magnetite",
+                        "ref": "AC/Kuros room, behind statue/Scrap Magnetite"
+                    },
+                    {
+                        "name": "Isshins dojo - Eel Liver",
+                        "ref": "AC/Isshins dojo/Eel Liver"
+                    },
+                    {
+                        "name": "area right of main stairway, near Fujiokas pursuers - Ceramic Shard",
+                        "ref": "AC/area right of main stairway, near Fujiokas pursuers/Ceramic Shard"
+                    },
+                    {
+                        "name": "main stairway, alcove near top - Mibu Balloon of Wealth",
+                        "ref": "AC/main stairway, alcove near top/Mibu Balloon of Wealth"
+                    },
+                    {
+                        "name": "outside building at AD entrance - Black Gunpowder",
+                        "ref": "AC/outside building at AD entrance/Black Gunpowder"
+                    },
+                    {
+                        "name": "basement, chest room - Gokans Sugar",
+                        "ref": "AC/basement, chest room/Gokans Sugar"
+                    },
+                    {
+                        "name": "basement, chest room - Eel Liver",
+                        "ref": "AC/basement, chest room/Eel Liver"
+                    },
+                    {
+                        "name": "upper tower, rafters - Gachiins Sugar",
+                        "ref": "AC/upper tower, rafters/Gachiins Sugar"
+                    },
+                    {
+                        "name": "Isshins dojo, stairs - Pellet",
+                        "ref": "AC/Isshins dojo, stairs/Pellet"
+                    },
+                    {
+                        "name": "birds nest on roof near Isshins watchtower - Gachiins Sugar",
+                        "ref": "AC/birds nest on roof near Isshins watchtower/Gachiins Sugar"
+                    },
+                    {
+                        "name": "upper tower exterior, birdss nest - Light Coin Purse",
+                        "ref": "AC/upper tower exterior, birdss nest/Light Coin Purse"
+                    },
+                    {
+                        "name": "Blackhat Badger building, roof, birds nest - Ungos Sugar",
+                        "ref": "AC/Blackhat Badger building, roof, birds nest/Ungos Sugar"
+                    },
+                    {
+                        "name": "Ashina Dojo, side room - Scrap Magnetite",
+                        "ref": "AC/Ashina Dojo, side room/Scrap Magnetite"
+                    },
+                    {
+                        "name": "Ashina Dojo, side room - Pellet",
+                        "ref": "AC/Ashina Dojo, side room/Pellet"
+                    },
+                    {
+                        "name": "before AR gate - Pellet",
+                        "ref": "AC/before AR gate/Pellet"
+                    },
+                    {
+                        "name": "birds nest on rooftop path - Ceramic Shard",
+                        "ref": "AC/birds nest on rooftop path/Ceramic Shard"
+                    },
+                    {
+                        "name": "ledge right of Ashina Castle idol - Scrap Iron",
+                        "ref": "AC/ledge right of Ashina Castle idol/Scrap Iron"
+                    },
+                    {
+                        "name": "underwater, by Ashina Castle idol - Treasure Carp Scale",
+                        "ref": "AC/underwater, by Ashina Castle idol/Treasure Carp Scale"
+                    },
+                    {
+                        "name": "lake, bridge - Mibu Possession Balloon",
+                        "ref": "AC/lake, bridge/Mibu Possession Balloon"
+                    },
+                    {
+                        "name": "underwater, near headless #1 - Heavy Coin Purse",
+                        "ref": "AC/underwater, near headless #1/Heavy Coin Purse"
+                    },
+                    {
+                        "name": "underwater, near headless #2 - Heavy Coin Purse",
+                        "ref": "AC/underwater, near headless #2/Heavy Coin Purse"
+                    },
+                    {
+                        "name": "underwater, near headless against castle wall - Yasharikus Sugar",
+                        "ref": "AC/underwater, near headless against castle wall/Yasharikus Sugar"
+                    },
+                    {
+                        "name": "lake, under bridge - Mibu Possession Balloon",
+                        "ref": "AC/lake, under bridge/Mibu Possession Balloon"
+                    },
+                    {
+                        "name": "old grave, near graves - Dragons Blood Droplet",
+                        "ref": "AC/old grave, near graves/Dragons Blood Droplet"
+                    },
+                    {
+                        "name": "birds nest before Antechamber idol - Ceramic Shard",
+                        "ref": "AC/birds nest before Antechamber idol/Ceramic Shard"
+                    },
+                    {
+                        "name": "upper tower, stairs to Ashina Dojo idol - Mibu Balloon of Wealth",
+                        "ref": "AC/upper tower, stairs to Ashina Dojo idol/Mibu Balloon of Wealth"
+                    },
+                    {
+                        "name": "reservoir tower - Ungos Sugar",
+                        "ref": "AC/reservoir tower/Ungos Sugar"
+                    },
+                    {
+                        "name": "upper tower, right of stairs to Ashina Dojo idol - Ceramic Shard",
+                        "ref": "AC/upper tower, right of stairs to Ashina Dojo idol/Ceramic Shard"
+                    },
+                    {
+                        "name": "main stairway, chest at top - Divine Grass",
+                        "ref": "AC/main stairway, chest at top/Divine Grass"
+                    },
+                    {
+                        "name": "old grave, destroyed bridge - Black Gunpowder",
+                        "ref": "AC/old grave, destroyed bridge/Black Gunpowder"
+                    },
+                    {
+                        "name": "Isshins watchtower - Isshins Letter",
+                        "ref": "AC/Isshins watchtower/Isshins Letter"
+                    },
+                    {
+                        "name": "underwater, near headless #3 - Heavy Coin Purse",
+                        "ref": "AC/underwater, near headless #3/Heavy Coin Purse"
+                    },
+                    {
+                        "name": "Kuros library - Gun Fort Shrine Key",
+                        "ref": "AC/Kuros library/Gun Fort Shrine Key"
+                    },
+                    {
+                        "name": "upper tower, by Antechamber idol - Fistful of Ash",
+                        "ref": "AC/upper tower, by Antechamber idol/Fistful of Ash"
+                    },
+                    {
+                        "name": "courtyard before Old Grave idol, enemy drop - Heavy Coin Purse",
+                        "ref": "AC/courtyard before Old Grave idol, enemy drop/Heavy Coin Purse"
+                    },
+                    {
+                        "name": "outside building at AD entrance, enemy drop - Scrap Magnetite",
+                        "ref": "AC/outside building at AD entrance, enemy drop/Scrap Magnetite"
+                    },
+                    {
+                        "name": "underwater, headless drop - Ungos Spiritfall",
+                        "ref": "AC/underwater, headless drop/Ungos Spiritfall"
+                    },
+                    {
+                        "name": "bridge to AD, enemy drop - Gatehouse Key",
+                        "ref": "AC/bridge to AD, enemy drop/Gatehouse Key"
+                    },
+                    {
+                        "name": "basement, chest - Sabimaru",
+                        "ref": "AC/basement, chest/Sabimaru"
+                    },
+                    {
+                        "name": "upper tower, chest near Antechamber idol - Gourd Seed",
+                        "ref": "AC/upper tower, chest near Antechamber idol/Gourd Seed"
+                    },
+                    {
+                        "name": "boss arena, boss drop - Bloodsmoke Ninjutsu",
+                        "ref": "AC/boss arena, boss drop/Bloodsmoke Ninjutsu"
+                    },
+                    {
+                        "name": "main stairway, miniboss drop - Prayer Bead",
+                        "ref": "AC/main stairway, miniboss drop/Prayer Bead"
+                    },
+                    {
+                        "name": "Ashina Dojo, miniboss drop - Prayer Bead",
+                        "ref": "AC/Ashina Dojo, miniboss drop/Prayer Bead"
+                    },
+                    {
+                        "name": "upper tower, shinobi door, chest - Prayer Bead",
+                        "ref": "AC/upper tower, shinobi door, chest/Prayer Bead"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1504,
-                        "y": 654,
+                        "x": 888,
+                        "y": 1406,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "AC_C",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "complete Blackhat Badger quest - Mibu Pilgrimage Balloon",
+                        "ref": "AC_C/complete Blackhat Badger quest/Mibu Pilgrimage Balloon"
+                    },
+                    {
+                        "name": "Emma - Secret Passage Key",
+                        "ref": "AC_C/Emma/Secret Passage Key"
+                    },
+                    {
+                        "name": "courtyard before Old Grave idol - Fistful of Ash",
+                        "ref": "AC_C/courtyard before Old Grave idol/Fistful of Ash"
+                    },
+                    {
+                        "name": "main stairway, middle - Ministry Dousing Powder",
+                        "ref": "AC_C/main stairway, middle/Ministry Dousing Powder"
+                    },
+                    {
+                        "name": "area right of main stairway - Akos Sugar",
+                        "ref": "AC_C/area right of main stairway/Akos Sugar"
+                    },
+                    {
+                        "name": "main stairway, alcove on right - Fulminated Mercury",
+                        "ref": "AC_C/main stairway, alcove on right/Fulminated Mercury"
+                    },
+                    {
+                        "name": "Isshins dojo, near miniboss - Yasharikus Sugar",
+                        "ref": "AC_C/Isshins dojo, near miniboss/Yasharikus Sugar"
+                    },
+                    {
+                        "name": "upper tower, before stairs to Ashina Dojo - Pellet",
+                        "ref": "AC_C/upper tower, before stairs to Ashina Dojo/Pellet"
+                    },
+                    {
+                        "name": "courtyard left of Ashina Castle idol - Gokans Sugar",
+                        "ref": "AC_C/courtyard left of Ashina Castle idol/Gokans Sugar"
+                    },
+                    {
+                        "name": "main stairway, top - Adamantite Scrap",
+                        "ref": "AC_C/main stairway, top/Adamantite Scrap"
+                    },
+                    {
+                        "name": "upper tower, map room - Adamantite Scrap",
+                        "ref": "AC_C/upper tower, map room/Adamantite Scrap"
+                    },
+                    {
+                        "name": "path to serpent shrine, enemy drop - Bundled Jizo Statue",
+                        "ref": "AC_C/path to serpent shrine, enemy drop/Bundled Jizo Statue"
+                    },
+                    {
+                        "name": "Isshins dojo, miniboss drop - Prayer Bead",
+                        "ref": "AC_C/Isshins dojo, miniboss drop/Prayer Bead"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1150,
+                        "y": 610,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "AC_I",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "boss arena, boss drop - Aromatic Branch",
+                        "ref": "AC_I/boss arena, boss drop/Aromatic Branch"
+                    },
+                    {
+                        "name": "boss arena, boss drop - One Mind",
+                        "ref": "AC_I/boss arena, boss drop/One Mind"
+                    },
+                    {
+                        "name": "Great Shinobi - Memory",
+                        "ref": "AC_I/Great Shinobi/Memory"
+                    },
+                    {
+                        "name": "Isshin Ashina - Memory",
+                        "ref": "AC_I/Isshin Ashina/Memory"
+                    },
+                    {
+                        "name": "Kuro after incense and Rice for Kuro - Sweet Rice Ball",
+                        "ref": "AC_I/Kuro after incense and Rice for Kuro/Sweet Rice Ball"
+                    },
+                    {
+                        "name": "Kuro after entering Fountainhead Palace - Divine Grass",
+                        "ref": "AC_I/Kuro after entering Fountainhead Palace/Divine Grass"
+                    },
+                    {
+                        "name": "Emma after eavesdropping on her - Fathers Bell Charm",
+                        "ref": "AC_I/Emma after eavesdropping on her/Fathers Bell Charm"
+                    },
+                    {
+                        "name": "Emma after eavesdropping on Kuro - Tomoes Note",
+                        "ref": "AC_I/Emma after eavesdropping on Kuro/Tomoes Note"
+                    },
+                    {
+                        "name": "end of bridge from AD - Pellet",
+                        "ref": "AC_I/end of bridge from AD/Pellet"
+                    },
+                    {
+                        "name": "lake, bridge - Ceramic Shard",
+                        "ref": "AC_I/lake, bridge/Ceramic Shard"
+                    },
+                    {
+                        "name": "basement, passage to main stairway right - Adamantite Scrap",
+                        "ref": "AC_I/basement, passage to main stairway right/Adamantite Scrap"
+                    },
+                    {
+                        "name": "upper tower, rafters - Pellet",
+                        "ref": "AC_I/upper tower, rafters/Pellet"
+                    },
+                    {
+                        "name": "secluded courtyard - Antidote Powder",
+                        "ref": "AC_I/secluded courtyard/Antidote Powder"
+                    },
+                    {
+                        "name": "upper tower, Ashina Dojo idol room - Adamantite Scrap",
+                        "ref": "AC_I/upper tower, Ashina Dojo idol room/Adamantite Scrap"
+                    },
+                    {
+                        "name": "basement, central structure - Adamantite Scrap",
+                        "ref": "AC_I/basement, central structure/Adamantite Scrap"
+                    },
+                    {
+                        "name": "basement, passage to main stairway left - Oil",
+                        "ref": "AC_I/basement, passage to main stairway left/Oil"
+                    },
+                    {
+                        "name": "moat below Ashina Castle idol - Yasharikus Sugar",
+                        "ref": "AC_I/moat below Ashina Castle idol/Yasharikus Sugar"
+                    },
+                    {
+                        "name": "Isshins watchtower, balcony - Pellet",
+                        "ref": "AC_I/Isshins watchtower, balcony/Pellet"
+                    },
+                    {
+                        "name": "Isshins watchtower, chest - Black Scroll",
+                        "ref": "AC_I/Isshins watchtower, chest/Black Scroll"
+                    },
+                    {
+                        "name": "rooftop path, towards outskirts - Pellet",
+                        "ref": "AC_I/rooftop path, towards outskirts/Pellet"
+                    },
+                    {
+                        "name": "rooftop path, last roof - Scrap Magnetite",
+                        "ref": "AC_I/rooftop path, last roof/Scrap Magnetite"
+                    },
+                    {
+                        "name": "gate from lake to serpent shrine - Yasharikus Sugar",
+                        "ref": "AC_I/gate from lake to serpent shrine/Yasharikus Sugar"
+                    },
+                    {
+                        "name": "serpent shrine, corpse - Dragons Blood Droplet",
+                        "ref": "AC_I/serpent shrine, corpse/Dragons Blood Droplet"
+                    },
+                    {
+                        "name": "main stairway - Oil",
+                        "ref": "AC_I/main stairway/Oil"
+                    },
+                    {
+                        "name": "courtyard far right from Ashina Castle idol - Oil",
+                        "ref": "AC_I/courtyard far right from Ashina Castle idol/Oil"
+                    },
+                    {
+                        "name": "courtyard far right from Ashina Castle idol - Black Gunpowder",
+                        "ref": "AC_I/courtyard far right from Ashina Castle idol/Black Gunpowder"
+                    },
+                    {
+                        "name": "Ashina Dojo, miniboss drop - Lump of Fat Wax",
+                        "ref": "AC_I/Ashina Dojo, miniboss drop/Lump of Fat Wax"
+                    },
+                    {
+                        "name": "Ashina Dojo, miniboss drop - Prayer Bead",
+                        "ref": "AC_I/Ashina Dojo, miniboss drop/Prayer Bead"
+                    },
+                    {
+                        "name": "serpent shrine, miniboss drop - Yellow Gunpowder",
+                        "ref": "AC_I/serpent shrine, miniboss drop/Yellow Gunpowder"
+                    },
+                    {
+                        "name": "serpent shrine, miniboss drop - Prayer Bead",
+                        "ref": "AC_I/serpent shrine, miniboss drop/Prayer Bead"
+                    },
+                    {
+                        "name": "old grave, broken bridge, enemy drop - Heavy Coin Purse",
+                        "ref": "AC_I/old grave, broken bridge, enemy drop/Heavy Coin Purse"
+                    },
+                    {
+                        "name": "underwater, by Ashina Castle idol, Carp drop - Treasure Carp Scale",
+                        "ref": "AC_I/underwater, by Ashina Castle idol, Carp drop/Treasure Carp Scale"
+                    },
+                    {
+                        "name": "basement, miniboss drop - Shinobi Medicine Rank 3",
+                        "ref": "AC_I/basement, miniboss drop/Shinobi Medicine Rank 3"
+                    },
+                    {
+                        "name": "basement, miniboss drop - Prayer Bead",
+                        "ref": "AC_I/basement, miniboss drop/Prayer Bead"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 699,
+                        "y": 777,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "AC_Isshin",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "AC_Isshin - Unrefined Sake",
+                        "ref": "AC_Isshin/Unrefined Sake"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2130,
+                        "y": 1721,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "AD",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Underground Waterway island, red-eyed Kotaro, enemy drop - Red Lump",
+                        "ref": "AD/Underground Waterway island, red-eyed Kotaro, enemy drop/Red Lump"
+                    },
+                    {
+                        "name": "Underground Waterway island, red-eyed Jinzaemon, enemy drop - Red Lump",
+                        "ref": "AD/Underground Waterway island, red-eyed Jinzaemon, enemy drop/Red Lump"
+                    },
+                    {
+                        "name": "start Doujuns quest - Surgeons Bloody Letter",
+                        "ref": "AD/start Doujuns quest/Surgeons Bloody Letter"
+                    },
+                    {
+                        "name": "Doujun after sending subject - Lump of Fat Wax",
+                        "ref": "AD/Doujun after sending subject/Lump of Fat Wax"
+                    },
+                    {
+                        "name": "Doujun requests Red Carp Eyes - Surgeons Stained Letter",
+                        "ref": "AD/Doujun requests Red Carp Eyes/Surgeons Stained Letter"
+                    },
+                    {
+                        "name": "Doujun for Red Carp Eyes - Lump of Grave Wax",
+                        "ref": "AD/Doujun for Red Carp Eyes/Lump of Grave Wax"
+                    },
+                    {
+                        "name": "Underground Waterway island, red-eyed Doujun, enemy drop - Academics Red Lump",
+                        "ref": "AD/Underground Waterway island, red-eyed Doujun, enemy drop/Academics Red Lump"
+                    },
+                    {
+                        "name": "underwater, Doujuns cell - Dosakus Note",
+                        "ref": "AD/underwater, Doujuns cell/Dosakus Note"
+                    },
+                    {
+                        "name": "underwater, Doujuns cell - Pacifying Agent",
+                        "ref": "AD/underwater, Doujuns cell/Pacifying Agent"
+                    },
+                    {
+                        "name": "cell, first on the left - Rotting Prisoners Note",
+                        "ref": "AD/cell, first on the left/Rotting Prisoners Note"
+                    },
+                    {
+                        "name": "Underground Waterway island - Pacifying Agent",
+                        "ref": "AD/Underground Waterway island/Pacifying Agent"
+                    },
+                    {
+                        "name": "Underground Waterway island - Light Coin Purse",
+                        "ref": "AD/Underground Waterway island/Light Coin Purse"
+                    },
+                    {
+                        "name": "Underground Waterway island - Black Gunpowder",
+                        "ref": "AD/Underground Waterway island/Black Gunpowder"
+                    },
+                    {
+                        "name": "cell, first on the right - Pacifying Agent",
+                        "ref": "AD/cell, first on the right/Pacifying Agent"
+                    },
+                    {
+                        "name": "along right wall - Pacifying Agent",
+                        "ref": "AD/along right wall/Pacifying Agent"
+                    },
+                    {
+                        "name": "cricket pit #1 - Oil",
+                        "ref": "AD/cricket pit #1/Oil"
+                    },
+                    {
+                        "name": "Bottomless Hole, wooden planks above miniboss arena - Mibu Balloon of Soul",
+                        "ref": "AD/Bottomless Hole, wooden planks above miniboss arena/Mibu Balloon of Soul"
+                    },
+                    {
+                        "name": "cricket pit #2 - Oil",
+                        "ref": "AD/cricket pit #2/Oil"
+                    },
+                    {
+                        "name": "Bottomless Hole, stalagmite in miniboss arena - Mibu Balloon of Soul",
+                        "ref": "AD/Bottomless Hole, stalagmite in miniboss arena/Mibu Balloon of Soul"
+                    },
+                    {
+                        "name": "corpse before Underground Waterway idol - Red Lump",
+                        "ref": "AD/corpse before Underground Waterway idol/Red Lump"
+                    },
+                    {
+                        "name": "Underground Waterway island, boat - Akos Sugar",
+                        "ref": "AD/Underground Waterway island, boat/Akos Sugar"
+                    },
+                    {
+                        "name": "thin cave connecting AD to Bottomless Hole - Bite Down",
+                        "ref": "AD/thin cave connecting AD to Bottomless Hole/Bite Down"
+                    },
+                    {
+                        "name": "Bottomless Hole, small platform above miniboss arena - Pacifying Agent",
+                        "ref": "AD/Bottomless Hole, small platform above miniboss arena/Pacifying Agent"
+                    },
+                    {
+                        "name": "Bottomless Hole, stalagmite near idol - Bulging Coin Purse",
+                        "ref": "AD/Bottomless Hole, stalagmite near idol/Bulging Coin Purse"
+                    },
+                    {
+                        "name": "underwater, Underground Waterway #1, 3-item group - Light Coin Purse",
+                        "ref": "AD/underwater, Underground Waterway #1, 3-item group/Light Coin Purse"
+                    },
+                    {
+                        "name": "underwater, Underground Waterway - Ceramic Shard",
+                        "ref": "AD/underwater, Underground Waterway/Ceramic Shard"
+                    },
+                    {
+                        "name": "Bottomless Hole drop, top platform after falling - Mibu Balloon of Soul",
+                        "ref": "AD/Bottomless Hole drop, top platform after falling/Mibu Balloon of Soul"
+                    },
+                    {
+                        "name": "Bottomless Hole, before drop to Ashina Depths idol - Fistful of Ash",
+                        "ref": "AD/Bottomless Hole, before drop to Ashina Depths idol/Fistful of Ash"
+                    },
+                    {
+                        "name": "underwater, grapple after path to Doujuns cell - Mibu Balloon of Soul",
+                        "ref": "AD/underwater, grapple after path to Doujuns cell/Mibu Balloon of Soul"
+                    },
+                    {
+                        "name": "Bottomless Hole, wall in miniboss arena - Scrap Magnetite",
+                        "ref": "AD/Bottomless Hole, wall in miniboss arena/Scrap Magnetite"
+                    },
+                    {
+                        "name": "Underground Waterway, ramp after idol - Scrap Iron",
+                        "ref": "AD/Underground Waterway, ramp after idol/Scrap Iron"
+                    },
+                    {
+                        "name": "Bottomless Hole, alcove in miniboss arena - Black Gunpowder",
+                        "ref": "AD/Bottomless Hole, alcove in miniboss arena/Black Gunpowder"
+                    },
+                    {
+                        "name": "underwater, Underground Waterway #2, 3-item group - Light Coin Purse",
+                        "ref": "AD/underwater, Underground Waterway #2, 3-item group/Light Coin Purse"
+                    },
+                    {
+                        "name": "underwater, Underground Waterway #3, 3-item group - Light Coin Purse",
+                        "ref": "AD/underwater, Underground Waterway #3, 3-item group/Light Coin Purse"
+                    },
+                    {
+                        "name": "Bottomless Hole, miniboss drop - Ceremonial Tanto",
+                        "ref": "AD/Bottomless Hole, miniboss drop/Ceremonial Tanto"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2289,
+                        "y": 1261,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "AO",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crows Bed & Battlefield Memorial Mob - Roberts Firecrackers",
+                        "ref": "AO/Crows Bed & Battlefield Memorial Mob/Roberts Firecrackers"
+                    },
+                    {
+                        "name": "Battlefield Memorial Mob - Gourd Seed",
+                        "ref": "AO/Battlefield Memorial Mob/Gourd Seed"
+                    },
+                    {
+                        "name": "Anayama the Peddler - Phantom Kunai",
+                        "ref": "AO/Anayama the Peddler/Phantom Kunai"
+                    },
+                    {
+                        "name": "Gyoubu Oniwa - Memory",
+                        "ref": "AO/Gyoubu Oniwa/Memory"
+                    },
+                    {
+                        "name": "Inosukes Mother - Young Lords Bell Charm",
+                        "ref": "AO/Inosukes Mother/Young Lords Bell Charm"
+                    },
+                    {
+                        "name": "Anayama - Flame Barrel Memo",
+                        "ref": "AO/Anayama/Flame Barrel Memo"
+                    },
+                    {
+                        "name": "Anayama with Flame Barrel - Oil",
+                        "ref": "AO/Anayama with Flame Barrel/Oil"
+                    },
+                    {
+                        "name": "agree to help Tengu - Rat Description",
+                        "ref": "AO/agree to help Tengu/Rat Description"
+                    },
+                    {
+                        "name": "near palanquin in Underbridge Valley - Snap Seed",
+                        "ref": "AO/near palanquin in Underbridge Valley/Snap Seed"
+                    },
+                    {
+                        "name": "left on lower path at area start - Pellet",
+                        "ref": "AO/left on lower path at area start/Pellet"
+                    },
+                    {
+                        "name": "broken wall above Ashina Outskirts idol - Ungos Sugar",
+                        "ref": "AO/broken wall above Ashina Outskirts idol/Ungos Sugar"
+                    },
+                    {
+                        "name": "under branch on lower path at area start - Ceramic Shard",
+                        "ref": "AO/under branch on lower path at area start/Ceramic Shard"
+                    },
+                    {
+                        "name": "gate house before tall grass - Ungos Sugar",
+                        "ref": "AO/gate house before tall grass/Ungos Sugar"
+                    },
+                    {
+                        "name": "right cliff from Outskirts idol, near broken wall - Ceramic Shard",
+                        "ref": "AO/right cliff from Outskirts idol, near broken wall/Ceramic Shard"
+                    },
+                    {
+                        "name": "cliff courtyard, broken hut - Fistful of Ash",
+                        "ref": "AO/cliff courtyard, broken hut/Fistful of Ash"
+                    },
+                    {
+                        "name": "left above wide gate house - Pellet",
+                        "ref": "AO/left above wide gate house/Pellet"
+                    },
+                    {
+                        "name": "destroyed house, second floor - Ceramic Shard",
+                        "ref": "AO/destroyed house, second floor/Ceramic Shard"
+                    },
+                    {
+                        "name": "destroyed house, first floor - Mibu Balloon of Wealth",
+                        "ref": "AO/destroyed house, first floor/Mibu Balloon of Wealth"
+                    },
+                    {
+                        "name": "below cave beneath wide gate house - Gachiins Sugar",
+                        "ref": "AO/below cave beneath wide gate house/Gachiins Sugar"
+                    },
+                    {
+                        "name": "room under Inosukes Mother #1 - Light Coin Purse",
+                        "ref": "AO/room under Inosukes Mother #1/Light Coin Purse"
+                    },
+                    {
+                        "name": "room under Inosukes Mother #2 - Light Coin Purse",
+                        "ref": "AO/room under Inosukes Mother #2/Light Coin Purse"
+                    },
+                    {
+                        "name": "room under Inosukes Mother #3 - Light Coin Purse",
+                        "ref": "AO/room under Inosukes Mother #3/Light Coin Purse"
+                    },
+                    {
+                        "name": "right of gate leading to Gate Path idol - Fistful of Ash",
+                        "ref": "AO/right of gate leading to Gate Path idol/Fistful of Ash"
+                    },
+                    {
+                        "name": "up stairs, before lookout building miniboss - Pellet",
+                        "ref": "AO/up stairs, before lookout building miniboss/Pellet"
+                    },
+                    {
+                        "name": "left of miniboss before lookout building - Mibu Balloon of Wealth",
+                        "ref": "AO/left of miniboss before lookout building/Mibu Balloon of Wealth"
+                    },
+                    {
+                        "name": "lookout building, left room - Ceramic Shard",
+                        "ref": "AO/lookout building, left room/Ceramic Shard"
+                    },
+                    {
+                        "name": "lookout building, left room - Gourd Seed",
+                        "ref": "AO/lookout building, left room/Gourd Seed"
+                    },
+                    {
+                        "name": "house with headless cave shortcut - Gachiins Sugar",
+                        "ref": "AO/house with headless cave shortcut/Gachiins Sugar"
+                    },
+                    {
+                        "name": "lookout building, right room - Antidote Powder",
+                        "ref": "AO/lookout building, right room/Antidote Powder"
+                    },
+                    {
+                        "name": "lookout building, right room - Divine Grass",
+                        "ref": "AO/lookout building, right room/Divine Grass"
+                    },
+                    {
+                        "name": "just before Underbridge Valley idol - Pellet",
+                        "ref": "AO/just before Underbridge Valley idol/Pellet"
+                    },
+                    {
+                        "name": "fortress, behind house - Ungos Sugar",
+                        "ref": "AO/fortress, behind house/Ungos Sugar"
+                    },
+                    {
+                        "name": "fortress, courtyard house bottom floor - Heavy Coin Purse",
+                        "ref": "AO/fortress, courtyard house bottom floor/Heavy Coin Purse"
+                    },
+                    {
+                        "name": "fortress, courtyard house bottom floor - Mibu Balloon of Wealth",
+                        "ref": "AO/fortress, courtyard house bottom floor/Mibu Balloon of Wealth"
+                    },
+                    {
+                        "name": "fortress, near dead horse - Fistful of Ash",
+                        "ref": "AO/fortress, near dead horse/Fistful of Ash"
+                    },
+                    {
+                        "name": "fortress, near doors opened from other side - Pellet",
+                        "ref": "AO/fortress, near doors opened from other side/Pellet"
+                    },
+                    {
+                        "name": "fortress, along left outer wall from idol - Akos Sugar",
+                        "ref": "AO/fortress, along left outer wall from idol/Akos Sugar"
+                    },
+                    {
+                        "name": "boss arena - Fistful of Ash",
+                        "ref": "AO/boss arena/Fistful of Ash"
+                    },
+                    {
+                        "name": "lookout building, grapple entrance - Nightjar Monocular",
+                        "ref": "AO/lookout building, grapple entrance/Nightjar Monocular"
+                    },
+                    {
+                        "name": "courtyard after lookout building - Scrap Iron",
+                        "ref": "AO/courtyard after lookout building/Scrap Iron"
+                    },
+                    {
+                        "name": "cave beneath wide gate house - Bundled Jizo Statue",
+                        "ref": "AO/cave beneath wide gate house/Bundled Jizo Statue"
+                    },
+                    {
+                        "name": "destroyed house, roof - Light Coin Purse",
+                        "ref": "AO/destroyed house, roof/Light Coin Purse"
+                    },
+                    {
+                        "name": "behind cliffside gate - Pellet",
+                        "ref": "AO/behind cliffside gate/Pellet"
+                    },
+                    {
+                        "name": "right cliff from Outskirts idol, wall cave - Akos Sugar",
+                        "ref": "AO/right cliff from Outskirts idol, wall cave/Akos Sugar"
+                    },
+                    {
+                        "name": "left of gate to Gate Path idol - Pellet",
+                        "ref": "AO/left of gate to Gate Path idol/Pellet"
+                    },
+                    {
+                        "name": "left of Gate Path idol - Ceramic Shard",
+                        "ref": "AO/left of Gate Path idol/Ceramic Shard"
+                    },
+                    {
+                        "name": "secluded platforms, after snake skin - Scrap Iron",
+                        "ref": "AO/secluded platforms, after snake skin/Scrap Iron"
+                    },
+                    {
+                        "name": "secluded platforms, before snake skin #1 - Mibu Possession Balloon",
+                        "ref": "AO/secluded platforms, before snake skin #1/Mibu Possession Balloon"
+                    },
+                    {
+                        "name": "secluded platforms, before snake skin #2 - Mibu Possession Balloon",
+                        "ref": "AO/secluded platforms, before snake skin #2/Mibu Possession Balloon"
+                    },
+                    {
+                        "name": "after shimmy on way to headless cave - Gachiins Sugar",
+                        "ref": "AO/after shimmy on way to headless cave/Gachiins Sugar"
+                    },
+                    {
+                        "name": "slope before headless warning sign - Divine Confetti",
+                        "ref": "AO/slope before headless warning sign/Divine Confetti"
+                    },
+                    {
+                        "name": "fortress, left of idol - Gachiins Sugar",
+                        "ref": "AO/fortress, left of idol/Gachiins Sugar"
+                    },
+                    {
+                        "name": "fortress, courtyard outside house - Ceramic Shard",
+                        "ref": "AO/fortress, courtyard outside house/Ceramic Shard"
+                    },
+                    {
+                        "name": "before stairs next to Tengu Tower - Ceramic Shard",
+                        "ref": "AO/before stairs next to Tengu Tower/Ceramic Shard"
+                    },
+                    {
+                        "name": "Tengu Tower, second floor - Light Coin Purse",
+                        "ref": "AO/Tengu Tower, second floor/Light Coin Purse"
+                    },
+                    {
+                        "name": "Tengu Tower, bottom floor - Pellet",
+                        "ref": "AO/Tengu Tower, bottom floor/Pellet"
+                    },
+                    {
+                        "name": "fortress, near idol, enemy drop - Herb Catalogue Scrap",
+                        "ref": "AO/fortress, near idol, enemy drop/Herb Catalogue Scrap"
+                    },
+                    {
+                        "name": "right cobblestone platform, enemy drop - Black Gunpowder",
+                        "ref": "AO/right cobblestone platform, enemy drop/Black Gunpowder"
+                    },
+                    {
+                        "name": "headless cave, miniboss drop - Akos Spiritfall",
+                        "ref": "AO/headless cave, miniboss drop/Akos Spiritfall"
+                    },
+                    {
+                        "name": "wide gate house, second floor - Shuriken Wheel",
+                        "ref": "AO/wide gate house, second floor/Shuriken Wheel"
+                    },
+                    {
+                        "name": "before lookout building, miniboss drop - Shinobi Medicine Rank 1",
+                        "ref": "AO/before lookout building, miniboss drop/Shinobi Medicine Rank 1"
+                    },
+                    {
+                        "name": "before lookout building, miniboss drop - Prayer Bead",
+                        "ref": "AO/before lookout building, miniboss drop/Prayer Bead"
+                    },
+                    {
+                        "name": "cliff courtyard, miniboss drop - Gourd Seed",
+                        "ref": "AO/cliff courtyard, miniboss drop/Gourd Seed"
+                    },
+                    {
+                        "name": "cliff courtyard, miniboss drop - Prayer Bead",
+                        "ref": "AO/cliff courtyard, miniboss drop/Prayer Bead"
+                    },
+                    {
+                        "name": "boss arena, boss drop - Mechanical Barrel",
+                        "ref": "AO/boss arena, boss drop/Mechanical Barrel"
+                    },
+                    {
+                        "name": "courtyard after lookout building, miniboss drop - Prayer Bead",
+                        "ref": "AO/courtyard after lookout building, miniboss drop/Prayer Bead"
+                    },
+                    {
+                        "name": "Tengu Tower, top floor chest - Prayer Bead",
+                        "ref": "AO/Tengu Tower, top floor chest/Prayer Bead"
+                    },
+                    {
+                        "name": "Tengu after killing rats - Ashina Esoteric Text",
+                        "ref": "AO/Tengu after killing rats/Ashina Esoteric Text"
+                    },
+                    {
+                        "name": "tree near Tengu rat quest enemy - Pellet",
+                        "ref": "AO/tree near Tengu rat quest enemy/Pellet"
+                    },
+                    {
+                        "name": "castle gate courtyard, corner house at tree - Fistful of Ash",
+                        "ref": "AO/castle gate courtyard, corner house at tree/Fistful of Ash"
+                    },
+                    {
+                        "name": "castle gate courtyard, cliffside, behind wall - Akos Sugar",
+                        "ref": "AO/castle gate courtyard, cliffside, behind wall/Akos Sugar"
+                    },
+                    {
+                        "name": "building in castle gate courtyard, top floor - Light Coin Purse",
+                        "ref": "AO/building in castle gate courtyard, top floor/Light Coin Purse"
+                    },
+                    {
+                        "name": "base of stairs after Ashina Castle Gate idol - Ceramic Shard",
+                        "ref": "AO/base of stairs after Ashina Castle Gate idol/Ceramic Shard"
+                    },
+                    {
+                        "name": "castle gate courtyard, hidden behind corner house - Scrap Iron",
+                        "ref": "AO/castle gate courtyard, hidden behind corner house/Scrap Iron"
+                    },
+                    {
+                        "name": "stone near Ashina Castle entrance walls - Scrap Iron",
+                        "ref": "AO/stone near Ashina Castle entrance walls/Scrap Iron"
+                    },
+                    {
+                        "name": "tree near Ashina Castle entrance walls - Gachiins Sugar",
+                        "ref": "AO/tree near Ashina Castle entrance walls/Gachiins Sugar"
+                    },
+                    {
+                        "name": "Tengu rat quest, enemy drop - Black Gunpowder",
+                        "ref": "AO/Tengu rat quest, enemy drop/Black Gunpowder"
+                    },
+                    {
+                        "name": "Ashina Castle entrance, miniboss drop - Shinobi Medicine Rank 2",
+                        "ref": "AO/Ashina Castle entrance, miniboss drop/Shinobi Medicine Rank 2"
+                    },
+                    {
+                        "name": "Ashina Castle entrance, miniboss drop - Prayer Bead",
+                        "ref": "AO/Ashina Castle entrance, miniboss drop/Prayer Bead"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 656,
+                        "y": 1488,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "AO_C",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Anayama the Peddler - Promissory Note",
+                        "ref": "AO_C/Anayama the Peddler/Promissory Note"
+                    },
+                    {
+                        "name": "Flames of Hatred, boss drop - Lapis Lazuli",
+                        "ref": "AO_C/Flames of Hatred, boss drop/Lapis Lazuli"
+                    },
+                    {
+                        "name": "Hatred Demon - Memory",
+                        "ref": "AO_C/Hatred Demon/Memory"
+                    },
+                    {
+                        "name": "near headless warning sign - Adamantite Scrap",
+                        "ref": "AO_C/near headless warning sign/Adamantite Scrap"
+                    },
+                    {
+                        "name": "top of tower near Stairway idol - Adamantite Scrap",
+                        "ref": "AO_C/top of tower near Stairway idol/Adamantite Scrap"
+                    },
+                    {
+                        "name": "gate before stairs to Inosukes house - Adamantite Scrap",
+                        "ref": "AO_C/gate before stairs to Inosukes house/Adamantite Scrap"
+                    },
+                    {
+                        "name": "explosive crates after lookout building - Fulminated Mercury",
+                        "ref": "AO_C/explosive crates after lookout building/Fulminated Mercury"
+                    },
+                    {
+                        "name": "explosive crates at tower near destroyed house - Fulminated Mercury",
+                        "ref": "AO_C/explosive crates at tower near destroyed house/Fulminated Mercury"
+                    },
+                    {
+                        "name": "stairs leading to Tengu tower - Lump of Grave Wax",
+                        "ref": "AO_C/stairs leading to Tengu tower/Lump of Grave Wax"
+                    },
+                    {
+                        "name": "base of second tower on cliffside - Lump of Grave Wax",
+                        "ref": "AO_C/base of second tower on cliffside/Lump of Grave Wax"
+                    },
+                    {
+                        "name": "after crossing rebuilt bridge - Ministry Dousing Powder",
+                        "ref": "AO_C/after crossing rebuilt bridge/Ministry Dousing Powder"
+                    },
+                    {
+                        "name": "lookout building, middle room - Gachiins Sugar",
+                        "ref": "AO_C/lookout building, middle room/Gachiins Sugar"
+                    },
+                    {
+                        "name": "lookout building, right room - Heavy Coin Purse",
+                        "ref": "AO_C/lookout building, right room/Heavy Coin Purse"
+                    },
+                    {
+                        "name": "left from base of tower near Stairway idol - Pellet",
+                        "ref": "AO_C/left from base of tower near Stairway idol/Pellet"
+                    },
+                    {
+                        "name": "base of tower near Stairway idol - Fistful of Ash",
+                        "ref": "AO_C/base of tower near Stairway idol/Fistful of Ash"
+                    },
+                    {
+                        "name": "behind Anayamas first shop - Gachiins Sugar",
+                        "ref": "AO_C/behind Anayamas first shop/Gachiins Sugar"
+                    },
+                    {
+                        "name": "explosive crates after Inosukes house - Ministry Dousing Powder",
+                        "ref": "AO_C/explosive crates after Inosukes house/Ministry Dousing Powder"
+                    },
+                    {
+                        "name": "destroyed house, second floor - Pellet",
+                        "ref": "AO_C/destroyed house, second floor/Pellet"
+                    },
+                    {
+                        "name": "inside Tengu tower, ground floor - Dragons Blood Droplet",
+                        "ref": "AO_C/inside Tengu tower, ground floor/Dragons Blood Droplet"
+                    },
+                    {
+                        "name": "courtyard before lookout building, miniboss drop - Prayer Bead",
+                        "ref": "AO_C/courtyard before lookout building, miniboss drop/Prayer Bead"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2470,
+                        "y": 189,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "AR",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "starting well, miniboss drop - Scrap Magnetite",
+                        "ref": "AR/starting well, miniboss drop/Scrap Magnetite"
+                    },
+                    {
+                        "name": "starting well, miniboss drop - Prayer Bead",
+                        "ref": "AR/starting well, miniboss drop/Prayer Bead"
+                    },
+                    {
+                        "name": "tree beside moon-view tower - Scrap Iron",
+                        "ref": "AR/tree beside moon-view tower/Scrap Iron"
+                    },
+                    {
+                        "name": "starting well, ledge above water - Scrap Iron",
+                        "ref": "AR/starting well, ledge above water/Scrap Iron"
+                    },
+                    {
+                        "name": "broken cart in yard - Pellet",
+                        "ref": "AR/broken cart in yard/Pellet"
+                    },
+                    {
+                        "name": "gatehouse, below - Ceramic Shard",
+                        "ref": "AR/gatehouse, below/Ceramic Shard"
+                    },
+                    {
+                        "name": "stairs to gatehouse - Fistful of Ash",
+                        "ref": "AR/stairs to gatehouse/Fistful of Ash"
+                    },
+                    {
+                        "name": "door left of Secret Passage - Scrap Iron",
+                        "ref": "AR/door left of Secret Passage/Scrap Iron"
+                    },
+                    {
+                        "name": "door left of Secret Passage - Heavy Coin Purse",
+                        "ref": "AR/door left of Secret Passage/Heavy Coin Purse"
+                    },
+                    {
+                        "name": "gatehouse, next to chest - Heavy Coin Purse",
+                        "ref": "AR/gatehouse, next to chest/Heavy Coin Purse"
+                    },
+                    {
+                        "name": "moon-view tower, red balcony - Bundled Jizo Statue",
+                        "ref": "AR/moon-view tower, red balcony/Bundled Jizo Statue"
+                    },
+                    {
+                        "name": "underwater, starting well - Mibu Balloon of Soul",
+                        "ref": "AR/underwater, starting well/Mibu Balloon of Soul"
+                    },
+                    {
+                        "name": "moat - Mibu Balloon of Spirit",
+                        "ref": "AR/moat/Mibu Balloon of Spirit"
+                    },
+                    {
+                        "name": "gatehouse, chest - Gyoubus Broken Horn",
+                        "ref": "AR/gatehouse, chest/Gyoubus Broken Horn"
+                    },
+                    {
+                        "name": "moon-view tower, miniboss drop - Prayer Bead",
+                        "ref": "AR/moon-view tower, miniboss drop/Prayer Bead"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 742,
+                        "y": 140,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "AR_C",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Saint Isshin - Memory",
+                        "ref": "AR_C/Saint Isshin/Memory"
+                    },
+                    {
+                        "name": "behind miniboss against gate - Fulminated Mercury",
+                        "ref": "AR_C/behind miniboss against gate/Fulminated Mercury"
+                    },
+                    {
+                        "name": "under bridge before Secret Passage - Pellet",
+                        "ref": "AR_C/under bridge before Secret Passage/Pellet"
+                    },
+                    {
+                        "name": "tree near miniboss - Ministry Dousing Powder",
+                        "ref": "AR_C/tree near miniboss/Ministry Dousing Powder"
+                    },
+                    {
+                        "name": "final boss drop - Dragon Flash",
+                        "ref": "AR_C/final boss drop/Dragon Flash"
+                    },
+                    {
+                        "name": "miniboss drop - Prayer Bead",
+                        "ref": "AR_C/miniboss drop/Prayer Bead"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 96,
+                        "y": 1924,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "DT",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Fujioka the Info Broker - Gourd Seed",
+                        "ref": "DT/Fujioka the Info Broker/Gourd Seed"
+                    },
+                    {
+                        "name": "Fujioka the Info Broker - Sabimaru Memo",
+                        "ref": "DT/Fujioka the Info Broker/Sabimaru Memo"
+                    },
+                    {
+                        "name": "Fujioka the Info Broker - Three-story Pagoda Memo",
+                        "ref": "DT/Fujioka the Info Broker/Three-story Pagoda Memo"
+                    },
+                    {
+                        "name": "Fujioka after boss killed in Guardian Apes Burrow - Valley Apparitions Memo",
+                        "ref": "DT/Fujioka after boss killed in Guardian Apes Burrow/Valley Apparitions Memo"
+                    },
+                    {
+                        "name": "complete Tutorial - Shinobi Prosthetic",
+                        "ref": "DT/complete Tutorial/Shinobi Prosthetic"
+                    },
+                    {
+                        "name": "complete Hanbeis quest - Hidden Tooth",
+                        "ref": "DT/complete Hanbeis quest/Hidden Tooth"
+                    },
+                    {
+                        "name": "next to idol - Pellet",
+                        "ref": "DT/next to idol/Pellet"
+                    },
+                    {
+                        "name": "behind DT - Light Coin Purse",
+                        "ref": "DT/behind DT/Light Coin Purse"
+                    },
+                    {
+                        "name": "talk to Sculptor with 1 skill point - Shinobi Esoteric Text",
+                        "ref": "DT/talk to Sculptor with 1 skill point/Shinobi Esoteric Text"
+                    },
+                    {
+                        "name": "talk to Sculptor with 3 prosthetic tools - Prosthetic Esoteric Text",
+                        "ref": "DT/talk to Sculptor with 3 prosthetic tools/Prosthetic Esoteric Text"
+                    },
+                    {
+                        "name": "Emma after healing Sculptors dragonrot - Ashina Sake",
+                        "ref": "DT/Emma after healing Sculptors dragonrot/Ashina Sake"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 818,
+                        "y": 1647,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "FP1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pot Noble Koremori - Left",
+                        "ref": "FP1/Mask Fragment/Pot Noble Koremori/Left"
+                    },
+                    {
+                        "name": "Pot Noble Koremori - Dragons Blood Droplet",
+                        "ref": "FP1/Pot Noble Koremori/Dragons Blood Droplet"
+                    },
+                    {
+                        "name": "True Monk - Memory",
+                        "ref": "FP1/True Monk/Memory"
+                    },
+                    {
+                        "name": "Pot Noble Koremori after 9 scales - Truly Precious Bait",
+                        "ref": "FP1/Pot Noble Koremori after 9 scales/Truly Precious Bait"
+                    },
+                    {
+                        "name": "first building after descent from Vermilion Bridge - Mibu Balloon of Soul",
+                        "ref": "FP1/first building after descent from Vermilion Bridge/Mibu Balloon of Soul"
+                    },
+                    {
+                        "name": "log left of first building - Light Coin Purse",
+                        "ref": "FP1/log left of first building/Light Coin Purse"
+                    },
+                    {
+                        "name": "second building backside, room under overhang - Mibu Balloon of Wealth",
+                        "ref": "FP1/second building backside, room under overhang/Mibu Balloon of Wealth"
+                    },
+                    {
+                        "name": "courtyard, behind bridge - Eel Liver",
+                        "ref": "FP1/courtyard, behind bridge/Eel Liver"
+                    },
+                    {
+                        "name": "courtyard, middle between trees - Ungos Sugar",
+                        "ref": "FP1/courtyard, middle between trees/Ungos Sugar"
+                    },
+                    {
+                        "name": "courtyard, middle between trees - Heavy Coin Purse",
+                        "ref": "FP1/courtyard, middle between trees/Heavy Coin Purse"
+                    },
+                    {
+                        "name": "courtyard, tree left of door to idol - Yasharikus Sugar",
+                        "ref": "FP1/courtyard, tree left of door to idol/Yasharikus Sugar"
+                    },
+                    {
+                        "name": "Mibu Manor, dive in left corner before exit #1 - Treasure Carp Scale",
+                        "ref": "FP1/Mibu Manor, dive in left corner before exit #1/Treasure Carp Scale"
+                    },
+                    {
+                        "name": "Mibu Manor, room with old woman - Bite Down",
+                        "ref": "FP1/Mibu Manor, room with old woman/Bite Down"
+                    },
+                    {
+                        "name": "Mibu Manor, dive in left corner before exit #2 - Treasure Carp Scale",
+                        "ref": "FP1/Mibu Manor, dive in left corner before exit #2/Treasure Carp Scale"
+                    },
+                    {
+                        "name": "Mibu Manor, central open area under tree - Pellet",
+                        "ref": "FP1/Mibu Manor, central open area under tree/Pellet"
+                    },
+                    {
+                        "name": "Mibu Manor, tree outside window at first enemy - Akos Sugar",
+                        "ref": "FP1/Mibu Manor, tree outside window at first enemy/Akos Sugar"
+                    },
+                    {
+                        "name": "Mibu Manor, first house on left - Eel Liver",
+                        "ref": "FP1/Mibu Manor, first house on left/Eel Liver"
+                    },
+                    {
+                        "name": "Mibu Manor, far left corner - Divine Confetti",
+                        "ref": "FP1/Mibu Manor, far left corner/Divine Confetti"
+                    },
+                    {
+                        "name": "Mibu Manor, first left house dead end - Yellow Gunpowder",
+                        "ref": "FP1/Mibu Manor, first left house dead end/Yellow Gunpowder"
+                    },
+                    {
+                        "name": "Mibu Manor, room with chest - Adamantite Scrap",
+                        "ref": "FP1/Mibu Manor, room with chest/Adamantite Scrap"
+                    },
+                    {
+                        "name": "Mibu Manor, chest in room across water - Divine Grass",
+                        "ref": "FP1/Mibu Manor, chest in room across water/Divine Grass"
+                    },
+                    {
+                        "name": "behind pagoda at Flower Viewing Stage idol - Divine Confetti",
+                        "ref": "FP1/behind pagoda at Flower Viewing Stage idol/Divine Confetti"
+                    },
+                    {
+                        "name": "beside Mibu Manor, 3-item group - Adamantite Scrap",
+                        "ref": "FP1/beside Mibu Manor, 3-item group/Adamantite Scrap"
+                    },
+                    {
+                        "name": "beside Mibu Manor, 3-item group - Yasharikus Sugar",
+                        "ref": "FP1/beside Mibu Manor, 3-item group/Yasharikus Sugar"
+                    },
+                    {
+                        "name": "beside Mibu Manor, 3-item group - Bulging Coin Purse",
+                        "ref": "FP1/beside Mibu Manor, 3-item group/Bulging Coin Purse"
+                    },
+                    {
+                        "name": "beside Mibu Manor, along wall - Pellet",
+                        "ref": "FP1/beside Mibu Manor, along wall/Pellet"
+                    },
+                    {
+                        "name": "past bridge, building across from bridge - Mibu Balloon of Soul",
+                        "ref": "FP1/past bridge, building across from bridge/Mibu Balloon of Soul"
+                    },
+                    {
+                        "name": "past bridge, underneath first platform - Mibu Balloon of Soul",
+                        "ref": "FP1/past bridge, underneath first platform/Mibu Balloon of Soul"
+                    },
+                    {
+                        "name": "past bridge, below platforms at water intersection - Ceramic Shard",
+                        "ref": "FP1/past bridge, below platforms at water intersection/Ceramic Shard"
+                    },
+                    {
+                        "name": "roof of submerged building near Mibu Manor - Adamantite Scrap",
+                        "ref": "FP1/roof of submerged building near Mibu Manor/Adamantite Scrap"
+                    },
+                    {
+                        "name": "past bridge, giant tree base, front - Light Coin Purse",
+                        "ref": "FP1/past bridge, giant tree base, front/Light Coin Purse"
+                    },
+                    {
+                        "name": "past bridge, giant tree base, left - Heavy Coin Purse",
+                        "ref": "FP1/past bridge, giant tree base, left/Heavy Coin Purse"
+                    },
+                    {
+                        "name": "behind waterfall miniboss - Bundled Jizo Statue",
+                        "ref": "FP1/behind waterfall miniboss/Bundled Jizo Statue"
+                    },
+                    {
+                        "name": "past bridge, end of small stream left - Eel Liver",
+                        "ref": "FP1/past bridge, end of small stream left/Eel Liver"
+                    },
+                    {
+                        "name": "by three enemies near waterfall miniboss #1 - Mibu Possession Balloon",
+                        "ref": "FP1/by three enemies near waterfall miniboss #1/Mibu Possession Balloon"
+                    },
+                    {
+                        "name": "by three enemies near waterfall miniboss #2 - Mibu Possession Balloon",
+                        "ref": "FP1/by three enemies near waterfall miniboss #2/Mibu Possession Balloon"
+                    },
+                    {
+                        "name": "past bridge, left before stairs to Palace Grounds - Pellet",
+                        "ref": "FP1/past bridge, left before stairs to Palace Grounds/Pellet"
+                    },
+                    {
+                        "name": "past bridge, left-most high roof - Gokans Sugar",
+                        "ref": "FP1/past bridge, left-most high roof/Gokans Sugar"
+                    },
+                    {
+                        "name": "near Pot Noble Koremori - Divine Confetti",
+                        "ref": "FP1/near Pot Noble Koremori/Divine Confetti"
+                    },
+                    {
+                        "name": "lower branch near Great Sakura miniboss - Bulging Coin Purse",
+                        "ref": "FP1/lower branch near Great Sakura miniboss/Bulging Coin Purse"
+                    },
+                    {
+                        "name": "Mibu Manor, dive in left corner before exit #3 - Treasure Carp Scale",
+                        "ref": "FP1/Mibu Manor, dive in left corner before exit #3/Treasure Carp Scale"
+                    },
+                    {
+                        "name": "courtyard, inside left building - Adamantite Scrap",
+                        "ref": "FP1/courtyard, inside left building/Adamantite Scrap"
+                    },
+                    {
+                        "name": "inside building in middle of lake - Adamantite Scrap",
+                        "ref": "FP1/inside building in middle of lake/Adamantite Scrap"
+                    },
+                    {
+                        "name": "Vermilion Bridge, behind collapsed strawman - Pellet",
+                        "ref": "FP1/Vermilion Bridge, behind collapsed strawman/Pellet"
+                    },
+                    {
+                        "name": "first bridge into water - Lump of Grave Wax",
+                        "ref": "FP1/first bridge into water/Lump of Grave Wax"
+                    },
+                    {
+                        "name": "Mibu Manor, booth in house with rafters - Lump of Grave Wax",
+                        "ref": "FP1/Mibu Manor, booth in house with rafters/Lump of Grave Wax"
+                    },
+                    {
+                        "name": "nearly submerged house roof in lake - Lump of Grave Wax",
+                        "ref": "FP1/nearly submerged house roof in lake/Lump of Grave Wax"
+                    },
+                    {
+                        "name": "Mibu Manor, dive in left corner before exit, chest - Water of the Palace",
+                        "ref": "FP1/Mibu Manor, dive in left corner before exit, chest/Water of the Palace"
+                    },
+                    {
+                        "name": "birds nest on wall before courtyard - Ceramic Shard",
+                        "ref": "FP1/birds nest on wall before courtyard/Ceramic Shard"
+                    },
+                    {
+                        "name": "past bridge, at waterfall, miniboss drop - Lapis Lazuli",
+                        "ref": "FP1/past bridge, at waterfall, miniboss drop/Lapis Lazuli"
+                    },
+                    {
+                        "name": "before Great Sakura idol, enemy drop - Dragonspring Sake",
+                        "ref": "FP1/before Great Sakura idol, enemy drop/Dragonspring Sake"
+                    },
+                    {
+                        "name": "beside Mibu Manor, miniboss drop - A Beasts Karma",
+                        "ref": "FP1/beside Mibu Manor, miniboss drop/A Beasts Karma"
+                    },
+                    {
+                        "name": "beside Mibu Manor, miniboss drop - Prayer Bead",
+                        "ref": "FP1/beside Mibu Manor, miniboss drop/Prayer Bead"
+                    },
+                    {
+                        "name": "Vermilion Bridge, boss drop - Dragons Tally Board",
+                        "ref": "FP1/Vermilion Bridge, boss drop/Dragons Tally Board"
+                    },
+                    {
+                        "name": "Great Sakura, miniboss drop - Prayer Bead",
+                        "ref": "FP1/Great Sakura, miniboss drop/Prayer Bead"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1163,
+                        "y": 2346,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "FP2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Sanctuary, boss drop - Divine Dragons Tears",
+                        "ref": "FP2/Sanctuary, boss drop/Divine Dragons Tears"
+                    },
+                    {
+                        "name": "Divine Dragon - Memory",
+                        "ref": "FP2/Divine Dragon/Memory"
+                    },
+                    {
+                        "name": "Feeding Grounds, feed Great Carp once - Treasure Carp Scale",
+                        "ref": "FP2/Feeding Grounds, feed Great Carp once/Treasure Carp Scale"
+                    },
+                    {
+                        "name": "Feeding Grounds, feed Great Carp twice - Treasure Carp Scale",
+                        "ref": "FP2/Feeding Grounds, feed Great Carp twice/Treasure Carp Scale"
+                    },
+                    {
+                        "name": "Feeding Grounds, Attendant for Great White Whisker - Divine Grass",
+                        "ref": "FP2/Feeding Grounds, Attendant for Great White Whisker/Divine Grass"
+                    },
+                    {
+                        "name": "Koremoris pot after Truly Precious Bait - Lapis Lazuli",
+                        "ref": "FP2/Koremoris pot after Truly Precious Bait/Lapis Lazuli"
+                    },
+                    {
+                        "name": "underwater, near Pot Noble Koremori - Light Coin Purse",
+                        "ref": "FP2/underwater, near Pot Noble Koremori/Light Coin Purse"
+                    },
+                    {
+                        "name": "underwater, near Pot Noble Koremori - Scrap Magnetite",
+                        "ref": "FP2/underwater, near Pot Noble Koremori/Scrap Magnetite"
+                    },
+                    {
+                        "name": "underwater, right of demolished bridge - Red Lump",
+                        "ref": "FP2/underwater, right of demolished bridge/Red Lump"
+                    },
+                    {
+                        "name": "underwater, below Feeding Grounds - Precious Bait",
+                        "ref": "FP2/underwater, below Feeding Grounds/Precious Bait"
+                    },
+                    {
+                        "name": "underwater, entrance to Great Carp ravine - Ceramic Shard",
+                        "ref": "FP2/underwater, entrance to Great Carp ravine/Ceramic Shard"
+                    },
+                    {
+                        "name": "underwater, inside house along right wall #1 - Treasure Carp Scale",
+                        "ref": "FP2/underwater, inside house along right wall #1/Treasure Carp Scale"
+                    },
+                    {
+                        "name": "underwater, inside house along right wall #2 - Treasure Carp Scale",
+                        "ref": "FP2/underwater, inside house along right wall #2/Treasure Carp Scale"
+                    },
+                    {
+                        "name": "underwater, inside house along right wall #3 - Treasure Carp Scale",
+                        "ref": "FP2/underwater, inside house along right wall #3/Treasure Carp Scale"
+                    },
+                    {
+                        "name": "underwater, building beneath Great Sakura miniboss - Precious Bait",
+                        "ref": "FP2/underwater, building beneath Great Sakura miniboss/Precious Bait"
+                    },
+                    {
+                        "name": "underwater, giant skeleton near headless #1 - Treasure Carp Scale",
+                        "ref": "FP2/underwater, giant skeleton near headless #1/Treasure Carp Scale"
+                    },
+                    {
+                        "name": "underwater, giant skeleton near headless #2 - Treasure Carp Scale",
+                        "ref": "FP2/underwater, giant skeleton near headless #2/Treasure Carp Scale"
+                    },
+                    {
+                        "name": "underwater, log near headless - Precious Bait",
+                        "ref": "FP2/underwater, log near headless/Precious Bait"
+                    },
+                    {
+                        "name": "underwater, near bottom of Great Carp ravine - Light Coin Purse",
+                        "ref": "FP2/underwater, near bottom of Great Carp ravine/Light Coin Purse"
+                    },
+                    {
+                        "name": "underwater, further bottom of Great Carp ravine - Adamantite Scrap",
+                        "ref": "FP2/underwater, further bottom of Great Carp ravine/Adamantite Scrap"
+                    },
+                    {
+                        "name": "Palace Grounds, pool of water - Mibu Balloon of Soul",
+                        "ref": "FP2/Palace Grounds, pool of water/Mibu Balloon of Soul"
+                    },
+                    {
+                        "name": "left of Sanctuary idol - Dragons Blood Droplet",
+                        "ref": "FP2/left of Sanctuary idol/Dragons Blood Droplet"
+                    },
+                    {
+                        "name": "Feeding Grounds, bridge - Heavy Coin Purse",
+                        "ref": "FP2/Feeding Grounds, bridge/Heavy Coin Purse"
+                    },
+                    {
+                        "name": "underwater, building overlooking headless - Light Coin Purse",
+                        "ref": "FP2/underwater, building overlooking headless/Light Coin Purse"
+                    },
+                    {
+                        "name": "underwater, building with Old Woman on roof - Lump of Grave Wax",
+                        "ref": "FP2/underwater, building with Old Woman on roof/Lump of Grave Wax"
+                    },
+                    {
+                        "name": "Feeding Grounds, behind building in back corner - Akos Sugar",
+                        "ref": "FP2/Feeding Grounds, behind building in back corner/Akos Sugar"
+                    },
+                    {
+                        "name": "Feeding Grounds, up stairs from idol - Ungos Sugar",
+                        "ref": "FP2/Feeding Grounds, up stairs from idol/Ungos Sugar"
+                    },
+                    {
+                        "name": "underwater, headless drop - Yasharikus Spiritfall",
+                        "ref": "FP2/underwater, headless drop/Yasharikus Spiritfall"
+                    },
+                    {
+                        "name": "underwater, further out from first bridge, Carp drop - Treasure Carp Scale",
+                        "ref": "FP2/underwater, further out from first bridge, Carp drop/Treasure Carp Scale"
+                    },
+                    {
+                        "name": "underwater, near first bridge, Carp drop - Treasure Carp Scale",
+                        "ref": "FP2/underwater, near first bridge, Carp drop/Treasure Carp Scale"
+                    },
+                    {
+                        "name": "underwater, beneath Feeding Grounds, Carp drop - Treasure Carp Scale",
+                        "ref": "FP2/underwater, beneath Feeding Grounds, Carp drop/Treasure Carp Scale"
+                    },
+                    {
+                        "name": "underwater, right wall before building, Carp drop - Treasure Carp Scale",
+                        "ref": "FP2/underwater, right wall before building, Carp drop/Treasure Carp Scale"
+                    },
+                    {
+                        "name": "underwater, near first house of area, Carp drop - Treasure Carp Scale",
+                        "ref": "FP2/underwater, near first house of area, Carp drop/Treasure Carp Scale"
+                    },
+                    {
+                        "name": "underwater, under Sakura Branch, Carp drop - Treasure Carp Scale",
+                        "ref": "FP2/underwater, under Sakura Branch, Carp drop/Treasure Carp Scale"
+                    },
+                    {
+                        "name": "underwater, middle of the lake, Carp drop - Treasure Carp Scale",
+                        "ref": "FP2/underwater, middle of the lake, Carp drop/Treasure Carp Scale"
+                    },
+                    {
+                        "name": "Palace Grounds, chest - Gourd Seed",
+                        "ref": "FP2/Palace Grounds, chest/Gourd Seed"
+                    },
+                    {
+                        "name": "underwater, chest near giant fish skeleton - Prayer Bead",
+                        "ref": "FP2/underwater, chest near giant fish skeleton/Prayer Bead"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1998,
+                        "y": 1323,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "HE1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pot Noble Harunaga - Floating Passage Text",
+                        "ref": "HE1/Pot Noble Harunaga/Floating Passage Text"
+                    },
+                    {
+                        "name": "Pot Noble Harunaga - Divine Grass",
+                        "ref": "HE1/Pot Noble Harunaga/Divine Grass"
+                    },
+                    {
+                        "name": "Pot Noble Harunaga - Withered Red Gourd",
+                        "ref": "HE1/Pot Noble Harunaga/Withered Red Gourd"
+                    },
+                    {
+                        "name": "Pot Noble Harunaga - Right",
+                        "ref": "HE1/Mask Fragment/Pot Noble Harunaga/Right"
+                    },
+                    {
+                        "name": "Lady Butterfly - Memory",
+                        "ref": "HE1/Lady Butterfly/Memory"
+                    },
+                    {
+                        "name": "Owl - Hidden Temple Key",
+                        "ref": "HE1/Owl/Hidden Temple Key"
+                    },
+                    {
+                        "name": "Audience Chamber, Inosuke - Snap Seed",
+                        "ref": "HE1/Audience Chamber, Inosuke/Snap Seed"
+                    },
+                    {
+                        "name": "Estate Path shortcut, second right courtyard, NPC - Antidote Powder",
+                        "ref": "HE1/Estate Path shortcut, second right courtyard, NPC/Antidote Powder"
+                    },
+                    {
+                        "name": "Pot Noble Harunaga after trading 6 scales - Truly Precious Bait",
+                        "ref": "HE1/Pot Noble Harunaga after trading 6 scales/Truly Precious Bait"
+                    },
+                    {
+                        "name": "Pot Noble Harunaga after Truly Precious Bait - Lapis Lazuli",
+                        "ref": "HE1/Pot Noble Harunaga after Truly Precious Bait/Lapis Lazuli"
+                    },
+                    {
+                        "name": "behind start - Pellet",
+                        "ref": "HE1/behind start/Pellet"
+                    },
+                    {
+                        "name": "before first bridge - Dousing Powder",
+                        "ref": "HE1/before first bridge/Dousing Powder"
+                    },
+                    {
+                        "name": "boat near Pot Noble Harunaga - Mibu Possession Balloon",
+                        "ref": "HE1/boat near Pot Noble Harunaga/Mibu Possession Balloon"
+                    },
+                    {
+                        "name": "by Pot Noble Harunaga - Light Coin Purse",
+                        "ref": "HE1/by Pot Noble Harunaga/Light Coin Purse"
+                    },
+                    {
+                        "name": "left of Estate Path, over wall - Ungos Sugar",
+                        "ref": "HE1/left of Estate Path, over wall/Ungos Sugar"
+                    },
+                    {
+                        "name": "Estate Path, first compound, along right wall - Akos Sugar",
+                        "ref": "HE1/Estate Path, first compound, along right wall/Akos Sugar"
+                    },
+                    {
+                        "name": "Estate Path, first compound, largest house - Pellet",
+                        "ref": "HE1/Estate Path, first compound, largest house/Pellet"
+                    },
+                    {
+                        "name": "bonfire houses, base of tree - Ceramic Shard",
+                        "ref": "HE1/bonfire houses, base of tree/Ceramic Shard"
+                    },
+                    {
+                        "name": "Estate Path, before shortcut door - Fistful of Ash",
+                        "ref": "HE1/Estate Path, before shortcut door/Fistful of Ash"
+                    },
+                    {
+                        "name": "tree near bonfire - Fistful of Ash",
+                        "ref": "HE1/tree near bonfire/Fistful of Ash"
+                    },
+                    {
+                        "name": "Estate Path shortcut, first left compound, well - Pellet",
+                        "ref": "HE1/Estate Path shortcut, first left compound, well/Pellet"
+                    },
+                    {
+                        "name": "Estate Path shortcut, first right courtyard, house - Light Coin Purse",
+                        "ref": "HE1/Estate Path shortcut, first right courtyard, house/Light Coin Purse"
+                    },
+                    {
+                        "name": "Estate Path shortcut, first left courtyard, house - Ungos Sugar",
+                        "ref": "HE1/Estate Path shortcut, first left courtyard, house/Ungos Sugar"
+                    },
+                    {
+                        "name": "before Bamboo Thicket Slope bridge - Oil",
+                        "ref": "HE1/before Bamboo Thicket Slope bridge/Oil"
+                    },
+                    {
+                        "name": "side path before cave, crouch opening - Mibu Possession Balloon",
+                        "ref": "HE1/side path before cave, crouch opening/Mibu Possession Balloon"
+                    },
+                    {
+                        "name": "Bamboo Thicket Slope, grapple from first ledge - Dousing Powder",
+                        "ref": "HE1/Bamboo Thicket Slope, grapple from first ledge/Dousing Powder"
+                    },
+                    {
+                        "name": "Main Hall, large building before marsh - Dousing Powder",
+                        "ref": "HE1/Main Hall, large building before marsh/Dousing Powder"
+                    },
+                    {
+                        "name": "Main Hall, large building before marsh - Divine Confetti",
+                        "ref": "HE1/Main Hall, large building before marsh/Divine Confetti"
+                    },
+                    {
+                        "name": "Main Hall, left building after marsh - Light Coin Purse",
+                        "ref": "HE1/Main Hall, left building after marsh/Light Coin Purse"
+                    },
+                    {
+                        "name": "Audience Chamber, left room - Dousing Powder",
+                        "ref": "HE1/Audience Chamber, left room/Dousing Powder"
+                    },
+                    {
+                        "name": "Audience Chamber, left room - Pellet",
+                        "ref": "HE1/Audience Chamber, left room/Pellet"
+                    },
+                    {
+                        "name": "Estate Path shortcut, first left courtyard, roof - Light Coin Purse",
+                        "ref": "HE1/Estate Path shortcut, first left courtyard, roof/Light Coin Purse"
+                    },
+                    {
+                        "name": "bonfire - Pellet",
+                        "ref": "HE1/bonfire/Pellet"
+                    },
+                    {
+                        "name": "bonfire - Mibu Balloon of Wealth",
+                        "ref": "HE1/bonfire/Mibu Balloon of Wealth"
+                    },
+                    {
+                        "name": "bonfire - Dousing Powder",
+                        "ref": "HE1/bonfire/Dousing Powder"
+                    },
+                    {
+                        "name": "bonfire - Flame Barrel",
+                        "ref": "HE1/bonfire/Flame Barrel"
+                    },
+                    {
+                        "name": "before first bridge, dying Nightjar - Fistful of Ash",
+                        "ref": "HE1/before first bridge, dying Nightjar/Fistful of Ash"
+                    },
+                    {
+                        "name": "Main Hall, island in the marsh - Ceramic Shard",
+                        "ref": "HE1/Main Hall, island in the marsh/Ceramic Shard"
+                    },
+                    {
+                        "name": "behind rock before first bridge - Treasure Carp Scale",
+                        "ref": "HE1/behind rock before first bridge/Treasure Carp Scale"
+                    },
+                    {
+                        "name": "Estate Path, beside idol - Ceramic Shard",
+                        "ref": "HE1/Estate Path, beside idol/Ceramic Shard"
+                    },
+                    {
+                        "name": "Estate Path shortcut, gate - Gokans Sugar",
+                        "ref": "HE1/Estate Path shortcut, gate/Gokans Sugar"
+                    },
+                    {
+                        "name": "side path before cave - Mibu Balloon of Soul",
+                        "ref": "HE1/side path before cave/Mibu Balloon of Soul"
+                    },
+                    {
+                        "name": "side path before cave - Pellet",
+                        "ref": "HE1/side path before cave/Pellet"
+                    },
+                    {
+                        "name": "bamboo path behind Anayama - Bundled Jizo Statue",
+                        "ref": "HE1/bamboo path behind Anayama/Bundled Jizo Statue"
+                    },
+                    {
+                        "name": "right of gate to Bamboo Thicket Slope idol - Pellet",
+                        "ref": "HE1/right of gate to Bamboo Thicket Slope idol/Pellet"
+                    },
+                    {
+                        "name": "left of gate to Bamboo Thicket Slope idol - Mibu Possession Balloon",
+                        "ref": "HE1/left of gate to Bamboo Thicket Slope idol/Mibu Possession Balloon"
+                    },
+                    {
+                        "name": "after Bamboo Thicket Slope bridge - Fistful of Ash",
+                        "ref": "HE1/after Bamboo Thicket Slope bridge/Fistful of Ash"
+                    },
+                    {
+                        "name": "by tunnel to three-story pagoda - Contact Medicine",
+                        "ref": "HE1/by tunnel to three-story pagoda/Contact Medicine"
+                    },
+                    {
+                        "name": "Main Hall, between well and idol - Oil",
+                        "ref": "HE1/Main Hall, between well and idol/Oil"
+                    },
+                    {
+                        "name": "Audience Chamber, left hallway before shinobi door - Oil",
+                        "ref": "HE1/Audience Chamber, left hallway before shinobi door/Oil"
+                    },
+                    {
+                        "name": "Audience Chamber, shinobi door - Divine Confetti",
+                        "ref": "HE1/Audience Chamber, shinobi door/Divine Confetti"
+                    },
+                    {
+                        "name": "Audience Chamber, shinobi door - Light Coin Purse",
+                        "ref": "HE1/Audience Chamber, shinobi door/Light Coin Purse"
+                    },
+                    {
+                        "name": "Audience Chamber, shinobi door - Mibu Balloon of Wealth",
+                        "ref": "HE1/Audience Chamber, shinobi door/Mibu Balloon of Wealth"
+                    },
+                    {
+                        "name": "Audience Chamber, room left of idol - Mibu Balloon of Soul",
+                        "ref": "HE1/Audience Chamber, room left of idol/Mibu Balloon of Soul"
+                    },
+                    {
+                        "name": "Main Hall, miniboss drop - Unrefined Sake",
+                        "ref": "HE1/Main Hall, miniboss drop/Unrefined Sake"
+                    },
+                    {
+                        "name": "Main Hall, miniboss drop - Prayer Bead",
+                        "ref": "HE1/Main Hall, miniboss drop/Prayer Bead"
+                    },
+                    {
+                        "name": "side path before cave, enemy drop - Bulging Coin Purse",
+                        "ref": "HE1/side path before cave, enemy drop/Bulging Coin Purse"
+                    },
+                    {
+                        "name": "three-story pagoda, enemy drop - Scrap Iron",
+                        "ref": "HE1/three-story pagoda, enemy drop/Scrap Iron"
+                    },
+                    {
+                        "name": "near first bridge, Carp drop - Treasure Carp Scale",
+                        "ref": "HE1/near first bridge, Carp drop/Treasure Carp Scale"
+                    },
+                    {
+                        "name": "near Pot Noble Harunaga, Carp drop - Treasure Carp Scale",
+                        "ref": "HE1/near Pot Noble Harunaga, Carp drop/Treasure Carp Scale"
+                    },
+                    {
+                        "name": "under Bamboo Thicket Slope bridge, Carp drop - Treasure Carp Scale",
+                        "ref": "HE1/under Bamboo Thicket Slope bridge, Carp drop/Treasure Carp Scale"
+                    },
+                    {
+                        "name": "underwater, under Bamboo Thicket Slope bridge, Carp drop - Treasure Carp Scale",
+                        "ref": "HE1/underwater, under Bamboo Thicket Slope bridge, Carp drop/Treasure Carp Scale"
+                    },
+                    {
+                        "name": "underwater, Dragonspring Lake, Carp drop #1 - Treasure Carp Scale",
+                        "ref": "HE1/underwater, Dragonspring Lake, Carp drop #1/Treasure Carp Scale"
+                    },
+                    {
+                        "name": "underwater, Dragonspring Lake, Carp drop #2 - Treasure Carp Scale",
+                        "ref": "HE1/underwater, Dragonspring Lake, Carp drop #2/Treasure Carp Scale"
+                    },
+                    {
+                        "name": "Estate Path shortcut, first right courtyard, shrine - Shinobi Axe of the Monkey",
+                        "ref": "HE1/Estate Path shortcut, first right courtyard, shrine/Shinobi Axe of the Monkey"
+                    },
+                    {
+                        "name": "three-story pagoda - Mist Ravens Feathers",
+                        "ref": "HE1/three-story pagoda/Mist Ravens Feathers"
+                    },
+                    {
+                        "name": "boss drop - Sakura Droplet",
+                        "ref": "HE1/boss drop/Sakura Droplet"
+                    },
+                    {
+                        "name": "before Bamboo Thicket Slope, miniboss drop - Prayer Bead",
+                        "ref": "HE1/before Bamboo Thicket Slope, miniboss drop/Prayer Bead"
+                    },
+                    {
+                        "name": "Audience Chamber, shinobi door chest - Prayer Bead",
+                        "ref": "HE1/Audience Chamber, shinobi door chest/Prayer Bead"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 572,
+                        "y": 2085,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "HE2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "boss drop - Aromatic Flower",
+                        "ref": "HE2/boss drop/Aromatic Flower"
+                    },
+                    {
+                        "name": "Foster Father - Memory",
+                        "ref": "HE2/Foster Father/Memory"
+                    },
+                    {
+                        "name": "burning courtyard, after miniboss - Fulminated Mercury",
+                        "ref": "HE2/burning courtyard, after miniboss/Fulminated Mercury"
+                    },
+                    {
+                        "name": "Main Hall, roof near three enemies - Adamantite Scrap",
+                        "ref": "HE2/Main Hall, roof near three enemies/Adamantite Scrap"
+                    },
+                    {
+                        "name": "Main Hall, tree at entrance to Audience Chamber - Adamantite Scrap",
+                        "ref": "HE2/Main Hall, tree at entrance to Audience Chamber/Adamantite Scrap"
+                    },
+                    {
+                        "name": "Audience Chamber, hallway to shinobi door - Fulminated Mercury",
+                        "ref": "HE2/Audience Chamber, hallway to shinobi door/Fulminated Mercury"
+                    },
+                    {
+                        "name": "Main Hall, open area before marsh - Mibu Balloon of Wealth",
+                        "ref": "HE2/Main Hall, open area before marsh/Mibu Balloon of Wealth"
+                    },
+                    {
+                        "name": "Main Hall, corpse of Ashina Elite near miniboss - Fistful of Ash",
+                        "ref": "HE2/Main Hall, corpse of Ashina Elite near miniboss/Fistful of Ash"
+                    },
+                    {
+                        "name": "Main Hall, left building after marsh - Light Coin Purse",
+                        "ref": "HE2/Main Hall, left building after marsh/Light Coin Purse"
+                    },
+                    {
+                        "name": "Main Hall, left building after marsh - Ashina Sake",
+                        "ref": "HE2/Main Hall, left building after marsh/Ashina Sake"
+                    },
+                    {
+                        "name": "Audience Chamber, room straight from entrance - Pellet",
+                        "ref": "HE2/Audience Chamber, room straight from entrance/Pellet"
+                    },
+                    {
+                        "name": "Audience Chamber, left second room - Gokans Sugar",
+                        "ref": "HE2/Audience Chamber, left second room/Gokans Sugar"
+                    },
+                    {
+                        "name": "burning courtyard, miniboss drop - Adamantite Scrap",
+                        "ref": "HE2/burning courtyard, miniboss drop/Adamantite Scrap"
+                    },
+                    {
+                        "name": "burning courtyard, miniboss drop - Prayer Bead",
+                        "ref": "HE2/burning courtyard, miniboss drop/Prayer Bead"
+                    },
+                    {
+                        "name": "Main Hall, miniboss drop - Prayer Bead",
+                        "ref": "HE2/Main Hall, miniboss drop/Prayer Bead"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1174,
+                        "y": 2241,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "HF",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "temple front, pit - Heavy Coin Purse",
+                        "ref": "HF/temple front, pit/Heavy Coin Purse"
+                    },
+                    {
+                        "name": "above sinkhole, branch before bonfire - Ceramic Shard",
+                        "ref": "HF/above sinkhole, branch before bonfire/Ceramic Shard"
+                    },
+                    {
+                        "name": "sinkhole, 3-item group - Mibu Balloon of Wealth",
+                        "ref": "HF/sinkhole, 3-item group/Mibu Balloon of Wealth"
+                    },
+                    {
+                        "name": "sinkhole, 3-item group - Scrap Iron",
+                        "ref": "HF/sinkhole, 3-item group/Scrap Iron"
+                    },
+                    {
+                        "name": "sinkhole, 3-item group - Pellet",
+                        "ref": "HF/sinkhole, 3-item group/Pellet"
+                    },
+                    {
+                        "name": "sinkhole, ledge above Bonfire - Pellet",
+                        "ref": "HF/sinkhole, ledge above Bonfire/Pellet"
+                    },
+                    {
+                        "name": "above sinkhole, right side cliff - Light Coin Purse",
+                        "ref": "HF/above sinkhole, right side cliff/Light Coin Purse"
+                    },
+                    {
+                        "name": "temple front, near stone lantern - Oil",
+                        "ref": "HF/temple front, near stone lantern/Oil"
+                    },
+                    {
+                        "name": "behind temple - Ceramic Shard",
+                        "ref": "HF/behind temple/Ceramic Shard"
+                    },
+                    {
+                        "name": "temple front, 3-item group - Contact Medicine",
+                        "ref": "HF/temple front, 3-item group/Contact Medicine"
+                    },
+                    {
+                        "name": "temple front, 3-item group - Bite Down",
+                        "ref": "HF/temple front, 3-item group/Bite Down"
+                    },
+                    {
+                        "name": "temple front, 3-item group - Light Coin Purse",
+                        "ref": "HF/temple front, 3-item group/Light Coin Purse"
+                    },
+                    {
+                        "name": "inside temple - Yasharikus Sugar",
+                        "ref": "HF/inside temple/Yasharikus Sugar"
+                    },
+                    {
+                        "name": "ledge opposite of temple - Adamantite Scrap",
+                        "ref": "HF/ledge opposite of temple/Adamantite Scrap"
+                    },
+                    {
+                        "name": "near shimmy in front of temple - Snap Seed",
+                        "ref": "HF/near shimmy in front of temple/Snap Seed"
+                    },
+                    {
+                        "name": "cliffside, bonfire near miniboss - Fistful of Ash",
+                        "ref": "HF/cliffside, bonfire near miniboss/Fistful of Ash"
+                    },
+                    {
+                        "name": "cliffside, ledge hang at end - Pellet",
+                        "ref": "HF/cliffside, ledge hang at end/Pellet"
+                    },
+                    {
+                        "name": "sinkhole, up ledge behind miniboss - Yasharikus Sugar",
+                        "ref": "HF/sinkhole, up ledge behind miniboss/Yasharikus Sugar"
+                    },
+                    {
+                        "name": "sinkhole, beside miniboss - Scrap Magnetite",
+                        "ref": "HF/sinkhole, beside miniboss/Scrap Magnetite"
+                    },
+                    {
+                        "name": "sinkhole, beside miniboss - Lump of Fat Wax",
+                        "ref": "HF/sinkhole, beside miniboss/Lump of Fat Wax"
+                    },
+                    {
+                        "name": "sinkhole, gravestone on hill - Scrap Magnetite",
+                        "ref": "HF/sinkhole, gravestone on hill/Scrap Magnetite"
+                    },
+                    {
+                        "name": "right of temple front, against wall - Yellow Gunpowder",
+                        "ref": "HF/right of temple front, against wall/Yellow Gunpowder"
+                    },
+                    {
+                        "name": "after cliffside path - Lump of Fat Wax",
+                        "ref": "HF/after cliffside path/Lump of Fat Wax"
+                    },
+                    {
+                        "name": "above sinkhole, before second branch - Mibu Balloon of Soul",
+                        "ref": "HF/above sinkhole, before second branch/Mibu Balloon of Soul"
+                    },
+                    {
+                        "name": "temple front, right side - Bite Down",
+                        "ref": "HF/temple front, right side/Bite Down"
+                    },
+                    {
+                        "name": "left of temple - Oil",
+                        "ref": "HF/left of temple/Oil"
+                    },
+                    {
+                        "name": "temple, miniboss drop - Lump of Grave Wax",
+                        "ref": "HF/temple, miniboss drop/Lump of Grave Wax"
+                    },
+                    {
+                        "name": "sinkhole, miniboss drop - Gachiins Spiritfall",
+                        "ref": "HF/sinkhole, miniboss drop/Gachiins Spiritfall"
+                    },
+                    {
+                        "name": "cliffside, miniboss drop - Unrefined Sake",
+                        "ref": "HF/cliffside, miniboss drop/Unrefined Sake"
+                    },
+                    {
+                        "name": "cliffside, miniboss drop - Prayer Bead",
+                        "ref": "HF/cliffside, miniboss drop/Prayer Bead"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 382,
+                        "y": 1137,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "MV",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Exiled Memorial Mob - Mottled Purple Gourd",
+                        "ref": "MV/Exiled Memorial Mob/Mottled Purple Gourd"
+                    },
+                    {
+                        "name": "Exiled Memorial Mob - Dragonspring Sake",
+                        "ref": "MV/Exiled Memorial Mob/Dragonspring Sake"
+                    },
+                    {
+                        "name": "Wedding Cave, boss drop - Mibu Breathing Technique",
+                        "ref": "MV/Wedding Cave, boss drop/Mibu Breathing Technique"
+                    },
+                    {
+                        "name": "Corrupted Monk - Memory",
+                        "ref": "MV/Corrupted Monk/Memory"
+                    },
+                    {
+                        "name": "Head Priest for Water of the Palace - Dragonspring Sake",
+                        "ref": "MV/Head Priest for Water of the Palace/Dragonspring Sake"
+                    },
+                    {
+                        "name": "Head Priests house, enemy drop - Treasure Carp Scale",
+                        "ref": "MV/Head Priests house, enemy drop/Treasure Carp Scale"
+                    },
+                    {
+                        "name": "Jinzaemon reward after killing miniboss - Jinzas Jizo Statue",
+                        "ref": "MV/Jinzaemon reward after killing miniboss/Jinzas Jizo Statue"
+                    },
+                    {
+                        "name": "villager fields, shrine - Ashina Sake",
+                        "ref": "MV/villager fields, shrine/Ashina Sake"
+                    },
+                    {
+                        "name": "Wedding Cave - Shelter Stone",
+                        "ref": "MV/Wedding Cave/Shelter Stone"
+                    },
+                    {
+                        "name": "main path, big tree bed right - Mibu Balloon of Soul",
+                        "ref": "MV/main path, big tree bed right/Mibu Balloon of Soul"
+                    },
+                    {
+                        "name": "near enemy downstream from Mibu Village idol - Treasure Carp Scale",
+                        "ref": "MV/near enemy downstream from Mibu Village idol/Treasure Carp Scale"
+                    },
+                    {
+                        "name": "near tree on bank before docks - Mibu Balloon of Soul",
+                        "ref": "MV/near tree on bank before docks/Mibu Balloon of Soul"
+                    },
+                    {
+                        "name": "main path, behind Shosukes house - Pacifying Agent",
+                        "ref": "MV/main path, behind Shosukes house/Pacifying Agent"
+                    },
+                    {
+                        "name": "boat by the docks - Mibu Balloon of Wealth",
+                        "ref": "MV/boat by the docks/Mibu Balloon of Wealth"
+                    },
+                    {
+                        "name": "second house with hole in roof - Fistful of Ash",
+                        "ref": "MV/second house with hole in roof/Fistful of Ash"
+                    },
+                    {
+                        "name": "dried riverbank left of big tree - Pellet",
+                        "ref": "MV/dried riverbank left of big tree/Pellet"
+                    },
+                    {
+                        "name": "villager fields, middle - Contact Medicine",
+                        "ref": "MV/villager fields, middle/Contact Medicine"
+                    },
+                    {
+                        "name": "building before Water Mill idol - Yellow Gunpowder",
+                        "ref": "MV/building before Water Mill idol/Yellow Gunpowder"
+                    },
+                    {
+                        "name": "building before Water Mill idol - Divine Confetti",
+                        "ref": "MV/building before Water Mill idol/Divine Confetti"
+                    },
+                    {
+                        "name": "main path, after big tree behind barricade - Mibu Balloon of Soul",
+                        "ref": "MV/main path, after big tree behind barricade/Mibu Balloon of Soul"
+                    },
+                    {
+                        "name": "underwater, pond village side #1 - Light Coin Purse",
+                        "ref": "MV/underwater, pond village side #1/Light Coin Purse"
+                    },
+                    {
+                        "name": "underwater, pond village side #2 - Light Coin Purse",
+                        "ref": "MV/underwater, pond village side #2/Light Coin Purse"
+                    },
+                    {
+                        "name": "underwater, river upstream from Head Priests house - Precious Bait",
+                        "ref": "MV/underwater, river upstream from Head Priests house/Precious Bait"
+                    },
+                    {
+                        "name": "top of plank before Water Mill idol - Pellet",
+                        "ref": "MV/top of plank before Water Mill idol/Pellet"
+                    },
+                    {
+                        "name": "house before Inuhikos house - Contact Medicine",
+                        "ref": "MV/house before Inuhikos house/Contact Medicine"
+                    },
+                    {
+                        "name": "Inuhikos house, front - Fistful of Ash",
+                        "ref": "MV/Inuhikos house, front/Fistful of Ash"
+                    },
+                    {
+                        "name": "right of Exiled Memorial Mob, up ledge past enemies - Light Coin Purse",
+                        "ref": "MV/right of Exiled Memorial Mob, up ledge past enemies/Light Coin Purse"
+                    },
+                    {
+                        "name": "before descending to MV - Pellet",
+                        "ref": "MV/before descending to MV/Pellet"
+                    },
+                    {
+                        "name": "Inuhikos house, birds nest on roof - Adamantite Scrap",
+                        "ref": "MV/Inuhikos house, birds nest on roof/Adamantite Scrap"
+                    },
+                    {
+                        "name": "Head Priests house, behind pots - Red Lump",
+                        "ref": "MV/Head Priests house, behind pots/Red Lump"
+                    },
+                    {
+                        "name": "villager fields, upper ledge on right - Adamantite Scrap",
+                        "ref": "MV/villager fields, upper ledge on right/Adamantite Scrap"
+                    },
+                    {
+                        "name": "main path, before big tree - Black Gunpowder",
+                        "ref": "MV/main path, before big tree/Black Gunpowder"
+                    },
+                    {
+                        "name": "behind house closest to Exiled Memorial Mob - Lump of Fat Wax",
+                        "ref": "MV/behind house closest to Exiled Memorial Mob/Lump of Fat Wax"
+                    },
+                    {
+                        "name": "Head Priests house, behind - Adamantite Scrap",
+                        "ref": "MV/Head Priests house, behind/Adamantite Scrap"
+                    },
+                    {
+                        "name": "right before bridge to Head Priests house - Lump of Fat Wax",
+                        "ref": "MV/right before bridge to Head Priests house/Lump of Fat Wax"
+                    },
+                    {
+                        "name": "grapple from Inuhikos house, up the path - Mibu Balloon of Soul",
+                        "ref": "MV/grapple from Inuhikos house, up the path/Mibu Balloon of Soul"
+                    },
+                    {
+                        "name": "Head Priests house, statue - Divine Confetti",
+                        "ref": "MV/Head Priests house, statue/Divine Confetti"
+                    },
+                    {
+                        "name": "bottom waterfall chest - Divine Grass",
+                        "ref": "MV/bottom waterfall chest/Divine Grass"
+                    },
+                    {
+                        "name": "Head Priests house, birds nest on roof - Heavy Coin Purse",
+                        "ref": "MV/Head Priests house, birds nest on roof/Heavy Coin Purse"
+                    },
+                    {
+                        "name": "hut across from Head Priests house in birds nest - Light Coin Purse",
+                        "ref": "MV/hut across from Head Priests house in birds nest/Light Coin Purse"
+                    },
+                    {
+                        "name": "boat across pond - Pellet",
+                        "ref": "MV/boat across pond/Pellet"
+                    },
+                    {
+                        "name": "downstream from Mibu Village idol, enemy drop - Scrap Magnetite",
+                        "ref": "MV/downstream from Mibu Village idol, enemy drop/Scrap Magnetite"
+                    },
+                    {
+                        "name": "underwater, near Water Mill idol, Carp drop - Treasure Carp Scale",
+                        "ref": "MV/underwater, near Water Mill idol, Carp drop/Treasure Carp Scale"
+                    },
+                    {
+                        "name": "miniboss drop - Shadow",
+                        "ref": "MV/Breath of Life/miniboss drop/Shadow"
+                    },
+                    {
+                        "name": "main path, big tree bed center - Gourd Seed",
+                        "ref": "MV/main path, big tree bed center/Gourd Seed"
+                    },
+                    {
+                        "name": "Inuhikos house, roof - Pine Resin Ember",
+                        "ref": "MV/Inuhikos house, roof/Pine Resin Ember"
+                    },
+                    {
+                        "name": "miniboss drop - Prayer Bead",
+                        "ref": "MV/miniboss drop/Prayer Bead"
+                    },
+                    {
+                        "name": "Head Priests house, second floor - Prayer Bead",
+                        "ref": "MV/Head Priests house, second floor/Prayer Bead"
+                    },
+                    {
+                        "name": "underwater, pond chest - Prayer Bead",
+                        "ref": "MV/underwater, pond chest/Prayer Bead"
+                    },
+                    {
+                        "name": "underwater, near the end of the pond, Carp drop - Red Carp Eyes",
+                        "ref": "MV/underwater, near the end of the pond, Carp drop/Red Carp Eyes"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1862,
+                        "y": 1263,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "PP",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Headless Ape - Memory",
+                        "ref": "PP/Headless Ape/Memory"
+                    },
+                    {
+                        "name": "next to Ashina Depths idol - Pacifying Agent",
+                        "ref": "PP/next to Ashina Depths idol/Pacifying Agent"
+                    },
+                    {
+                        "name": "ledge above Poison Pool idol - Oil",
+                        "ref": "PP/ledge above Poison Pool idol/Oil"
+                    },
+                    {
+                        "name": "outcropping, among enemies - Scrap Magnetite",
+                        "ref": "PP/outcropping, among enemies/Scrap Magnetite"
+                    },
+                    {
+                        "name": "outcropping, among enemies - Black Gunpowder",
+                        "ref": "PP/outcropping, among enemies/Black Gunpowder"
+                    },
+                    {
+                        "name": "central island - Scrap Magnetite",
+                        "ref": "PP/central island/Scrap Magnetite"
+                    },
+                    {
+                        "name": "central island - Mibu Possession Balloon",
+                        "ref": "PP/central island/Mibu Possession Balloon"
+                    },
+                    {
+                        "name": "hand of giant statue against right wall - Scrap Magnetite",
+                        "ref": "PP/hand of giant statue against right wall/Scrap Magnetite"
+                    },
+                    {
+                        "name": "before tallest statue top - Yellow Gunpowder",
+                        "ref": "PP/before tallest statue top/Yellow Gunpowder"
+                    },
+                    {
+                        "name": "behind stone head near left wall - Yellow Gunpowder",
+                        "ref": "PP/behind stone head near left wall/Yellow Gunpowder"
+                    },
+                    {
+                        "name": "tiny island near Poison Pool idol - Pellet",
+                        "ref": "PP/tiny island near Poison Pool idol/Pellet"
+                    },
+                    {
+                        "name": "poison against left wall - Heavy Coin Purse",
+                        "ref": "PP/poison against left wall/Heavy Coin Purse"
+                    },
+                    {
+                        "name": "above Guardian Apes Burrow - Monkey Booze",
+                        "ref": "PP/above Guardian Apes Burrow/Monkey Booze"
+                    },
+                    {
+                        "name": "Guardian Apes Burrow, miniboss drop - Malcontents Ring",
+                        "ref": "PP/Guardian Apes Burrow, miniboss drop/Malcontents Ring"
+                    },
+                    {
+                        "name": "Guardian Apes Burrow, boss drop - Bestowal Ninjutsu",
+                        "ref": "PP/Guardian Apes Burrow, boss drop/Bestowal Ninjutsu"
+                    },
+                    {
+                        "name": "miniboss drop - Prayer Bead",
+                        "ref": "PP/miniboss drop/Prayer Bead"
+                    },
+                    {
+                        "name": "top of tallest statue - Prayer Bead",
+                        "ref": "PP/top of tallest statue/Prayer Bead"
+                    },
+                    {
+                        "name": "Guardian Apes Burrow, boss drop #1 - Prayer Bead",
+                        "ref": "PP/Guardian Apes Burrow, boss drop #1/Prayer Bead"
+                    },
+                    {
+                        "name": "Guardian Apes Burrow, boss drop #2 - Prayer Bead",
+                        "ref": "PP/Guardian Apes Burrow, boss drop #2/Prayer Bead"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 429,
+                        "y": 2427,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "ST",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Halls of Illusion, Kotaro quest - Taro Persimmon",
+                        "ref": "ST/Halls of Illusion, Kotaro quest/Taro Persimmon"
+                    },
+                    {
+                        "name": "Shugendo Memorial Mob - Five-color Rice",
+                        "ref": "ST/Shugendo Memorial Mob/Five-color Rice"
+                    },
+                    {
+                        "name": "Screen Monkeys - Memory",
+                        "ref": "ST/Screen Monkeys/Memory"
+                    },
+                    {
+                        "name": "Divine Child - Mortal Blade",
+                        "ref": "ST/Divine Child/Mortal Blade"
+                    },
+                    {
+                        "name": "Divine Child for Persimmon - Rice for Kuro",
+                        "ref": "ST/Divine Child for Persimmon/Rice for Kuro"
+                    },
+                    {
+                        "name": "Divine Child for both Serpent Viscera after first invasion - Frozen Tears",
+                        "ref": "ST/Divine Child for both Serpent Viscera after first invasion/Frozen Tears"
+                    },
+                    {
+                        "name": "underwater, carp pond - Infested",
+                        "ref": "ST/Holy Chapter/underwater, carp pond/Infested"
+                    },
+                    {
+                        "name": "Infested - cave, blue-robed corpse after Holy Chapter",
+                        "ref": "ST/Holy Chapter/Dragons Return/Infested/cave, blue-robed corpse after Holy Chapter"
+                    },
+                    {
+                        "name": "right room before Bell Demons Temple idol - Monkey Booze",
+                        "ref": "ST/right room before Bell Demons Temple idol/Monkey Booze"
+                    },
+                    {
+                        "name": "right room before Bell Demons Temple idol - Heavy Coin Purse",
+                        "ref": "ST/right room before Bell Demons Temple idol/Heavy Coin Purse"
+                    },
+                    {
+                        "name": "hill with many pinwheels before bridge arena - Red and White Pinwheel",
+                        "ref": "ST/hill with many pinwheels before bridge arena/Red and White Pinwheel"
+                    },
+                    {
+                        "name": "after Sunken Valley Cavern idol - Mibu Balloon of Spirit",
+                        "ref": "ST/after Sunken Valley Cavern idol/Mibu Balloon of Spirit"
+                    },
+                    {
+                        "name": "broken bridge - Gachiins Sugar",
+                        "ref": "ST/broken bridge/Gachiins Sugar"
+                    },
+                    {
+                        "name": "cliffside right of cricket building #1, 3-item group - Antidote Powder",
+                        "ref": "ST/cliffside right of cricket building #1, 3-item group/Antidote Powder"
+                    },
+                    {
+                        "name": "below Temple Grounds idol - Gokans Sugar",
+                        "ref": "ST/below Temple Grounds idol/Gokans Sugar"
+                    },
+                    {
+                        "name": "Main Hall, right wing - Ungos Sugar",
+                        "ref": "ST/Main Hall, right wing/Ungos Sugar"
+                    },
+                    {
+                        "name": "Main Hall, right wing - Black Gunpowder",
+                        "ref": "ST/Main Hall, right wing/Black Gunpowder"
+                    },
+                    {
+                        "name": "rooftop in front of Temple Grounds idol - Ceramic Shard",
+                        "ref": "ST/rooftop in front of Temple Grounds idol/Ceramic Shard"
+                    },
+                    {
+                        "name": "temple grounds side path #1  - Mibu Balloon of Spirit",
+                        "ref": "ST/temple grounds side path #1 /Mibu Balloon of Spirit"
+                    },
+                    {
+                        "name": "temple grounds side path #2 - Mibu Balloon of Spirit",
+                        "ref": "ST/temple grounds side path #2/Mibu Balloon of Spirit"
+                    },
+                    {
+                        "name": "atrium, inside main building - Lump of Fat Wax",
+                        "ref": "ST/atrium, inside main building/Lump of Fat Wax"
+                    },
+                    {
+                        "name": "cricket building, left of exit window - Gokans Sugar",
+                        "ref": "ST/cricket building, left of exit window/Gokans Sugar"
+                    },
+                    {
+                        "name": "cricket building, left of exit window - Ceramic Shard",
+                        "ref": "ST/cricket building, left of exit window/Ceramic Shard"
+                    },
+                    {
+                        "name": "hidden cliff before Bell Demons Temple idol - White Pinwheel",
+                        "ref": "ST/hidden cliff before Bell Demons Temple idol/White Pinwheel"
+                    },
+                    {
+                        "name": "uphill from Kotaro - Scrap Iron",
+                        "ref": "ST/uphill from Kotaro/Scrap Iron"
+                    },
+                    {
+                        "name": "cliff left of Main Hall - Akos Sugar",
+                        "ref": "ST/cliff left of Main Hall/Akos Sugar"
+                    },
+                    {
+                        "name": "area with kite mechanism - Mibu Balloon of Spirit",
+                        "ref": "ST/area with kite mechanism/Mibu Balloon of Spirit"
+                    },
+                    {
+                        "name": "area with kite mechanism - Gachiins Sugar",
+                        "ref": "ST/area with kite mechanism/Gachiins Sugar"
+                    },
+                    {
+                        "name": "under stairs before Main Hall - Ungos Sugar",
+                        "ref": "ST/under stairs before Main Hall/Ungos Sugar"
+                    },
+                    {
+                        "name": "cliffside temple - Gokans Sugar",
+                        "ref": "ST/cliffside temple/Gokans Sugar"
+                    },
+                    {
+                        "name": "left of Senpou Temple, Mt. Kongo idol building - Gachiins Sugar",
+                        "ref": "ST/left of Senpou Temple, Mt. Kongo idol building/Gachiins Sugar"
+                    },
+                    {
+                        "name": "cave, under tree after exiting - Pellet",
+                        "ref": "ST/cave, under tree after exiting/Pellet"
+                    },
+                    {
+                        "name": "temple grounds side path, top - Pellet",
+                        "ref": "ST/temple grounds side path, top/Pellet"
+                    },
+                    {
+                        "name": "left of broken bridge - Pellet",
+                        "ref": "ST/left of broken bridge/Pellet"
+                    },
+                    {
+                        "name": "along hidden path to Bell Demons Temple idol - Heavy Coin Purse",
+                        "ref": "ST/along hidden path to Bell Demons Temple idol/Heavy Coin Purse"
+                    },
+                    {
+                        "name": "nest before Shugendo Memorial Mob - Ceramic Shard",
+                        "ref": "ST/nest before Shugendo Memorial Mob/Ceramic Shard"
+                    },
+                    {
+                        "name": "cliffside temple #1 - Black Gunpowder",
+                        "ref": "ST/cliffside temple #1/Black Gunpowder"
+                    },
+                    {
+                        "name": "left cliff before cricket building - Mibu Possession Balloon",
+                        "ref": "ST/left cliff before cricket building/Mibu Possession Balloon"
+                    },
+                    {
+                        "name": "temple grounds side path #3 - Mibu Balloon of Spirit",
+                        "ref": "ST/temple grounds side path #3/Mibu Balloon of Spirit"
+                    },
+                    {
+                        "name": "ground before cricket building entrance - Fistful of Ash",
+                        "ref": "ST/ground before cricket building entrance/Fistful of Ash"
+                    },
+                    {
+                        "name": "cliffside right of cricket building, 3-item group - Light Coin Purse",
+                        "ref": "ST/cliffside right of cricket building, 3-item group/Light Coin Purse"
+                    },
+                    {
+                        "name": "right balcony before broken bridge - Ungos Sugar",
+                        "ref": "ST/right balcony before broken bridge/Ungos Sugar"
+                    },
+                    {
+                        "name": "atrium, left side outside the wall - Ceramic Shard",
+                        "ref": "ST/atrium, left side outside the wall/Ceramic Shard"
+                    },
+                    {
+                        "name": "temple grounds side path, broken bridge - Heavy Coin Purse",
+                        "ref": "ST/temple grounds side path, broken bridge/Heavy Coin Purse"
+                    },
+                    {
+                        "name": "stairs before cricket building - Akos Sugar",
+                        "ref": "ST/stairs before cricket building/Akos Sugar"
+                    },
+                    {
+                        "name": "after kite jump - Snap Seed",
+                        "ref": "ST/after kite jump/Snap Seed"
+                    },
+                    {
+                        "name": "cricket building, after grappling - Akos Sugar",
+                        "ref": "ST/cricket building, after grappling/Akos Sugar"
+                    },
+                    {
+                        "name": "cricket building, right of exit - Mibu Balloon of Spirit",
+                        "ref": "ST/cricket building, right of exit/Mibu Balloon of Spirit"
+                    },
+                    {
+                        "name": "room before Bell Demons Temple idol - Black Gunpowder",
+                        "ref": "ST/room before Bell Demons Temple idol/Black Gunpowder"
+                    },
+                    {
+                        "name": "left corner before broken bridge - Antidote Powder",
+                        "ref": "ST/left corner before broken bridge/Antidote Powder"
+                    },
+                    {
+                        "name": "before Sunken Valley Cavern idol - Scrap Magnetite",
+                        "ref": "ST/before Sunken Valley Cavern idol/Scrap Magnetite"
+                    },
+                    {
+                        "name": "next to Temple Grounds idol - Scrap Magnetite",
+                        "ref": "ST/next to Temple Grounds idol/Scrap Magnetite"
+                    },
+                    {
+                        "name": "cliffside temple #2 - Black Gunpowder",
+                        "ref": "ST/cliffside temple #2/Black Gunpowder"
+                    },
+                    {
+                        "name": "Main Hall, behind large statue - Lump of Fat Wax",
+                        "ref": "ST/Main Hall, behind large statue/Lump of Fat Wax"
+                    },
+                    {
+                        "name": "Main Hall, left wing - Pellet",
+                        "ref": "ST/Main Hall, left wing/Pellet"
+                    },
+                    {
+                        "name": "behind Inner Sanctum building - Pellet",
+                        "ref": "ST/behind Inner Sanctum building/Pellet"
+                    },
+                    {
+                        "name": "balcony overlooking carp pond - Fistful of Ash",
+                        "ref": "ST/balcony overlooking carp pond/Fistful of Ash"
+                    },
+                    {
+                        "name": "tree above temple grounds side path - Mibu Possession Balloon",
+                        "ref": "ST/tree above temple grounds side path/Mibu Possession Balloon"
+                    },
+                    {
+                        "name": "atrium, right side near exit - Light Coin Purse",
+                        "ref": "ST/atrium, right side near exit/Light Coin Purse"
+                    },
+                    {
+                        "name": "sloped path, near enemies after bonfire - Ungos Sugar",
+                        "ref": "ST/sloped path, near enemies after bonfire/Ungos Sugar"
+                    },
+                    {
+                        "name": "sloped path, beside bonfire - Fistful of Ash",
+                        "ref": "ST/sloped path, beside bonfire/Fistful of Ash"
+                    },
+                    {
+                        "name": "sloped path. base - Mibu Balloon of Spirit",
+                        "ref": "ST/sloped path. base/Mibu Balloon of Spirit"
+                    },
+                    {
+                        "name": "sloped path, ledge above tall grass - Gokans Sugar",
+                        "ref": "ST/sloped path, ledge above tall grass/Gokans Sugar"
+                    },
+                    {
+                        "name": "Main Hall, amid statues left of idol - Bundled Jizo Statue",
+                        "ref": "ST/Main Hall, amid statues left of idol/Bundled Jizo Statue"
+                    },
+                    {
+                        "name": "temple grounds side path, persimmon tree - Persimmon",
+                        "ref": "ST/temple grounds side path, persimmon tree/Persimmon"
+                    },
+                    {
+                        "name": "Main Hall, held by statue - Dragons Blood Droplet",
+                        "ref": "ST/Main Hall, held by statue/Dragons Blood Droplet"
+                    },
+                    {
+                        "name": "cricket building, behind shrine - Lump of Fat Wax",
+                        "ref": "ST/cricket building, behind shrine/Lump of Fat Wax"
+                    },
+                    {
+                        "name": "near left wall before cricket building - Pacifying Agent",
+                        "ref": "ST/near left wall before cricket building/Pacifying Agent"
+                    },
+                    {
+                        "name": "left of path to cricket building - Pellet",
+                        "ref": "ST/left of path to cricket building/Pellet"
+                    },
+                    {
+                        "name": "roof of mini gate at area start - Light Coin Purse",
+                        "ref": "ST/roof of mini gate at area start/Light Coin Purse"
+                    },
+                    {
+                        "name": "separate stone pillar in Shugendo - Gachiins Sugar",
+                        "ref": "ST/separate stone pillar in Shugendo/Gachiins Sugar"
+                    },
+                    {
+                        "name": "Shugendo, cave path - Mibu Balloon of Spirit",
+                        "ref": "ST/Shugendo, cave path/Mibu Balloon of Spirit"
+                    },
+                    {
+                        "name": "cave, shallow section with puddle - Mibu Balloon of Spirit",
+                        "ref": "ST/cave, shallow section with puddle/Mibu Balloon of Spirit"
+                    },
+                    {
+                        "name": "cliffside right of cricket building #2, 3-item group - Antidote Powder",
+                        "ref": "ST/cliffside right of cricket building #2, 3-item group/Antidote Powder"
+                    },
+                    {
+                        "name": "elevated cliff right of cricket building entrance - Heavy Coin Purse",
+                        "ref": "ST/elevated cliff right of cricket building entrance/Heavy Coin Purse"
+                    },
+                    {
+                        "name": "nest on large tree after cricket building exit - Light Coin Purse",
+                        "ref": "ST/nest on large tree after cricket building exit/Light Coin Purse"
+                    },
+                    {
+                        "name": "broken bridge, enemy drop - Heavy Coin Purse",
+                        "ref": "ST/broken bridge, enemy drop/Heavy Coin Purse"
+                    },
+                    {
+                        "name": "kill 3 enemies outside Main Hall, enemy drop - Bulging Coin Purse",
+                        "ref": "ST/kill 3 enemies outside Main Hall, enemy drop/Bulging Coin Purse"
+                    },
+                    {
+                        "name": "sloped path, enemies after bonfire, enemy drop - Scrap Magnetite",
+                        "ref": "ST/sloped path, enemies after bonfire, enemy drop/Scrap Magnetite"
+                    },
+                    {
+                        "name": "cliffside temple, miniboss drop - Yellow Gunpowder",
+                        "ref": "ST/cliffside temple, miniboss drop/Yellow Gunpowder"
+                    },
+                    {
+                        "name": "cliffside temple, miniboss drop - Prayer Bead",
+                        "ref": "ST/cliffside temple, miniboss drop/Prayer Bead"
+                    },
+                    {
+                        "name": "carp pond, Carp drop #1 - Treasure Carp Scale",
+                        "ref": "ST/carp pond, Carp drop #1/Treasure Carp Scale"
+                    },
+                    {
+                        "name": "carp pond, Carp drop #2 - Treasure Carp Scale",
+                        "ref": "ST/carp pond, Carp drop #2/Treasure Carp Scale"
+                    },
+                    {
+                        "name": "cave, pagoda after exiting - Senpou Esoteric Text",
+                        "ref": "ST/cave, pagoda after exiting/Senpou Esoteric Text"
+                    },
+                    {
+                        "name": "bridge arena, miniboss drop - Shadow",
+                        "ref": "ST/Breath of Nature/bridge arena, miniboss drop/Shadow"
+                    },
+                    {
+                        "name": "cricket building, main room - Gourd Seed",
+                        "ref": "ST/cricket building, main room/Gourd Seed"
+                    },
+                    {
+                        "name": "Halls of Illusion, boss drop - Puppeteer Ninjutsu",
+                        "ref": "ST/Halls of Illusion, boss drop/Puppeteer Ninjutsu"
+                    },
+                    {
+                        "name": "bridge arena, miniboss drop - Prayer Bead",
+                        "ref": "ST/bridge arena, miniboss drop/Prayer Bead"
+                    },
+                    {
+                        "name": "underwater, carp pond - Prayer Bead",
+                        "ref": "ST/underwater, carp pond/Prayer Bead"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1290,
+                        "y": 1118,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "SV",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Gun Fort, under wooden battlement - Pellet",
+                        "ref": "SV/Gun Fort, under wooden battlement/Pellet"
+                    },
+                    {
+                        "name": "Gun Fort, under wooden battlement - Heavy Coin Purse",
+                        "ref": "SV/Gun Fort, under wooden battlement/Heavy Coin Purse"
+                    },
+                    {
+                        "name": "Gun Fort, under wooden battlement - Yellow Gunpowder",
+                        "ref": "SV/Gun Fort, under wooden battlement/Yellow Gunpowder"
+                    },
+                    {
+                        "name": "pond cave, behind giant pillar - Divine Grass",
+                        "ref": "SV/pond cave, behind giant pillar/Divine Grass"
+                    },
+                    {
+                        "name": "Gun Fort approach, right ledge near miniboss - Antidote Powder",
+                        "ref": "SV/Gun Fort approach, right ledge near miniboss/Antidote Powder"
+                    },
+                    {
+                        "name": "before pond cave, near pond - Pacifying Agent",
+                        "ref": "SV/before pond cave, near pond/Pacifying Agent"
+                    },
+                    {
+                        "name": "Gun Fort chasm, dead-end tunnel - Divine Confetti",
+                        "ref": "SV/Gun Fort chasm, dead-end tunnel/Divine Confetti"
+                    },
+                    {
+                        "name": "Gun Fort, along path to cave entrance - Black Gunpowder",
+                        "ref": "SV/Gun Fort, along path to cave entrance/Black Gunpowder"
+                    },
+                    {
+                        "name": "shimmy before Sunken Valley idol - Antidote Powder",
+                        "ref": "SV/shimmy before Sunken Valley idol/Antidote Powder"
+                    },
+                    {
+                        "name": "Gun Fort, ledge left of cave entrance - Gokans Sugar",
+                        "ref": "SV/Gun Fort, ledge left of cave entrance/Gokans Sugar"
+                    },
+                    {
+                        "name": "Gun Fort, stone pillar facing cave entrance - Ungos Sugar",
+                        "ref": "SV/Gun Fort, stone pillar facing cave entrance/Ungos Sugar"
+                    },
+                    {
+                        "name": "Gun Fort approach, slope left of miniboss - Scrap Magnetite",
+                        "ref": "SV/Gun Fort approach, slope left of miniboss/Scrap Magnetite"
+                    },
+                    {
+                        "name": "right of Sunken Valley idol - Scrap Magnetite",
+                        "ref": "SV/right of Sunken Valley idol/Scrap Magnetite"
+                    },
+                    {
+                        "name": "Gun Fort chasm, wooden planks - Mibu Balloon of Soul",
+                        "ref": "SV/Gun Fort chasm, wooden planks/Mibu Balloon of Soul"
+                    },
+                    {
+                        "name": "Gun Fort approach, rightmost ledge overlooking rope bridge - Scrap Magnetite",
+                        "ref": "SV/Gun Fort approach, rightmost ledge overlooking rope bridge/Scrap Magnetite"
+                    },
+                    {
+                        "name": "Gun Fort, right barricade - Black Gunpowder",
+                        "ref": "SV/Gun Fort, right barricade/Black Gunpowder"
+                    },
+                    {
+                        "name": "Gun Fort, ledge behind barricades - Scrap Magnetite",
+                        "ref": "SV/Gun Fort, ledge behind barricades/Scrap Magnetite"
+                    },
+                    {
+                        "name": "Gun Fort, atop wooden battlement - Snap Seed",
+                        "ref": "SV/Gun Fort, atop wooden battlement/Snap Seed"
+                    },
+                    {
+                        "name": "right of Under-Shrine Valley idol - Fistful of Ash",
+                        "ref": "SV/right of Under-Shrine Valley idol/Fistful of Ash"
+                    },
+                    {
+                        "name": "Gun Fort shrine, right of statue - Scrap Magnetite",
+                        "ref": "SV/Gun Fort shrine, right of statue/Scrap Magnetite"
+                    },
+                    {
+                        "name": "right ledge before hidden encampment path - Ceramic Shard",
+                        "ref": "SV/right ledge before hidden encampment path/Ceramic Shard"
+                    },
+                    {
+                        "name": "hidden encampment - Yellow Gunpowder",
+                        "ref": "SV/hidden encampment/Yellow Gunpowder"
+                    },
+                    {
+                        "name": "Gun Fort approach, ground right of miniboss - Fistful of Ash",
+                        "ref": "SV/Gun Fort approach, ground right of miniboss/Fistful of Ash"
+                    },
+                    {
+                        "name": "Gun Fort shrine, below in crawl space - Yellow Gunpowder",
+                        "ref": "SV/Gun Fort shrine, below in crawl space/Yellow Gunpowder"
+                    },
+                    {
+                        "name": "before pond cave, behind frozen waterfall - Pacifying Agent",
+                        "ref": "SV/before pond cave, behind frozen waterfall/Pacifying Agent"
+                    },
+                    {
+                        "name": "Gun Fort chasm, bottom ledge - Contact Medicine",
+                        "ref": "SV/Gun Fort chasm, bottom ledge/Contact Medicine"
+                    },
+                    {
+                        "name": "Gun Fort chasm, bottom ledge - Prayer Bead",
+                        "ref": "SV/Gun Fort chasm, bottom ledge/Prayer Bead"
+                    },
+                    {
+                        "name": "pond cave, behind miniboss - Lump of Grave Wax",
+                        "ref": "SV/pond cave, behind miniboss/Lump of Grave Wax"
+                    },
+                    {
+                        "name": "Gun Fort shrine, miniboss drop - Yellow Gunpowder",
+                        "ref": "SV/Gun Fort shrine, miniboss drop/Yellow Gunpowder"
+                    },
+                    {
+                        "name": "Gun Fort shrine, miniboss drop - Prayer Bead",
+                        "ref": "SV/Gun Fort shrine, miniboss drop/Prayer Bead"
+                    },
+                    {
+                        "name": "Gun Fort, enemy drop - Yellow Gunpowder",
+                        "ref": "SV/Gun Fort, enemy drop/Yellow Gunpowder"
+                    },
+                    {
+                        "name": "pond cave, miniboss drop - Gokans Spiritfall",
+                        "ref": "SV/pond cave, miniboss drop/Gokans Spiritfall"
+                    },
+                    {
+                        "name": "Gun Fort shrine, statue - Large Fan",
+                        "ref": "SV/Gun Fort shrine, statue/Large Fan"
+                    },
+                    {
+                        "name": "behind hidden encampment - Gourd Seed",
+                        "ref": "SV/behind hidden encampment/Gourd Seed"
+                    },
+                    {
+                        "name": "Gun Fort approach, miniboss drop - Prayer Bead",
+                        "ref": "SV/Gun Fort approach, miniboss drop/Prayer Bead"
+                    },
+                    {
+                        "name": "before pond cave, near stone pyramid - Prayer Bead",
+                        "ref": "SV/before pond cave, near stone pyramid/Prayer Bead"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 807,
+                        "y": 1331,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "SVP",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Toxic Memorial Mob - Green Mossy Gourd",
+                        "ref": "SVP/Toxic Memorial Mob/Green Mossy Gourd"
+                    },
+                    {
+                        "name": "Guardian Ape - Memory",
+                        "ref": "SVP/Guardian Ape/Memory"
+                    },
+                    {
+                        "name": "cave behind Guardian Apes Watering Hole idol - Lotus of the Palace",
+                        "ref": "SVP/cave behind Guardian Apes Watering Hole idol/Lotus of the Palace"
+                    },
+                    {
+                        "name": "first left bodhi statue, base - Snap Seed",
+                        "ref": "SVP/first left bodhi statue, base/Snap Seed"
+                    },
+                    {
+                        "name": "ledge under Bodhisattva Valley idol - Mibu Balloon of Soul",
+                        "ref": "SVP/ledge under Bodhisattva Valley idol/Mibu Balloon of Soul"
+                    },
+                    {
+                        "name": "shrine cave, 3-item group - Scrap Magnetite",
+                        "ref": "SVP/shrine cave, 3-item group/Scrap Magnetite"
+                    },
+                    {
+                        "name": "shrine cave, 3-item group - Pellet",
+                        "ref": "SVP/shrine cave, 3-item group/Pellet"
+                    },
+                    {
+                        "name": "shrine cave, 3-item group - Fistful of Ash",
+                        "ref": "SVP/shrine cave, 3-item group/Fistful of Ash"
+                    },
+                    {
+                        "name": "right ledge after Gun Fort shrine - Snap Seed",
+                        "ref": "SVP/right ledge after Gun Fort shrine/Snap Seed"
+                    },
+                    {
+                        "name": "Sunken Valley Cavern, after killing serpent - Dragons Blood Droplet",
+                        "ref": "SVP/Sunken Valley Cavern, after killing serpent/Dragons Blood Droplet"
+                    },
+                    {
+                        "name": "Sunken Valley Cavern, after killing serpent - Bundled Jizo Statue",
+                        "ref": "SVP/Sunken Valley Cavern, after killing serpent/Bundled Jizo Statue"
+                    },
+                    {
+                        "name": "left side ledge opposite of 23-enemy cluster - Ungos Sugar",
+                        "ref": "SVP/left side ledge opposite of 23-enemy cluster/Ungos Sugar"
+                    },
+                    {
+                        "name": "ledge next to 23-enemy cluster - Pacifying Agent",
+                        "ref": "SVP/ledge next to 23-enemy cluster/Pacifying Agent"
+                    },
+                    {
+                        "name": "alcove left of swamp island - Mibu Balloon of Soul",
+                        "ref": "SVP/alcove left of swamp island/Mibu Balloon of Soul"
+                    },
+                    {
+                        "name": "underground shrine, ledge above - Divine Confetti",
+                        "ref": "SVP/underground shrine, ledge above/Divine Confetti"
+                    },
+                    {
+                        "name": "next to Toxic Memorial Mob - Snap Seed",
+                        "ref": "SVP/next to Toxic Memorial Mob/Snap Seed"
+                    },
+                    {
+                        "name": "swamp island, behind right mound - Light Coin Purse",
+                        "ref": "SVP/swamp island, behind right mound/Light Coin Purse"
+                    },
+                    {
+                        "name": "third left bodhi statue, base - Akos Sugar",
+                        "ref": "SVP/third left bodhi statue, base/Akos Sugar"
+                    },
+                    {
+                        "name": "underwater, lake opposite from Riven Cave entrance - Adamantite Scrap",
+                        "ref": "SVP/underwater, lake opposite from Riven Cave entrance/Adamantite Scrap"
+                    },
+                    {
+                        "name": "underwater, lake opposite from Riven Cave entrance - Gachiins Sugar",
+                        "ref": "SVP/underwater, lake opposite from Riven Cave entrance/Gachiins Sugar"
+                    },
+                    {
+                        "name": "swamp island, dead tree - Scrap Magnetite",
+                        "ref": "SVP/swamp island, dead tree/Scrap Magnetite"
+                    },
+                    {
+                        "name": "shrine cave, shortly after entering - Antidote Powder",
+                        "ref": "SVP/shrine cave, shortly after entering/Antidote Powder"
+                    },
+                    {
+                        "name": "shrine cave, under low arch - Fistful of Ash",
+                        "ref": "SVP/shrine cave, under low arch/Fistful of Ash"
+                    },
+                    {
+                        "name": "swamp island, behind left mound - Fulminated Mercury",
+                        "ref": "SVP/swamp island, behind left mound/Fulminated Mercury"
+                    },
+                    {
+                        "name": "underwater, log in middle of lake - Bulging Coin Purse",
+                        "ref": "SVP/underwater, log in middle of lake/Bulging Coin Purse"
+                    },
+                    {
+                        "name": "under Bodhisattva Valley idol in toxic water - Yellow Gunpowder",
+                        "ref": "SVP/under Bodhisattva Valley idol in toxic water/Yellow Gunpowder"
+                    },
+                    {
+                        "name": "swamp below Bodhisattva Valley idol - Heavy Coin Purse",
+                        "ref": "SVP/swamp below Bodhisattva Valley idol/Heavy Coin Purse"
+                    },
+                    {
+                        "name": "underwater, lake between rocks - Yasharikus Sugar",
+                        "ref": "SVP/underwater, lake between rocks/Yasharikus Sugar"
+                    },
+                    {
+                        "name": "in front of broken bodhi head - Pacifying Agent",
+                        "ref": "SVP/in front of broken bodhi head/Pacifying Agent"
+                    },
+                    {
+                        "name": "dropdown after broken bodhi head - Contact Medicine",
+                        "ref": "SVP/dropdown after broken bodhi head/Contact Medicine"
+                    },
+                    {
+                        "name": "behind fallen bodhi statues head - Scrap Magnetite",
+                        "ref": "SVP/behind fallen bodhi statues head/Scrap Magnetite"
+                    },
+                    {
+                        "name": "last upright left bodhi statue, behind - Contact Medicine",
+                        "ref": "SVP/last upright left bodhi statue, behind/Contact Medicine"
+                    },
+                    {
+                        "name": "kill 23-enemy cluster between statues, enemy drop - Monkey Booze",
+                        "ref": "SVP/kill 23-enemy cluster between statues, enemy drop/Monkey Booze"
+                    },
+                    {
+                        "name": "island before Toxic Memorial Mob - Ungos Sugar",
+                        "ref": "SVP/island before Toxic Memorial Mob/Ungos Sugar"
+                    },
+                    {
+                        "name": "shrine cave, late along left wall and up - Scrap Magnetite",
+                        "ref": "SVP/shrine cave, late along left wall and up/Scrap Magnetite"
+                    },
+                    {
+                        "name": "underground shrine, back porch - Mibu Balloon of Soul",
+                        "ref": "SVP/underground shrine, back porch/Mibu Balloon of Soul"
+                    },
+                    {
+                        "name": "underground shrine, statue - Dried Serpent Viscera",
+                        "ref": "SVP/underground shrine, statue/Dried Serpent Viscera"
+                    },
+                    {
+                        "name": "underwater, Guardian Apes Watering Hole - Precious Bait",
+                        "ref": "SVP/underwater, Guardian Apes Watering Hole/Precious Bait"
+                    },
+                    {
+                        "name": "grapple spot above Riven Cave idol - Adamantite Scrap",
+                        "ref": "SVP/grapple spot above Riven Cave idol/Adamantite Scrap"
+                    },
+                    {
+                        "name": "behind 23-enemy cluster - Scrap Iron",
+                        "ref": "SVP/behind 23-enemy cluster/Scrap Iron"
+                    },
+                    {
+                        "name": "Sunken Valley Cavern, lake overlook after killing serpent - Mibu Balloon of Soul",
+                        "ref": "SVP/Sunken Valley Cavern, lake overlook after killing serpent/Mibu Balloon of Soul"
+                    },
+                    {
+                        "name": "underwater, lake at Riven Cave entrance - Treasure Carp Scale",
+                        "ref": "SVP/underwater, lake at Riven Cave entrance/Treasure Carp Scale"
+                    },
+                    {
+                        "name": "Guardian Apes Watering Hole, after killing Giant Carp - Great White Whisker",
+                        "ref": "SVP/Guardian Apes Watering Hole, after killing Giant Carp/Great White Whisker"
+                    },
+                    {
+                        "name": "swamp island, enemy drop - Yellow Gunpowder",
+                        "ref": "SVP/swamp island, enemy drop/Yellow Gunpowder"
+                    },
+                    {
+                        "name": "before Toxic Memorial Mob, enemy drop - Yellow Gunpowder",
+                        "ref": "SVP/before Toxic Memorial Mob, enemy drop/Yellow Gunpowder"
+                    },
+                    {
+                        "name": "Sunken Valley Cavern, plunge kill serpent, enemy drop - Fresh Serpent Viscera",
+                        "ref": "SVP/Sunken Valley Cavern, plunge kill serpent, enemy drop/Fresh Serpent Viscera"
+                    },
+                    {
+                        "name": "underwater, lake far from Riven Cave entrance, Carp drop - Treasure Carp Scale",
+                        "ref": "SVP/underwater, lake far from Riven Cave entrance, Carp drop/Treasure Carp Scale"
+                    },
+                    {
+                        "name": "underwater, lake close to Riven Cave entrance, Carp drop - Treasure Carp Scale",
+                        "ref": "SVP/underwater, lake close to Riven Cave entrance, Carp drop/Treasure Carp Scale"
+                    },
+                    {
+                        "name": "Guardian Apes Watering Hole, boss drop - Slender Finger",
+                        "ref": "SVP/Guardian Apes Watering Hole, boss drop/Slender Finger"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 509,
+                        "y": 2418,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "T",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "miniboss drop - Pellet",
+                        "ref": "T/miniboss drop/Pellet"
+                    },
+                    {
+                        "name": "starting well - Ornamental Letter",
+                        "ref": "T/starting well/Ornamental Letter"
+                    },
+                    {
+                        "name": "moon-view tower, upper floor - Pellet",
+                        "ref": "T/moon-view tower, upper floor/Pellet"
+                    },
+                    {
+                        "name": "ledge under bridge - Pellet",
+                        "ref": "T/ledge under bridge/Pellet"
+                    },
+                    {
+                        "name": "ledge after miniboss - Fistful of Ash",
+                        "ref": "T/ledge after miniboss/Fistful of Ash"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 44,
+                        "y": 1202,
                         "size": 6
                     }
                 ]
