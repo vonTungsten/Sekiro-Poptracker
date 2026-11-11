@@ -1,426 +1,282 @@
 [
     {
-        "name": "gourdseed",
-        "type": "progressive",
-        "loop": false,
-        "allow_disabled": true,
-        "initial_stage_idx": 0,
-        "overlay_align": "right",
-        "stages": [
-            {
-                "name": "gourdseed stage1",
-                "inherit_codes": true,
-                "img": "/images/items/gourdseed.png",
-                "codes": "gourdseed, gourdseed_stage1"
-            },
-            {
-                "name": "gourdseed stage2",
-                "inherit_codes": true,
-                "img": "/images/items/gourdseed.png",
-                "codes": "gourdseed_stage2"
-            },
-            {
-                "name": "gourdseed stage3",
-                "inherit_codes": true,
-                "img": "/images/items/gourdseed.png",
-                "codes": "gourdseed_stage3"
-            }
-        ]
+        "_comment": "Story progress items necessary for Shura ending (i.e. always necessary)"
     },
     {
-        "name": "slenderfinger",
+        "name": "Shinobi Prosthetic",
         "type": "toggle",
-        "img": "images/items/slenderfinger.png",
+        "img": "images/items/story_progress/shura/prosthetic_tool.png",
         "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "slenderfinger"
+        "codes": "prosthetic_tool"
     },
     {
-        "name": "driedserpentviscera",
+        "name": "Young Lord's Bell Charm",
         "type": "toggle",
-        "img": "images/items/driedserpentviscera.png",
+        "img": "images/items/story_progress/shura/young_bell.png",
         "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "driedserpentviscera"
+        "codes": "young_bell"
     },
     {
-        "name": "shinobiprosthetic",
+        "name": "Hidden Temple Key",
         "type": "toggle",
-        "img": "images/items/shinobiprosthetic.png",
+        "img": "images/items/story_progress/shura/hidden_temple_key.png",
         "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "shinobiprosthetic"
+        "codes": "hidden_temple_key"
     },
     {
-        "name": "fathersbellcharm",
+        "name": "Gun Fort Shrine Key",
         "type": "toggle",
-        "img": "images/items/fathersbellcharm.png",
+        "img": "images/items/story_progress/shura/gun_fort_key.png",
         "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "fathersbellcharm"
+        "codes": "gun_fort_key"
     },
     {
-        "name": "robertsfirecrackers",
+        "name": "Mortal Blade",
         "type": "toggle",
-        "img": "images/items/robertsfirecrackers.png",
+        "img": "images/items/story_progress/shura/mortal_blade.png",
         "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "robertsfirecrackers"
+        "codes": "mortal_blade"
     },
     {
-        "name": "sabimaru",
+        "name": "Lotus of the Palace",
         "type": "toggle",
-        "img": "images/items/sabimaru.png",
+        "img": "images/items/story_progress/shura/lotus.png",
         "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "sabimaru"
+        "codes": "lotus"
     },
     {
-        "name": "pineresinember",
+        "name": "Shelter Stone",
         "type": "toggle",
-        "img": "images/items/pineresinember.png",
+        "img": "images/items/story_progress/shura/shelter_stone.png",
         "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "pineresinember"
+        "codes": "shelter_stone"
     },
     {
-        "name": "sakuradroplet",
+        "name": "Mibu Breathing Technique",
         "type": "toggle",
-        "img": "images/items/sakuradroplet.png",
+        "img": "images/items/story_progress/shura/mibu_breathing.png",
         "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "sakuradroplet"
+        "codes": "mibu_breathing"
     },
     {
-        "name": "malcontentsring",
+        "_comment": "Story progress items necessary for non-Shura endings"
+    },
+    {
+        "name": "Aromatic Branch",
         "type": "toggle",
-        "img": "images/items/malcontentsring.png",
+        "img": "images/items/story_progress/full_game/branch.png",
         "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "malcontentsring"
+        "codes": "branch"
     },
     {
-        "name": "hiddentemplekey",
+        "name": "Father's Bell Charm",
         "type": "toggle",
-        "img": "images/items/hiddentemplekey.png",
+        "img": "images/items/story_progress/full_game/fathers_bell_charm.png",
         "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "hiddentemplekey"
+        "codes": "fathers_bell_charm"
     },
     {
-        "name": "senpouesoterictext",
+        "name": "Secret Passage Key",
         "type": "toggle",
-        "img": "images/items/senpouesoterictext.png",
+        "img": "images/items/story_progress/full_game/secret_passage_key.png",
         "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "senpouesoterictext"
+        "codes": "secret_passage_key"
     },
     {
-        "name": "holychapter:dragonsreturn",
+        "name": "Divine Dragon's Tears",
         "type": "toggle",
-        "img": "images/items/holychapter:dragonsreturn.png",
+        "img": "images/items/story_progress/full_game/dragon_tears.png",
         "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "holychapter:dragonsreturn"
+        "codes": "dragon_tears"
     },
     {
-        "name": "secretpassagekey",
+        "_comment": "Apworld 'Additional Progression Blockers'"
+    },
+    {
+        "name": "Ashina Requisitions Whistle",
         "type": "toggle",
-        "img": "images/items/secretpassagekey.png",
+        "img": "images/items/story_progress/ap_extras/whistle.png",
         "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "secretpassagekey"
+        "codes": "whistle"
     },
     {
-        "name": "mistravensfeathers",
+        "name": "Abandoned Dungeon Key",
         "type": "toggle",
-        "img": "images/items/mistravensfeathers.png",
+        "img": "images/items/story_progress/ap_extras/dungeon_key.png",
         "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "mistravensfeathers"
+        "codes": "dungeon_key"
     },
     {
-        "name": "ashinaesoterictext",
+        "name": "Senpou Temple Key",
         "type": "toggle",
-        "img": "images/items/ashinaesoterictext.png",
+        "img": "images/items/story_progress/ap_extras/senpou_key.png",
         "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "ashinaesoterictext"
+        "codes": "senpou_key"
     },
     {
-        "name": "mortalblade",
+        "name": "Ashina Depths Key",
         "type": "toggle",
-        "img": "images/items/mortalblade.png",
+        "img": "images/items/story_progress/ap_extras/depths_key.png",
         "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "mortalblade"
+        "codes": "depths_key"
     },
     {
-        "name": "gunfortshrinekey",
+        "name": "Bell of Dispelling",
         "type": "toggle",
-        "img": "images/items/gunfortshrinekey.png",
+        "img": "images/items/story_progress/ap_extras/disbell.png",
         "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "gunfortshrinekey"
+        "codes": "disbell"
     },
     {
-        "name": "frozentears",
+        "_comment": "Extra items that lead to unmissable, non-story checks"
+    },
+    {
+        "name": "Gatehouse Key",
         "type": "toggle",
-        "img": "images/items/frozentears.png",
+        "img": "images/items/other_checks/unmissable/gatehouse_key.png",
         "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "frozentears"
+        "codes": "gatehouse_key"
     },
     {
-        "name": "prostheticesoterictext",
+        "name": "Puppeteer Ninjutsu",
         "type": "toggle",
-        "img": "images/items/prostheticesoterictext.png",
+        "img": "images/items/other_checks/unmissable/puppeteer.png",
         "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "prostheticesoterictext"
+        "codes": "puppeteer"
     },
     {
-        "name": "shinobiaxeofthemonkey",
+        "name": "Mist Raven's Feathers",
         "type": "toggle",
-        "img": "images/items/shinobiaxeofthemonkey.png",
+        "img": "images/items/other_checks/unmissable/mist_raven_feathers.png",
         "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "shinobiaxeofthemonkey"
+        "codes": "mist_raven_feathers"
     },
     {
-        "name": "divinedragonstears",
+        "name": "Slender Finger",
         "type": "toggle",
-        "img": "images/items/divinedragonstears.png",
+        "img": "images/items/other_checks/unmissable/slender_finger.png",
         "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "divinedragonstears"
+        "codes": "slender_finger"
     },
     {
-        "name": "largefan",
+        "name": "Water of the Palace",
         "type": "toggle",
-        "img": "images/items/largefan.png",
+        "img": "images/items/other_checks/unmissable/water_of_the_palace.png",
         "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "largefan"
+        "codes": "water_of_the_palace"
     },
     {
-        "name": "gyoubusbrokenhorn",
+        "name": "Precious Bait",
+        "type": "consumable",
+        "img": "images/items/other_checks/unmissable/precious_bait.png",
+        "initial_quantity": 0,
+        "max_quantity": 5,
+        "increment": 1,
+        "overlay_background": "#000000",
+        "codes": "precious_bait"
+    },
+    {
+        "name": "Treasure Carp Scale",
+        "type": "consumable",
+        "img": "images/items/other_checks/unmissable/treasure_carp_scale.png",
+        "initial_quantity": 0,
+        "max_quantity": 40,
+        "increment": 1,
+        "overlay_background": "#000000",
+        "codes": "treasure_carp_scale"
+    },
+    {
+        "_comment": "Extra items that lead to missable, non-story checks"
+    },
+    {
+        "name": "Persimmon",
         "type": "toggle",
-        "img": "images/items/gyoubusbrokenhorn.png",
+        "img": "images/items/other_checks/missable/persimmon.png",
         "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "gyoubusbrokenhorn"
+        "codes": "persimmon"
     },
     {
-        "name": "younglordsbellcharm",
+        "name": "Taro Persimmon",
         "type": "toggle",
-        "img": "images/items/younglordsbellcharm.png",
+        "img": "images/items/other_checks/missable/taro_persimmon.png",
         "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "younglordsbellcharm"
+        "codes": "taro_persimmon"
     },
     {
-        "name": "shelterstone",
+        "name": "Holy Chapter: Infested",
         "type": "toggle",
-        "img": "images/items/shelterstone.png",
+        "img": "images/items/other_checks/missable/holy_chapter_infested.png",
         "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "shelterstone"
+        "codes": "holy_chapter_infested"
     },
     {
-        "name": "aromaticbranch",
+        "name": "Fresh Serpent Viscera",
         "type": "toggle",
-        "img": "images/items/aromaticbranch.png",
+        "img": "images/items/other_checks/missable/fresh_viscera.png",
         "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "aromaticbranch"
+        "codes": "fresh_viscera"
     },
     {
-        "name": "aromaticflower",
+        "name": "Dried Serpent Viscera",
         "type": "toggle",
-        "img": "images/items/aromaticflower.png",
+        "img": "images/items/other_checks/missable/dried_viscera.png",
         "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "aromaticflower"
+        "codes": "dried_viscera"
     },
     {
-        "name": "freshserpentviscera",
+        "name": "Great White Whisker",
         "type": "toggle",
-        "img": "images/items/freshserpentviscera.png",
+        "img": "images/items/other_checks/missable/whisker.png",
         "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "freshserpentviscera"
+        "codes": "whisker"
     },
     {
-        "name": "puppeteerninjutsu",
+        "name": "Truly Precious Bait (Harunaga)",
         "type": "toggle",
-        "img": "images/items/puppeteerninjutsu.png",
+        "img": "images/items/other_checks/missable/truly_precious_bait_h.png",
         "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "puppeteerninjutsu"
+        "codes": "truly_precious_bait_h"
     },
     {
-        "name": "bloodsmokeninjutsu",
+        "name": "Truly Precious Bait (Koremori)",
         "type": "toggle",
-        "img": "images/items/bloodsmokeninjutsu.png",
+        "img": "images/items/other_checks/missable/truly_precious_bait_k.png",
         "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bloodsmokeninjutsu"
+        "codes": "truly_precious_bait_k"
     },
     {
-        "name": "holychapter:infested",
+        "name": "Rice for Kuro",
         "type": "toggle",
-        "img": "images/items/holychapter:infested.png",
+        "img": "images/items/other_checks/missable/rice_for_kuro.png",
         "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "holychapter:infested"
+        "codes": "rice_for_kuro"
     },
     {
-        "name": "lotusofthepalace",
+        "name": "Red Carp Eyes",
         "type": "toggle",
-        "img": "images/items/lotusofthepalace.png",
+        "img": "images/items/other_checks/missable/red_carp_eyes.png",
         "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "lotusofthepalace"
+        "codes": "red_carp_eyes"
     },
     {
-        "name": "mechanicalbarrel",
+        "name": "White Pinwheel",
         "type": "toggle",
-        "img": "images/items/mechanicalbarrel.png",
+        "img": "images/items/other_checks/missable/white_pinwheel.png",
         "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "mechanicalbarrel"
+        "codes": "white_pinwheel"
     },
     {
-        "name": "abandoneddungeonkey",
+        "name": "Large Fan",
         "type": "toggle",
-        "img": "images/items/abandoneddungeonkey.png",
+        "img": "images/items/other_checks/missable/large_fan.png",
         "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "abandoneddungeonkey"
+        "codes": "large_fan"
     },
     {
-        "name": "phantomkunai",
+        "name": "Ashina Esoteric Text",
         "type": "toggle",
-        "img": "images/items/phantomkunai.png",
+        "img": "images/items/other_checks/missable/ashina_eso_text.png",
         "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "phantomkunai"
-    },
-    {
-        "name": "ashinadepths(poisonpool)key",
-        "type": "toggle",
-        "img": "images/items/ashinadepths(poisonpool)key.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "ashinadepths(poisonpool)key"
-    },
-    {
-        "name": "mibubreathingtechnique",
-        "type": "toggle",
-        "img": "images/items/mibubreathingtechnique.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "mibubreathingtechnique"
-    },
-    {
-        "name": "senpoutemplekey",
-        "type": "toggle",
-        "img": "images/items/senpoutemplekey.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "senpoutemplekey"
-    },
-    {
-        "name": "ironfortress",
-        "type": "toggle",
-        "img": "images/items/ironfortress.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "ironfortress"
-    },
-    {
-        "name": "gatehousekey",
-        "type": "toggle",
-        "img": "images/items/gatehousekey.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "gatehousekey"
-    },
-    {
-        "name": "mushinesoterictext",
-        "type": "toggle",
-        "img": "images/items/mushinesoterictext.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "mushinesoterictext"
-    },
-    {
-        "name": "bellofdispelling(sunkenvalleykey)",
-        "type": "toggle",
-        "img": "images/items/bellofdispelling(sunkenvalleykey).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bellofdispelling(sunkenvalleykey)"
-    },
-    {
-        "name": "prayerbead",
-        "type": "progressive",
-        "loop": false,
-        "allow_disabled": true,
-        "initial_stage_idx": 0,
-        "overlay_align": "right",
-        "stages": [
-            {
-                "name": "prayerbead stage1",
-                "inherit_codes": true,
-                "img": "/images/items/prayerbead.png",
-                "codes": "prayerbead, prayerbead_stage1"
-            },
-            {
-                "name": "prayerbead stage2",
-                "inherit_codes": true,
-                "img": "/images/items/prayerbead.png",
-                "codes": "prayerbead_stage2"
-            },
-            {
-                "name": "prayerbead stage3",
-                "inherit_codes": true,
-                "img": "/images/items/prayerbead.png",
-                "codes": "prayerbead_stage3"
-            }
-        ]
-    },
-    {
-        "name": "shurikenwheel",
-        "type": "toggle",
-        "img": "images/items/shurikenwheel.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "shurikenwheel"
-    },
-    {
-        "name": "bestowalninjutsu",
-        "type": "toggle",
-        "img": "images/items/bestowalninjutsu.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bestowalninjutsu"
-    },
-    {
-        "name": "flamebarrel",
-        "type": "toggle",
-        "img": "images/items/flamebarrel.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "flamebarrel"
-    },
-    {
-        "name": "update",
-        "type": "toggle",
-        "img": "images/items/update.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "update"
+        "codes": "ashina_eso_text"
     }
 ]
