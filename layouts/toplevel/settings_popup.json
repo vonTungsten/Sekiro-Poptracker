@@ -1,0 +1,49 @@
+{
+    "settings_popup": {
+        "background": "#000000",
+        "type": "array",
+        "margin": 5,
+        "content": [
+            {
+                "type": "group",
+                "header": "Apworld Settings",
+                "dock": "bottom",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_size": "5, 5",
+                        "item_margin": "2, 2",
+                        "item_h_alignment": "center",
+                        "h_alignment": "left",
+                        "rows": [
+                            [
+                                "setting_region_locks",
+                                "setting_carpsanity",
+                                "setting_goal_option"
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "group",
+                "header": "Poptracker Settings",
+                "dock": "bottom",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_size": "5, 5",
+                        "item_margin": "2, 2",
+                        "item_h_alignment": "center",
+                        "h_alignment": "left",
+                        "rows": [
+                            [
+                                "setting_show_missable"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -5,14 +5,26 @@
     "package_uid": "sekiro: shadows die twice_ap",
     "author": "builder_script",
     "variants": {
-        "Map Tracker": {
-            "display_name": "Map Tracker",
+        "items_only_horizontal": {
+            "display_name": "Items Only (Horizontal)",
             "flags": [
                 "ap"
             ]
         },
-        "Items Only": {
-            "display_name": "Items Only",
+        "items_only_vertical": {
+            "display_name": "Items Only (Vertical)",
+            "flags": [
+                "ap"
+            ]
+        },
+        "map_tracker_horizontal": {
+            "display_name": "Map Tracker (Horizontal)",
+            "flags": [
+                "ap"
+            ]
+        },
+        "map_tracker_vertical": {
+            "display_name": "Map Tracker (Vertical)",
             "flags": [
                 "ap"
             ]

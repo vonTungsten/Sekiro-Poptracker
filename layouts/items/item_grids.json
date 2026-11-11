@@ -1,0 +1,167 @@
+{
+    "shura_item_grid_vertical": {
+        "type": "itemgrid",
+        "item_size": "4, 4",
+        "item_margin": "1, 1",
+        "h_alignment": "left",
+        "rows": [
+            [
+                "prosthetic_tool",
+                "young_bell",
+                "hidden_temple_key",
+                "gun_fort_key"
+            ],
+            [
+                "mortal_blade",
+                "lotus",
+                "shelter_stone",
+                "mibu_breathing"
+            ]
+        ]
+    },
+    "shura_item_grid_horizontal": {
+        "type": "layout",
+        "key": "shura_item_grid_vertical"
+    },
+    "full_game_item_grid_horizontal": {
+        "type": "itemgrid",
+        "item_size": "4, 4",
+        "item_margin": "1, 1",
+        "h_alignment": "left",
+        "rows": [
+            [
+                "branch",
+                "fathers_bell_charm"
+            ],
+            [
+                "secret_passage_key",
+                "dragon_tears"
+            ]
+        ]
+    },
+    "full_game_item_grid_vertical": {
+        "type": "itemgrid",
+        "item_size": "4, 4",
+        "item_margin": "1, 1",
+        "h_alignment": "left",
+        "rows": [
+            [
+                "branch",
+                "fathers_bell_charm",
+                "secret_passage_key",
+                "dragon_tears"
+            ]
+        ]
+    },
+    "region_lock_item_grid_horizontal": {
+        "type": "itemgrid",
+        "item_size": "4, 4",
+        "item_margin": "1, 1",
+        "h_alignment": "left",
+        "rows": [
+            [
+                "whistle",
+                "dungeon_key",
+                "senpou_key"
+            ],
+            [
+                "depths_key",
+                "disbell"
+            ]
+        ]
+    },
+    "region_lock_item_grid_vertical": {
+        "type": "itemgrid",
+        "item_size": "4, 4",
+        "item_margin": "1, 1",
+        "h_alignment": "left",
+        "rows": [
+            [
+                "whistle",
+                "dungeon_key",
+                "senpou_key",
+                "depths_key"
+            ],
+            [
+                "disbell"
+            ]
+        ]
+    },
+    "unmissable_other_item_grid_horizontal": {
+        "type": "itemgrid",
+        "item_size": "4, 4",
+        "item_margin": "1, 1",
+        "h_alignment": "left",
+        "rows": [
+            [
+                "gatehouse_key",
+                "puppeteer",
+                "mist_raven_feathers",
+                "slender_finger"
+            ],
+            [
+                "water_of_the_palace",
+                "precious_bait",
+                "treasure_carp_scale"
+            ]
+        ]
+    },
+    "unmissable_other_item_grid_vertical": {
+        "type": "layout",
+        "key": "unmissable_other_item_grid_horizontal"
+    },
+    "missable_other_item_grid_horizontal": {
+        "type": "itemgrid",
+        "item_size": "4, 4",
+        "item_margin": "1, 1",
+        "h_alignment": "left",
+        "rows": [
+            [
+                "ashina_eso_text",
+                "persimmon",
+                "taro_persimmon",
+                "holy_chapter_infested",
+                "fresh_viscera",
+                "dried_viscera",
+                "rice_for_kuro"
+            ],
+            [
+                "whisker",
+                "truly_precious_bait_h",
+                "truly_precious_bait_k",
+                "red_carp_eyes",
+                "white_pinwheel",
+                "large_fan"
+            ]
+        ]
+    },
+    "missable_other_item_grid_vertical": {
+        "type": "itemgrid",
+        "item_size": "4, 4",
+        "item_margin": "1, 1",
+        "h_alignment": "left",
+        "rows": [
+            [
+                "ashina_eso_text",
+                "persimmon",
+                "taro_persimmon",
+                "holy_chapter_infested"
+            ],
+            [
+                "fresh_viscera",
+                "dried_viscera",
+                "rice_for_kuro",
+                "whisker"
+            ],
+            [
+                "truly_precious_bait_h",
+                "truly_precious_bait_k",
+                "red_carp_eyes",
+                "white_pinwheel"
+            ],
+            [
+                "large_fan"
+            ]
+        ]
+    }
+}

@@ -229,13 +229,17 @@ function onClear(slot_data)
             end
         end
     end
+    SLOT_DATA = slot_data
+    SD_OPTIONS = SLOT_DATA['options']
+
+    -- Check multiworld for settings
+    Tracker:FindObjectForCode("setting_region_locks").Active = SD_OPTIONS['additional_region_locks'] == 1
+    Tracker:FindObjectForCode("setting_carpsanity").Active = SD_OPTIONS['carpsanity'] == 1
+    Tracker:FindObjectForCode("setting_goal_option").CurrentStage = SD_OPTIONS['goal_option']
+
     PLAYER_ID = Archipelago.PlayerNumber or -1
     TEAM_NUMBER = Archipelago.TeamNumber or 0
-    SLOT_DATA = slot_data
-    -- if Tracker:FindObjectForCode("autofill_settings").Active == true then
-    --     autoFill(slot_data)
-    -- end
-    -- print(PLAYER_ID, TEAM_NUMBER)
+
     if Archipelago.PlayerNumber > -1 then
         if #ALL_LOCATIONS > 0 then
             ALL_LOCATIONS = {}

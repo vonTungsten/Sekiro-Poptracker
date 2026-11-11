@@ -1,0 +1,122 @@
+{
+    "progress_items_array_horizontal": {
+        "type": "group",
+        "header": "Story Progression Items",
+        "content": {
+            "type": "array",
+            "orientation": "horizontal",
+            "content": [
+                {
+                    "type": "group",
+                    "header": "Shura Ending+",
+                    "content": {
+                        "type": "layout",
+                        "key": "shura_item_grid_horizontal"
+                    }
+                },
+                {
+                    "type": "group",
+                    "header": "Full Game",
+                    "content": {
+                        "type": "layout",
+                        "key": "full_game_item_grid_horizontal"
+                    }
+                },
+                {
+                    "type": "group",
+                    "header": "AP Extras",
+                    "content": {
+                        "type": "layout",
+                        "key": "region_lock_item_grid_horizontal"
+                    }
+                }
+            ]
+        }
+    },
+    "progress_items_array_vertical": {
+        "type": "group",
+        "header": "Story Progress Items",
+        "content": {
+            "type": "array",
+            "orientation": "vertical",
+            "content": [
+                {
+                    "type": "group",
+                    "header": "Shura Ending+",
+                    "content": {
+                        "type": "layout",
+                        "key": "shura_item_grid_vertical"
+                    }
+                },
+                {
+                    "type": "group",
+                    "header": "Full Game",
+                    "content": {
+                        "type": "layout",
+                        "key": "full_game_item_grid_vertical"
+                    }
+                },
+                {
+                    "type": "group",
+                    "header": "AP Extras",
+                    "content": {
+                        "type": "layout",
+                        "key": "region_lock_item_grid_vertical"
+                    }
+                }
+            ]
+        }
+    },
+    "other_items_array_horizontal": {
+        "type": "group",
+        "header": "Other Location Unlock Items",
+        "content": {
+            "type": "array",
+            "orientation": "horizontal",
+            "content": [
+                {
+                    "type": "group",
+                    "header": "Unlock Unmissable Locations",
+                    "content": {
+                        "type": "layout",
+                        "key": "unmissable_other_item_grid_horizontal"
+                    }
+                },
+                {
+                    "type": "group",
+                    "header": "Unlock Missable Locations",
+                    "content": {
+                        "type": "layout",
+                        "key": "missable_other_item_grid_horizontal"
+                    }
+                }
+            ]
+        }
+    },
+    "other_items_array_vertical": {
+        "type": "group",
+        "header": "Other Location Unlock Items",
+        "content": {
+            "type": "array",
+            "orientation": "vertical",
+            "content": [
+                {
+                    "type": "group",
+                    "header": "Unlock Unmissable Locations",
+                    "content": {
+                        "type": "layout",
+                        "key": "unmissable_other_item_grid_vertical"
+                    }
+                },
+                {
+                    "type": "group",
+                    "header": "Unlock Missable Locations",
+                    "content": {
+                        "type": "layout",
+                        "key": "missable_other_item_grid_vertical"
+                    }
+                }
+            ]
+        }
+    }
+}
