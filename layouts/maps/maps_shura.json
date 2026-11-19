@@ -1,3 +1,5 @@
+// TODO: Add to this list of maps to include everything as locations/logic are added
+// FIXME: Include all (finished) Shura ending maps (currently missing some to prove the layout changes work)
 {
   "tabbed_maps": {
     "type": "tabbed",
@@ -44,24 +46,6 @@
           "type": "map",
           "maps": [
             "AC_Inside"
-          ]
-        }
-      },
-      {
-        "title": "Hirata Estate (Dragonspring)",
-        "content": {
-          "type": "map",
-          "maps": [
-            "HE1"
-          ]
-        }
-      },
-      {
-        "title": "Hirata Estate (Estate)",
-        "content": {
-          "type": "map",
-          "maps": [
-            "HE2"
           ]
         }
       }

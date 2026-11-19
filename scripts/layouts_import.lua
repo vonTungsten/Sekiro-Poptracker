@@ -1,9 +1,9 @@
 Tracker:AddLayouts("layouts/toplevel/settings_popup.json")
 Tracker:AddLayouts("layouts/items/item_grids.json")
-Tracker:AddLayouts("layouts/items/item_arrays.json")
+Tracker:AddLayouts("layouts/items/item_arrays_full_game_ap_extras_missable.json")
 
 if (string.find(Tracker.ActiveVariantUID, "map")) then
-    Tracker:AddLayouts("layouts/maps/maps.json")
+    Tracker:AddLayouts("layouts/maps/maps_full_game.json")
 end
 
 if (string.find(Tracker.ActiveVariantUID, "vertical")) then

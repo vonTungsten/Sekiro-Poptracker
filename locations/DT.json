@@ -16,28 +16,41 @@
                 "access_rules": [
                     " "
                 ],
+                // FIXME: Remove "setting_show_missable" and "treasure_carp_scale" rules from below; 
+                // currently included to demonstrate functionality.
+                "visibility_rules": [
+                    "setting_show_missable"
+                ],
                 "sections": [
                     {
                         "name": "Gourd Seed",
-                        "access_rules": [],
+                        "access_rules": [
+                            "treasure_carp_scale:2"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Sabimaru Memo",
-                        "access_rules": [],
+                        "access_rules": [
+                            "treasure_carp_scale:4"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Three-story Pagoda Memo",
-                        "access_rules": [],
+                        "access_rules": [
+                            "treasure_carp_scale:6"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Valley Apparitions Memo",
-                        "access_rules": [],
+                        "access_rules": [
+                            "treasure_carp_scale:8"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }

@@ -23,6 +23,7 @@ Releases follow semantic versioning:
     - Added all items that either give story progress or can unlock new location checks.
     - Added apworld/poptracker settings.
     - Added vertical and horizontal layouts, with and without maps.
+    - Hide elements of the layout based on settings.
 
   ### Changed
   -
