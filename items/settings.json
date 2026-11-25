@@ -1,0 +1,51 @@
+[
+    {
+        "_comment": "Apworld settings, configured when making the multiworld"
+    },
+    {
+        "name": "Additional Progression Blockers",
+        "type": "toggle",
+        "img": "images/items/story_progress/ap_extras/whistle.png",
+        "initial_active_state": true,
+        "codes": "setting_region_locks"
+    },
+    {
+        "name": "Carpsanity",
+        "type": "toggle",
+        "img": "images/items/other_checks/unmissable/treasure_carp_scale.png",
+        "initial_active_state": false,
+        "codes": "setting_carpsanity"
+    },
+    {
+        "name": "Goal Option",
+        "type": "progressive",
+        "allow_disabled": false,
+        "loop": true,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "name": "Goal: Full Game",
+                "codes": "goal_full_game",
+                "img": "images/items/settings/full_game.png",
+                "inherit_codes": false
+            },
+            {
+                "name": "Goal: Shura",
+                "codes": "goal_shura",
+                "img": "images/items/settings/shura.png",
+                "inherit_codes": false
+            }
+        ],
+        "codes": "setting_goal_option"
+    },
+    {
+        "_comment": "Poptracker settings, don't affect location accessibility logic, only visibility"
+    },
+    {
+        "name": "Show Missable Locations",
+        "type": "toggle",
+        "img": "images/items/settings/missed.png",
+        "initial_active_state": true,
+        "codes": "setting_show_missable"
+    }
+]

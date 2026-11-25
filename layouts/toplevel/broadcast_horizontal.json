@@ -1,0 +1,16 @@
+{
+    "tracker_broadcast": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "layout",
+                "key": "progress_items_array_horizontal"
+            },
+            {
+                "type": "layout",
+                "key": "other_items_array_horizontal"
+            }
+        ]
+    }
+}

@@ -1,6 +1,3 @@
-
-local variant = Tracker.ActiveVariantUID
-
 -- Items
 require("scripts/items_import")
 
@@ -10,14 +7,8 @@ require("scripts/logic/base_logic")
 require("scripts/logic/graph_logic/logic_main")
 
 -- Maps
-if Tracker.ActiveVariantUID == "maps-u" then
-    Tracker:AddMaps("maps/maps-u.json")  
-else
-    Tracker:AddMaps("maps/maps.json")  
-end  
-
-if PopVersion and PopVersion >= "0.23.0" then
-    Tracker:AddLocations("locations/dungeons.json")
+if (string.find(Tracker.ActiveVariantUID, "map")) then
+    Tracker:AddMaps("maps/maps.json")
 end
 
 -- Layout
@@ -39,6 +30,7 @@ function OnFrameHandler()
     CreateLuaManualStorageItem("manual_location_storage")
     ForceUpdate()
 end
+
 require("scripts/luaitems")
 require("scripts/watches")
 ScriptHost:AddOnFrameHandler("load handler", OnFrameHandler)
